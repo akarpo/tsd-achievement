@@ -37,7 +37,7 @@ chmod +x rebuild.command   # one-time
 ./rebuild.command
 ```
 
-This regenerates `Achievement/G3-G7_Achievement_Data.xlsx` directly at the repo root. The dashboard `index.html` is static and edited by hand.
+This regenerates both `Achievement/G3-G7_Achievement_Data.xlsx` and the embedded JSON payload in `Achievement/index.html` at the repo root. The dashboard's CSS, JS, and slicer defaults stay put — only the data payload is replaced. Edit `index.html` directly to change UI or defaults.
 
 ## What was wrong (Bellevue fix — 2026-04-28)
 

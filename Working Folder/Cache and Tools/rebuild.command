@@ -1,15 +1,19 @@
 #!/bin/bash
-# rebuild.command — Regenerate G3-G7_Achievement_Data.xlsx from the corrected
-# master_demographics.csv. The xlsx is written directly to the git repo root —
-# there's no longer a canonical copy in Cache and Tools/dashboard/ or a handoff
-# copy in Working Folder/. The repo root is the only place generated artifacts live.
+# rebuild.command — Regenerate both deliverables from the corrected
+# master_demographics.csv. Both artifacts are written directly to the git repo
+# root — there is no canonical copy in Cache and Tools/ and no handoff copy in
+# Working Folder/. The repo root is the only place generated artifacts live.
 #
 # Lives in:  Working Folder/Cache and Tools/
 # Reads:     Cache and Tools/extracted_data/master_demographics.csv
-# Writes:    REPO_ROOT/G3-G7_Achievement_Data.xlsx          (the only copy)
+# Writes:    REPO_ROOT/G3-G7_Achievement_Data.xlsx
+#            REPO_ROOT/index.html  (in place — only the embedded JSON payload changes;
+#                                   CSS / JS / slicer defaults are preserved)
 #
-# Note: index.html is NOT rebuilt by this script — it's a static file at the
-# repo root with embedded JSON, edited directly when defaults need to change.
+# Pipeline:
+#   1. build_master_xlsx.py             master CSV → xlsx
+#   2. build_demographics_dashboard.py  master CSV → extracted_data/g3g7_data.json
+#   3. update_index_html.py             g3g7_data.json → embedded payload in index.html
 #
 # Double-click in Finder, or invoke from Terminal:
 #   bash "rebuild.command"
@@ -28,14 +32,20 @@ if [ ! -f "$HERE/extracted_data/master_demographics.csv" ]; then
   exit 1
 fi
 
-echo "[1/2] Ensuring openpyxl is installed..."
+echo "[1/4] Ensuring openpyxl is installed..."
 python3 -m pip install openpyxl --quiet --break-system-packages 2>/dev/null || \
   python3 -m pip install openpyxl --quiet --user 2>/dev/null || \
   echo "(openpyxl install attempt skipped — assuming it's already available)"
 
-echo "[2/2] Regenerating xlsx directly into repo root..."
+echo "[2/4] Regenerating xlsx into repo root..."
 python3 "$HERE/build_master_xlsx.py"
 
+echo "[3/4] Rebuilding dashboard JSON from master CSV..."
+python3 "$HERE/build_demographics_dashboard.py"
+
+echo "[4/4] Updating embedded payload in index.html..."
+python3 "$HERE/update_index_html.py"
+
 echo
-echo "Done. The xlsx is now at:"
-ls -la "$REPO_ROOT/G3-G7_Achievement_Data.xlsx"
+echo "Done. Deliverables at repo root:"
+ls -la "$REPO_ROOT/G3-G7_Achievement_Data.xlsx" "$REPO_ROOT/index.html"
