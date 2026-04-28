@@ -1,0 +1,322 @@
+year,subject,subgroup,n_advanced_proficient,n_total_tested,pct_proficient,grade,note
+2025,ELA,American Indian,,,,3,masked
+2025,ELA,Asian,204,356,57.3,3,
+2025,ELA,Black/African American,18,48,37.5,3,
+2025,ELA,Hispanic/Latino,25,44,56.8,3,
+2025,ELA,Two or More Races,24,39,61.5,3,
+2025,ELA,White,258,368,70.1,3,
+2024,ELA,Asian,222,312,71.2,3,
+2024,ELA,Black/African American,14,44,31.8,3,
+2024,ELA,Hispanic/Latino,26,46,56.5,3,
+2024,ELA,Pacific Islander,,,,3,masked
+2024,ELA,Two or More Races,34,45,75.6,3,
+2024,ELA,White,219,368,59.5,3,
+2023,ELA,Asian,225,286,78.7,3,partial-row only seen
+2023,ELA,Black/African American,15,38,39.5,3,
+2023,ELA,Hispanic/Latino,28,48,58.3,3,
+2023,ELA,Two or More Races,43,65,66.2,3,
+2023,ELA,White,225,376,59.8,3,
+2022,ELA,Asian,275,353,77.9,3,
+2022,ELA,Black/African American,12,32,37.5,3,
+2022,ELA,Hispanic/Latino,20,39,51.3,3,
+2022,ELA,Pacific Islander,,,,3,masked
+2022,ELA,Two or More Races,19,28,67.9,3,
+2022,ELA,White,242,371,65.2,3,
+2021,ELA,American Indian,,,,3,masked
+2021,ELA,Asian,151,198,76.3,3,
+2025,Math,American Indian,,,,3,masked
+2025,Math,Asian,258,291,88.7,3,
+2025,Math,Black/African American,20,48,41.7,3,
+2025,Math,Hispanic/Latino,32,47,68.1,3,
+2025,Math,Two or More Races,25,39,64.1,3,
+2025,Math,White,284,370,76.8,3,
+2024,Math,Asian,274,323,84.8,3,
+2024,Math,Black/African American,14,44,31.8,3,
+2024,Math,Hispanic/Latino,27,46,58.7,3,
+2024,Math,Pacific Islander,,,,3,masked
+2024,Math,Two or More Races,31,45,68.9,3,
+2024,Math,White,254,371,68.5,3,
+2025,ELA,Asian,229,319,71.8,4,
+2025,ELA,Black/African American,15,42,35.7,4,
+2025,ELA,Hispanic/Latino,27,47,57.4,4,
+2025,ELA,Pacific Islander,,,,4,masked
+2025,ELA,Two or More Races,38,51,74.5,4,
+2025,ELA,White,242,373,64.9,4,
+2024,ELA,Asian,229,296,77.4,4,
+2024,ELA,Black/African American,15,43,34.9,4,
+2024,ELA,Hispanic/Latino,28,49,57.1,4,
+2024,ELA,Two or More Races,41,62,66.1,4,
+2024,ELA,White,242,381,63.5,4,
+2025,Math,Asian,261,328,79.6,4,
+2025,Math,Black/African American,11,42,26.2,4,
+2025,Math,Hispanic/Latino,26,48,54.2,4,
+2025,Math,Pacific Islander,,,,4,masked
+2025,Math,Two or More Races,33,52,63.5,4,
+2025,Math,White,226,376,60.1,4,
+2024,Math,Asian,257,310,82.9,4,
+2024,Math,Black/African American,15,45,33.3,4,
+2024,Math,Hispanic/Latino,27,52,51.9,4,
+2024,Math,Two or More Races,45,62,72.6,4,
+2024,Math,White,242,382,63.4,4,
+2025,ELA,Asian,241,317,76.0,5,
+2025,ELA,Black/African American,23,45,51.1,5,
+2025,ELA,Hispanic/Latino,28,52,53.8,5,
+2025,ELA,Two or More Races,43,61,70.5,5,
+2025,ELA,White,248,384,64.6,5,
+2024,ELA,Asian,292,375,77.9,5,
+2024,ELA,Black/African American,,,,5,masked
+2024,ELA,Hispanic/Latino,27,55,49.1,5,
+2024,ELA,Pacific Islander,,,,5,masked
+2024,ELA,Two or More Races,21,31,67.7,5,
+2024,ELA,White,255,375,68.0,5,
+2023,ELA,American Indian,,,,5,masked
+2023,ELA,Asian,310,373,83.1,5,
+2023,ELA,Black/African American,17,40,42.5,5,
+2023,ELA,Hispanic/Latino,21,37,56.8,5,
+2023,ELA,Pacific Islander,,,,5,masked
+2023,ELA,Two or More Races,27,34,79.4,5,
+2023,ELA,White,277,433,64.0,5,
+2022,ELA,Asian,297,352,84.4,5,
+2022,ELA,Black/African American,17,49,34.7,5,
+2022,ELA,Hispanic/Latino,26,42,61.9,5,
+2022,ELA,Pacific Islander,,,,5,masked
+2022,ELA,Two or More Races,22,38,57.9,5,
+2022,ELA,White,303,436,69.5,5,
+2019,ELA,American Indian,,,,5,masked
+2019,ELA,Asian,335,389,86.1,5,
+2019,ELA,Black/African American,18,47,38.3,5,
+2019,ELA,Hispanic/Latino,18,32,56.3,5,
+2019,ELA,Pacific Islander,,,,5,masked
+2019,ELA,Two or More Races,,,,5,masked
+2019,ELA,White,324,464,69.8,5,
+2025,Math,Asian,253,323,78.3,5,
+2025,Math,Black/African American,12,45,26.7,5,
+2025,Math,Hispanic/Latino,29,56,51.8,5,
+2025,Math,Two or More Races,40,61,65.6,5,
+2025,Math,White,235,384,61.2,5,
+2024,Math,Asian,306,391,78.3,5,
+2024,Math,Black/African American,,,,5,masked
+2024,Math,Hispanic/Latino,31,59,52.5,5,
+2024,Math,Pacific Islander,,,,5,masked
+2024,Math,Two or More Races,18,31,58.1,5,
+2024,Math,White,219,376,58.2,5,
+2023,Math,American Indian,,,,5,masked
+2023,Math,Asian,305,385,79.2,5,
+2023,Math,Black/African American,9,40,22.5,5,
+2023,Math,Hispanic/Latino,15,40,37.5,5,
+2023,Math,Pacific Islander,,,,5,masked
+2023,Math,Two or More Races,23,34,67.6,5,
+2023,Math,White,236,435,54.3,5,
+2022,Math,Asian,279,362,77.1,5,
+2022,Math,Black/African American,12,49,24.5,5,
+2022,Math,Hispanic/Latino,19,46,41.3,5,
+2022,Math,Pacific Islander,,,,5,masked
+2022,Math,Two or More Races,15,38,39.5,5,
+2022,Math,White,239,437,54.7,5,
+2019,Math,American Indian,,,,5,masked
+2019,Math,Asian,339,401,84.5,5,
+2019,Math,Black/African American,9,47,19.1,5,
+2019,Math,Hispanic/Latino,13,34,38.2,5,
+2019,Math,Pacific Islander,,,,5,masked
+2019,Math,Two or More Races,15,26,57.7,5,
+2019,Math,White,251,464,54.1,5,
+2025,ELA,Asian,292,400,73.0,6,
+2025,ELA,Black/African American,,,,6,masked
+2025,ELA,Hispanic/Latino,30,58,51.7,6,
+2025,ELA,Pacific Islander,,,,6,masked
+2025,ELA,Two or More Races,20,33,60.6,6,
+2025,ELA,White,242,379,63.9,6,
+2024,ELA,American Indian,,,,6,masked
+2024,ELA,Asian,306,391,78.3,6,
+2024,ELA,Black/African American,16,42,38.1,6,
+2024,ELA,Hispanic/Latino,19,43,44.2,6,
+2024,ELA,Pacific Islander,,,,6,masked
+2024,ELA,Two or More Races,25,37,67.6,6,
+2024,ELA,White,251,445,56.4,6,
+2023,ELA,Asian,290,363,79.9,6,
+2023,ELA,Black/African American,,,,6,masked
+2023,ELA,Hispanic/Latino,26,48,54.2,6,
+2023,ELA,Pacific Islander,,,,6,masked
+2023,ELA,Two or More Races,22,39,56.4,6,
+2023,ELA,White,260,439,59.2,6,
+2022,ELA,American Indian,,,,6,masked
+2022,ELA,Asian,272,358,76.0,6,
+2022,ELA,Black/African American,,,,6,masked
+2022,ELA,Hispanic/Latino,23,50,46.0,6,
+2022,ELA,Pacific Islander,,,,6,masked
+2022,ELA,Two or More Races,25,44,56.8,6,
+2022,ELA,White,245,426,57.5,6,
+2019,ELA,Asian,321,392,81.9,6,
+2019,ELA,Black/African American,20,40,50.0,6,
+2019,ELA,Hispanic/Latino,,,,6,masked
+2019,ELA,Two or More Races,,,,6,masked
+2019,ELA,White,381,525,72.6,6,
+2025,Math,Asian,329,404,81.4,6,
+2025,Math,Black/African American,,,,6,masked
+2025,Math,Hispanic/Latino,30,59,50.8,6,
+2025,Math,Pacific Islander,,,,6,masked
+2025,Math,Two or More Races,19,33,57.6,6,
+2025,Math,White,225,381,59.1,6,
+2024,Math,American Indian,,,,6,masked
+2024,Math,Asian,336,398,84.4,6,
+2024,Math,Black/African American,10,42,23.8,6,
+2024,Math,Hispanic/Latino,18,43,41.9,6,
+2024,Math,Pacific Islander,,,,6,masked
+2024,Math,Two or More Races,24,37,64.9,6,
+2024,Math,White,254,448,56.7,6,
+2023,Math,Asian,308,370,83.2,6,
+2023,Math,Black/African American,12,57,21.1,6,
+2023,Math,Hispanic/Latino,20,50,40.0,6,
+2023,Math,Pacific Islander,,,,6,masked
+2023,Math,Two or More Races,20,39,51.3,6,
+2023,Math,White,243,440,55.2,6,
+2022,Math,American Indian,,,,6,masked
+2022,Math,Asian,299,365,81.9,6,
+2022,Math,Black/African American,8,40,20.0,6,
+2022,Math,Hispanic/Latino,19,51,37.3,6,
+2022,Math,Pacific Islander,,,,6,masked
+2022,Math,Two or More Races,22,43,51.2,6,
+2022,Math,White,216,427,50.6,6,
+2019,Math,Asian,349,397,87.9,6,
+2019,Math,Black/African American,13,40,32.5,6,
+2019,Math,Hispanic/Latino,10,31,32.3,6,
+2019,Math,Two or More Races,24,32,75.0,6,
+2019,Math,White,338,528,64.0,6,
+2025,ELA,American Indian,,,,7,masked
+2025,ELA,Asian,312,402,77.6,7,
+2025,ELA,Black/African American,16,43,37.2,7,
+2025,ELA,Hispanic/Latino,23,42,54.8,7,
+2025,ELA,Pacific Islander,,,,7,masked
+2025,ELA,Two or More Races,27,39,69.2,7,
+2025,ELA,White,269,452,59.5,7,
+2024,ELA,Asian,304,371,81.9,7,
+2024,ELA,Black/African American,17,59,28.8,7,
+2024,ELA,Hispanic/Latino,20,51,39.2,7,
+2024,ELA,Pacific Islander,,,,7,masked
+2024,ELA,Two or More Races,26,41,63.4,7,
+2024,ELA,White,251,434,57.8,7,
+2023,ELA,American Indian,,,,7,masked
+2023,ELA,Asian,269,358,75.1,7,
+2023,ELA,Black/African American,7,42,16.7,7,
+2023,ELA,Hispanic/Latino,20,50,40.0,7,
+2023,ELA,Pacific Islander,,,,7,masked
+2023,ELA,Two or More Races,27,44,61.4,7,
+2023,ELA,White,230,429,53.6,7,
+2022,ELA,Asian,279,349,79.9,7,
+2022,ELA,Black/African American,14,45,31.1,7,
+2022,ELA,Hispanic/Latino,7,23,30.4,7,
+2022,ELA,Two or More Races,24,38,63.2,7,
+2022,ELA,White,246,412,59.7,7,
+2019,ELA,American Indian,,,,7,masked
+2019,ELA,Asian,285,336,84.8,7,
+2019,ELA,Black/African American,20,43,46.5,7,
+2019,ELA,Hispanic/Latino,18,36,50.0,7,
+2019,ELA,Pacific Islander,,,,7,masked
+2019,ELA,Two or More Races,26,36,72.2,7,
+2019,ELA,White,369,556,66.4,7,
+2025,Math,American Indian,,,,7,masked
+2025,Math,Asian,352,407,86.5,7,
+2025,Math,Black/African American,12,43,27.9,7,
+2025,Math,Hispanic/Latino,20,45,44.4,7,
+2025,Math,Pacific Islander,,,,7,masked
+2025,Math,Two or More Races,26,40,65.0,7,
+2025,Math,White,266,453,58.7,7,
+2024,Math,Asian,330,378,87.3,7,
+2024,Math,Black/African American,16,59,27.1,7,
+2024,Math,Hispanic/Latino,21,53,39.6,7,
+2024,Math,Pacific Islander,,,,7,masked
+2024,Math,Two or More Races,20,41,48.8,7,
+2024,Math,White,251,438,57.3,7,
+2023,Math,American Indian,,,,7,masked
+2023,Math,Asian,300,364,82.4,7,
+2023,Math,Black/African American,7,43,16.3,7,
+2023,Math,Hispanic/Latino,24,54,44.4,7,
+2023,Math,Pacific Islander,,,,7,masked
+2023,Math,Two or More Races,24,43,55.8,7,
+2023,Math,White,218,431,50.6,7,
+2022,Math,Asian,304,354,85.9,7,
+2022,Math,Black/African American,5,45,11.1,7,
+2022,Math,Hispanic/Latino,9,24,37.5,7,
+2022,Math,Two or More Races,22,37,59.5,7,
+2022,Math,White,220,413,53.3,7,
+2019,Math,American Indian,,,,7,masked
+2019,Math,Asian,297,341,87.1,7,
+2019,Math,Black/African American,13,43,30.2,7,
+2019,Math,Hispanic/Latino,21,38,55.3,7,
+2019,Math,Pacific Islander,,,,7,masked
+2019,Math,Two or More Races,20,36,55.6,7,
+2019,Math,White,333,556,59.9,7,
+2023,Math,Asian,259,305,84.9,3,
+2023,Math,Black/African American,19,38,50.0,3,
+2023,Math,Hispanic/Latino,32,53,60.4,3,
+2023,Math,Two or More Races,53,65,81.5,3,
+2023,Math,White,249,376,66.2,3,
+2022,Math,Asian,316,360,87.8,3,
+2022,Math,Black/African American,10,32,31.2,3,
+2022,Math,Hispanic/Latino,23,43,53.5,3,
+2022,Math,Two or More Races,,,,3,masked
+2022,Math,White,252,373,67.6,3,
+2019,Math,Asian,321,369,87.0,3,
+2019,Math,Black/African American,12,35,34.3,3,
+2019,Math,Hispanic/Latino,20,38,52.6,3,
+2019,Math,Pacific Islander,,,,3,masked
+2019,Math,Two or More Races,13,22,59.1,3,
+2019,Math,White,317,447,70.9,3,
+2023,ELA,Asian,297,361,82.3,4,
+2023,ELA,Black/African American,18,40,45.0,4,
+2023,ELA,Hispanic/Latino,27,47,57.4,4,
+2023,ELA,Pacific Islander,,,,4,masked
+2023,ELA,Two or More Races,20,29,69.0,4,
+2023,ELA,White,264,367,71.9,4,
+2022,ELA,American Indian,,,,4,masked
+2022,ELA,Asian,283,344,82.3,4,
+2022,ELA,Black/African American,17,38,44.7,4,
+2022,ELA,Hispanic/Latino,21,28,75.0,4,
+2022,ELA,Pacific Islander,,,,4,masked
+2022,ELA,Two or More Races,27,33,81.8,4,
+2022,ELA,White,305,432,70.6,4,
+2019,ELA,Asian,291,336,86.6,4,
+2019,ELA,Black/African American,16,34,47.1,4,
+2019,ELA,Hispanic/Latino,9,18,50.0,4,
+2019,ELA,Pacific Islander,,,,4,masked
+2019,ELA,Two or More Races,,,,4,masked
+2019,ELA,White,319,436,73.2,4,
+2023,Math,Asian,306,372,82.3,4,
+2023,Math,Black/African American,9,41,22.0,4,
+2023,Math,Hispanic/Latino,26,52,50.0,4,
+2023,Math,Pacific Islander,,,,4,masked
+2023,Math,Two or More Races,,,,4,masked
+2023,Math,White,233,367,63.5,4,
+2022,Math,American Indian,,,,4,masked
+2022,Math,Asian,287,355,80.8,4,
+2022,Math,Black/African American,11,38,28.9,4,
+2022,Math,Hispanic/Latino,15,31,48.4,4,
+2022,Math,Pacific Islander,,,,4,masked
+2022,Math,Two or More Races,20,33,60.6,4,
+2022,Math,White,240,433,55.4,4,
+2019,Math,Asian,306,352,86.9,4,
+2019,Math,Black/African American,8,35,22.9,4,
+2019,Math,Hispanic/Latino,5,18,27.8,4,
+2019,Math,Pacific Islander,,,,4,masked
+2019,Math,Two or More Races,,,,4,masked
+2019,Math,White,295,437,67.5,4,
+2025,ELA,Econ Disadvantaged,52,121,43.0,3,
+2025,ELA,Not Econ Disadv,478,659,72.5,3,
+2024,ELA,Econ Disadvantaged,74,167,44.3,3,
+2024,ELA,Not Econ Disadv,442,649,68.1,3,
+2023,ELA,Econ Disadvantaged,59,142,41.5,3,
+2023,ELA,Not Econ Disadv,477,671,71.1,3,
+2022,ELA,Econ Disadvantaged,69,140,49.3,3,
+2022,ELA,Not Econ Disadv,500,684,73.1,3,
+2019,ELA,Econ Disadvantaged,50,112,44.6,3,
+2019,ELA,Not Econ Disadv,619,792,78.2,3,
+2025,Math,Econ Disadvantaged,71,121,58.7,3,
+2025,Math,Not Econ Disadv,549,675,81.3,3,
+2024,Math,Econ Disadvantaged,87,172,50.6,3,
+2024,Math,Not Econ Disadv,514,658,78.1,3,
+2023,Math,Econ Disadvantaged,63,143,44.1,3,
+2023,Math,Not Econ Disadv,549,694,79.1,3,
+2022,Math,Econ Disadvantaged,74,141,52.5,3,
+2022,Math,Not Econ Disadv,550,696,79.0,3,
+2019,Math,Econ Disadvantaged,47,114,41.2,3,
+2019,Math,Not Econ Disadv,640,802,79.8,3,

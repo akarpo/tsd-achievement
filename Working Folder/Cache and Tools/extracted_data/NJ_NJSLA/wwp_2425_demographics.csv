@@ -1,0 +1,169 @@
+year,subject,grade,subgroup_type,subgroup,tested,pct_met
+2025,ELA,3,Total,All Students,592,63.4
+2025,ELA,3,Race/Ethnicity,White,58,55.1
+2025,ELA,3,Race/Ethnicity,Black or African American,32,31.2
+2025,ELA,3,Race/Ethnicity,Asian,416,67.8
+2025,ELA,3,Race/Ethnicity,American Indian,,
+2025,ELA,3,Race/Ethnicity,Hispanic,37,45.9
+2025,ELA,3,Race/Ethnicity,Native Hawaiian,,
+2025,ELA,3,Race/Ethnicity,Other,42,71.4
+2025,ELA,3,Gender,Male,290,60.3
+2025,ELA,3,Gender,Female,302,66.3
+2025,ELA,3,Subgroup,Students With Disabilities,57,21.1
+2025,ELA,3,Subgroup,Multilingual Learners,97,40.3
+2025,ELA,3,Subgroup,Current - Ml,31,22.6
+2025,ELA,3,Subgroup,Former - Ml,66,48.5
+2025,ELA,3,Subgroup,Economically Disadvantaged,57,26.3
+2025,ELA,3,Subgroup,Non-Econ. Disadvantaged,535,67.3
+2025,ELA,3,Subgroup,SE Accommodation,21,19.0
+2025,ELA,4,Total,All Students,608,71.1
+2025,ELA,4,Race/Ethnicity,White,66,62.1
+2025,ELA,4,Race/Ethnicity,Black or African American,30,43.3
+2025,ELA,4,Race/Ethnicity,Asian,433,78.1
+2025,ELA,4,Race/Ethnicity,American Indian,,
+2025,ELA,4,Race/Ethnicity,Hispanic,38,34.3
+2025,ELA,4,Race/Ethnicity,Native Hawaiian,,
+2025,ELA,4,Race/Ethnicity,Other,36,63.9
+2025,ELA,4,Gender,Male,348,67.3
+2025,ELA,4,Gender,Female,260,76.1
+2025,ELA,4,Subgroup,Students With Disabilities,49,24.4
+2025,ELA,4,Subgroup,Multilingual Learners,81,44.5
+2025,ELA,4,Subgroup,Current - Ml,22,13.6
+2025,ELA,4,Subgroup,Former - Ml,59,56.0
+2025,ELA,4,Subgroup,Economically Disadvantaged,58,31.0
+2025,ELA,4,Subgroup,Non-Econ. Disadvantaged,550,75.3
+2025,ELA,4,Subgroup,SE Accommodation,40,12.5
+2025,ELA,5,Total,All Students,641,73.5
+2025,ELA,5,Race/Ethnicity,White,84,59.6
+2025,ELA,5,Race/Ethnicity,Black or African American,25,52.0
+2025,ELA,5,Race/Ethnicity,Asian,461,79.2
+2025,ELA,5,Race/Ethnicity,American Indian,,
+2025,ELA,5,Race/Ethnicity,Hispanic,36,52.7
+2025,ELA,5,Race/Ethnicity,Native Hawaiian,,
+2025,ELA,5,Race/Ethnicity,Other,32,68.7
+2025,ELA,5,Gender,Male,332,69.6
+2025,ELA,5,Gender,Female,309,77.7
+2025,ELA,5,Subgroup,Students With Disabilities,58,22.4
+2025,ELA,5,Subgroup,Multilingual Learners,69,44.9
+2025,ELA,5,Subgroup,Current - Ml,13,
+2025,ELA,5,Subgroup,Former - Ml,56,55.3
+2025,ELA,5,Subgroup,Economically Disadvantaged,54,38.9
+2025,ELA,5,Subgroup,Non-Econ. Disadvantaged,587,76.7
+2025,ELA,5,Subgroup,SE Accommodation,53,17.0
+2025,ELA,6,Total,All Students,690,78.0
+2025,ELA,6,Race/Ethnicity,White,86,65.1
+2025,ELA,6,Race/Ethnicity,Black or African American,,48.5
+2025,ELA,6,Race/Ethnicity,Asian,499,84.6
+2025,ELA,6,Race/Ethnicity,American Indian,,
+2025,ELA,6,Race/Ethnicity,Hispanic,33,48.5
+2025,ELA,6,Race/Ethnicity,Other,37,73.0
+2025,ELA,6,Gender,Male,325,77.3
+2025,ELA,6,Gender,Female,365,78.7
+2025,ELA,6,Subgroup,Students With Disabilities,44,13.7
+2025,ELA,6,Subgroup,Multilingual Learners,52,28.8
+2025,ELA,6,Subgroup,Current - Ml,20,5.0
+2025,ELA,6,Subgroup,Former - Ml,32,43.8
+2025,ELA,6,Subgroup,Economically Disadvantaged,65,37.0
+2025,ELA,6,Subgroup,Non-Econ. Disadvantaged,625,82.2
+2025,ELA,6,Subgroup,SE Accommodation,45,28.9
+2025,ELA,7,Total,All Students,741,80.1
+2025,ELA,7,Race/Ethnicity,White,86,65.1
+2025,ELA,7,Race/Ethnicity,Black or African American,41,34.2
+2025,ELA,7,Race/Ethnicity,Asian,563,87.8
+2025,ELA,7,Race/Ethnicity,American Indian,,
+2025,ELA,7,Race/Ethnicity,Hispanic,27,44.4
+2025,ELA,7,Race/Ethnicity,Native Hawaiian,,
+2025,ELA,7,Race/Ethnicity,Other,21,71.5
+2025,ELA,7,Gender,Male,401,75.3
+2025,ELA,7,Gender,Female,340,85.6
+2025,ELA,7,Subgroup,Students With Disabilities,63,20.6
+2025,ELA,7,Subgroup,Multilingual Learners,38,42.1
+2025,ELA,7,Subgroup,Current - Ml,18,11.1
+2025,ELA,7,Subgroup,Former - Ml,20,70.0
+2025,ELA,7,Subgroup,Economically Disadvantaged,56,37.5
+2025,ELA,7,Subgroup,Non-Econ. Disadvantaged,685,83.5
+2025,ELA,7,Subgroup,SE Accommodation,51,17.7
+2025,Math,3,Total,All Students,609,73.5
+2025,Math,3,Race/Ethnicity,White,62,59.6
+2025,Math,3,Race/Ethnicity,Black or African American,32,28.2
+2025,Math,3,Race/Ethnicity,Asian,429,80.7
+2025,Math,3,Race/Ethnicity,American Indian,,
+2025,Math,3,Race/Ethnicity,Hispanic,37,40.5
+2025,Math,3,Race/Ethnicity,Native Hawaiian,,
+2025,Math,3,Race/Ethnicity,Other,42,85.7
+2025,Math,3,Gender,Male,300,75.0
+2025,Math,3,Gender,Female,309,72.1
+2025,Math,3,Subgroup,Students With Disabilities,58,36.2
+2025,Math,3,Subgroup,Multilingual Learners,111,62.1
+2025,Math,3,Subgroup,Current - Ml,45,44.5
+2025,Math,3,Subgroup,Former - Ml,66,74.3
+2025,Math,3,Subgroup,Economically Disadvantaged,60,25.0
+2025,Math,3,Subgroup,Non-Econ. Disadvantaged,549,78.9
+2025,Math,3,Subgroup,SE Accommodation,20,35.0
+2025,Math,4,Total,All Students,627,71.2
+2025,Math,4,Race/Ethnicity,White,71,55.0
+2025,Math,4,Race/Ethnicity,Black or African American,30,36.7
+2025,Math,4,Race/Ethnicity,Asian,446,79.1
+2025,Math,4,Race/Ethnicity,American Indian,,
+2025,Math,4,Race/Ethnicity,Hispanic,39,35.9
+2025,Math,4,Race/Ethnicity,Native Hawaiian,,
+2025,Math,4,Race/Ethnicity,Other,36,66.7
+2025,Math,4,Gender,Male,359,69.4
+2025,Math,4,Gender,Female,268,73.5
+2025,Math,4,Subgroup,Students With Disabilities,49,26.5
+2025,Math,4,Subgroup,Multilingual Learners,100,46.0
+2025,Math,4,Subgroup,Current - Ml,41,29.2
+2025,Math,4,Subgroup,Former - Ml,59,57.7
+2025,Math,4,Subgroup,Economically Disadvantaged,62,29.0
+2025,Math,4,Subgroup,Non-Econ. Disadvantaged,565,75.8
+2025,Math,4,Subgroup,SE Accommodation,38,18.4
+2025,Math,5,Total,All Students,654,70.9
+2025,Math,5,Race/Ethnicity,White,86,48.9
+2025,Math,5,Race/Ethnicity,Black or African American,27,25.9
+2025,Math,5,Race/Ethnicity,Asian,470,81.9
+2025,Math,5,Race/Ethnicity,American Indian,,
+2025,Math,5,Race/Ethnicity,Hispanic,36,22.2
+2025,Math,5,Race/Ethnicity,Native Hawaiian,,
+2025,Math,5,Race/Ethnicity,Other,32,62.5
+2025,Math,5,Gender,Male,337,74.8
+2025,Math,5,Gender,Female,317,66.9
+2025,Math,5,Subgroup,Students With Disabilities,59,25.4
+2025,Math,5,Subgroup,Multilingual Learners,80,53.8
+2025,Math,5,Subgroup,Current - Ml,24,20.8
+2025,Math,5,Subgroup,Former - Ml,56,67.9
+2025,Math,5,Subgroup,Economically Disadvantaged,55,27.3
+2025,Math,5,Subgroup,Non-Econ. Disadvantaged,599,74.9
+2025,Math,5,Subgroup,SE Accommodation,55,18.2
+2025,Math,6,Total,All Students,703,76.3
+2025,Math,6,Race/Ethnicity,White,87,59.7
+2025,Math,6,Race/Ethnicity,Black or African American,,24.3
+2025,Math,6,Race/Ethnicity,Asian,510,84.9
+2025,Math,6,Race/Ethnicity,American Indian,,
+2025,Math,6,Race/Ethnicity,Hispanic,33,36.4
+2025,Math,6,Race/Ethnicity,Other,37,78.3
+2025,Math,6,Gender,Male,329,77.5
+2025,Math,6,Gender,Female,374,75.1
+2025,Math,6,Subgroup,Students With Disabilities,45,26.6
+2025,Math,6,Subgroup,Multilingual Learners,64,39.1
+2025,Math,6,Subgroup,Current - Ml,31,16.1
+2025,Math,6,Subgroup,Former - Ml,33,60.6
+2025,Math,6,Subgroup,Economically Disadvantaged,68,36.7
+2025,Math,6,Subgroup,Non-Econ. Disadvantaged,635,80.5
+2025,Math,6,Subgroup,SE Accommodation,43,23.2
+2025,Math,7,Total,All Students,458,68.4
+2025,Math,7,Race/Ethnicity,White,75,57.3
+2025,Math,7,Race/Ethnicity,Black or African American,38,26.3
+2025,Math,7,Race/Ethnicity,Asian,300,80.0
+2025,Math,7,Race/Ethnicity,American Indian,,
+2025,Math,7,Race/Ethnicity,Hispanic,26,34.6
+2025,Math,7,Race/Ethnicity,Native Hawaiian,,
+2025,Math,7,Race/Ethnicity,Other,16,62.6
+2025,Math,7,Gender,Male,223,64.6
+2025,Math,7,Gender,Female,235,71.9
+2025,Math,7,Subgroup,Students With Disabilities,60,13.4
+2025,Math,7,Subgroup,Multilingual Learners,42,54.8
+2025,Math,7,Subgroup,Current - Ml,23,43.4
+2025,Math,7,Subgroup,Former - Ml,19,68.4
+2025,Math,7,Subgroup,Economically Disadvantaged,56,28.6
+2025,Math,7,Subgroup,Non-Econ. Disadvantaged,402,73.9
+2025,Math,7,Subgroup,SE Accommodation,50,12.0

@@ -1,0 +1,601 @@
+year,subject,grade,subgroup,tested,pct_met
+2019,ELA,3,All Students,1493,71.7
+2019,ELA,3,English Learner,243,34.2
+2019,ELA,3,Non-EL,1250,79.0
+2019,ELA,3,Not Econ Disadv,1225,80.3
+2019,ELA,3,Female,,73.5
+2019,ELA,3,Black/African American,,45.7
+2019,ELA,3,White,476,70.8
+2019,ELA,3,Asian,641,83.3
+2019,ELA,3,SWD,101,29.7
+2019,Math,3,All Students,1498,74.2
+2019,Math,3,English Learner,250,43.2
+2019,Math,3,Non-EL,1248,80.4
+2019,Math,3,Econ Disadvantaged,269,35.3
+2019,Math,3,Not Econ Disadv,1229,82.7
+2019,Math,3,Female,,72.7
+2019,Math,3,Male,757,75.6
+2019,Math,3,Black/African American,,42.9
+2019,Math,3,Hispanic/Latino,204,40.7
+2019,Math,3,Asian,646,87.2
+2019,Math,3,White,475,71.8
+2019,Math,3,SWD,101,34.7
+2019,ELA,3,Male,755,69.9
+2019,ELA,3,Hispanic/Latino,203,37.4
+2019,ELA,3,Econ Disadvantaged,268,32.5
+2019,ELA,4,All Students,1609,74.1
+2019,ELA,4,English Learner,229,24.0
+2019,ELA,4,Non-EL,1380,82.4
+2019,ELA,4,Not Econ Disadv,1296,84.2
+2019,ELA,4,Female,760,75.8
+2019,ELA,4,Black/African American,,46.7
+2019,ELA,4,White,512,75.4
+2019,Math,4,All Students,1624,72.8
+2019,Math,4,Non-EL,1380,79.3
+2019,Math,4,Econ Disadvantaged,319,33.5
+2019,Math,4,Not Econ Disadv,1305,82.4
+2019,Math,4,Black/African American,,50.0
+2019,Math,4,Hispanic/Latino,205,32.2
+2019,Math,4,SWD,129,42.6
+2019,Math,4,Female,765,69.5
+2019,Math,4,Asian,696,88.5
+2019,ELA,4,Male,849,72.6
+2019,Math,4,Male,859,75.7
+2019,ELA,4,Econ Disadvantaged,313,32.3
+2019,Math,4,English Learner,244,36.1
+2019,ELA,4,Hispanic/Latino,203,35.5
+2019,ELA,4,Asian,686,86.2
+2019,Math,4,White,514,71.2
+2019,ELA,4,SWD,129,37.2
+2019,ELA,5,All Students,1511,79.7
+2019,ELA,5,English Learner,157,26.1
+2019,ELA,5,Not Econ Disadv,1227,87.1
+2019,ELA,5,Female,714,83.9
+2019,ELA,5,Black/African American,,60.0
+2019,ELA,5,White,489,83.8
+2019,Math,5,All Students,1512,72.0
+2019,Math,5,English Learner,160,31.9
+2019,Math,5,Non-EL,1352,76.8
+2019,Math,5,Econ Disadvantaged,284,30.6
+2019,Math,5,Not Econ Disadv,1228,81.6
+2019,Math,5,Male,800,71.8
+2019,Math,5,Hispanic/Latino,171,29.2
+2019,Math,5,SWD,108,25.9
+2019,ELA,5,Econ Disadvantaged,284,47.5
+2019,Math,5,Female,712,72.3
+2019,ELA,5,SWD,109,39.4
+2019,Math,5,Asian,665,87.5
+2019,ELA,5,Hispanic/Latino,172,42.4
+2019,ELA,5,Male,797,75.9
+2019,ELA,5,Asian,663,87.3
+2019,Math,5,Black/African American,,40.0
+2019,Math,5,White,489,69.9
+2019,ELA,5,Non-EL,1354,85.9
+2019,ELA,6,All Students,1594,75.2
+2019,ELA,6,English Learner,123,19.5
+2019,ELA,6,Non-EL,1471,79.9
+2019,ELA,6,Not Econ Disadv,1271,82.9
+2019,ELA,6,Female,766,81.5
+2019,ELA,6,Hispanic/Latino,215,46.0
+2019,ELA,6,White,521,78.1
+2019,Math,6,English Learner,133,30.8
+2019,Math,6,Non-EL,1471,73.0
+2019,Math,6,Econ Disadvantaged,327,35.2
+2019,Math,6,Hispanic/Latino,219,32.9
+2019,Math,6,White,520,68.7
+2019,Math,6,Asian,656,86.1
+2019,Math,6,All Students,1604,69.5
+2019,Math,6,Female,772,70.2
+2019,ELA,6,Male,828,69.4
+2019,ELA,6,SWD,122,27.9
+2019,Math,6,SWD,122,21.3
+2019,ELA,6,Econ Disadvantaged,323,44.9
+2019,ELA,6,Asian,649,85.8
+2019,Math,6,Not Econ Disadv,1277,78.3
+2019,Math,6,Black/African American,,31.3
+2019,ELA,6,Black/African American,,45.8
+2019,Math,6,Male,832,68.9
+2019,ELA,7,Female,753,85.0
+2019,ELA,7,All Students,1551,80.6
+2019,ELA,7,English Learner,103,18.4
+2019,ELA,7,Non-EL,1448,85.0
+2019,ELA,7,Not Econ Disadv,1288,86.7
+2019,ELA,7,Male,798,76.4
+2019,ELA,7,Hispanic/Latino,181,55.2
+2019,ELA,7,White,541,80.2
+2019,ELA,7,Asian,627,89.6
+2019,Math,7,English Learner,114,31.6
+2019,Math,7,Non-EL,1448,76.4
+2019,Math,7,Econ Disadvantaged,266,34.2
+2019,Math,7,Female,756,73.7
+2019,Math,7,Hispanic/Latino,184,35.9
+2019,Math,7,Asian,634,88.5
+2019,Math,7,All Students,1562,73.1
+2019,ELA,7,SWD,132,30.3
+2019,Math,7,SWD,132,24.2
+2019,ELA,7,Black/African American,,61.0
+2019,Math,7,White,542,69.6
+2019,ELA,7,Econ Disadvantaged,263,50.6
+2019,Math,7,Not Econ Disadv,1296,81.1
+2019,Math,7,Black/African American,,36.6
+2019,Math,7,Male,806,72.6
+2022,ELA,3,All Students,1299,71.6
+2022,ELA,3,English Learner,257,37.7
+2022,ELA,3,Non-EL,1042,79.9
+2022,ELA,3,Econ Disadvantaged,255,32.9
+2022,ELA,3,Not Econ Disadv,1044,81.0
+2022,ELA,3,Female,610,73.8
+2022,ELA,3,Male,689,69.7
+2022,ELA,3,Hispanic/Latino,182,35.2
+2022,ELA,3,White,322,70.8
+2022,ELA,3,Asian,631,84.2
+2022,ELA,3,SWD,120,31.7
+2022,Math,3,All Students,1309,72.8
+2022,Math,3,English Learner,269,46.1
+2022,Math,3,Econ Disadvantaged,256,34.4
+2022,Math,3,Not Econ Disadv,1053,82.1
+2022,Math,3,Female,616,69.8
+2022,Math,3,Male,693,75.5
+2022,Math,3,Black/African American,42,52.4
+2022,Math,3,Hispanic/Latino,180,32.8
+2022,Math,3,White,326,69.3
+2022,Math,3,SWD,121,34.7
+2022,ELA,3,Black/African American,42,54.8
+2022,Math,3,Non-EL,1040,79.7
+2022,Math,3,Asian,639,87.8
+2022,ELA,4,English Learner,189,26.5
+2022,ELA,4,Non-EL,1137,78.7
+2022,ELA,4,Econ Disadvantaged,251,36.3
+2022,ELA,4,Not Econ Disadv,1075,79.4
+2022,ELA,4,Black/African American,,29.5
+2022,ELA,4,Hispanic/Latino,182,33.5
+2022,ELA,4,Asian,606,84.7
+2022,ELA,4,SWD,132,34.8
+2022,Math,4,All Students,1329,70.9
+2022,Math,4,English Learner,193,32.1
+2022,Math,4,Non-EL,1136,77.5
+2022,Math,4,Econ Disadvantaged,251,31.5
+2022,Math,4,Not Econ Disadv,1078,80.1
+2022,Math,4,Female,643,70.0
+2022,Math,4,Male,686,71.7
+2022,Math,4,Black/African American,,34.9
+2022,Math,4,Hispanic/Latino,184,26.6
+2022,Math,4,White,351,73.5
+2022,Math,4,SWD,132,32.6
+2022,ELA,4,All Students,1326,71.3
+2022,ELA,4,Female,640,73.3
+2022,ELA,4,Male,686,69.4
+2022,ELA,4,White,350,73.7
+2022,Math,4,Asian,607,86.7
+2022,ELA,5,All Students,1407,74.4
+2022,ELA,5,English Learner,176,22.7
+2022,ELA,5,Non-EL,1231,81.8
+2022,ELA,5,Econ Disadvantaged,290,42.8
+2022,ELA,5,Not Econ Disadv,1117,82.6
+2022,ELA,5,Female,660,78.5
+2022,ELA,5,Black/African American,,46.9
+2022,ELA,5,Hispanic/Latino,194,39.2
+2022,ELA,5,Asian,643,87.6
+2022,ELA,5,SWD,145,24.8
+2022,Math,5,All Students,1409,65.4
+2022,Math,5,English Learner,179,20.7
+2022,Math,5,Non-EL,1230,72.0
+2022,Math,5,Econ Disadvantaged,290,26.2
+2022,Math,5,Not Econ Disadv,1119,75.6
+2022,Math,5,Female,659,64.6
+2022,Math,5,Male,750,66.1
+2022,Math,5,Black/African American,,25.0
+2022,Math,5,Hispanic/Latino,194,23.7
+2022,Math,5,White,373,58.7
+2022,Math,5,Asian,646,84.8
+2022,Math,5,SWD,145,20.0
+2022,ELA,5,Male,747,70.8
+2022,ELA,5,White,373,72.7
+2022,ELA,6,All Students,1391,63.8
+2022,ELA,6,English Learner,169,11.2
+2022,ELA,6,Non-EL,1222,71.0
+2022,ELA,6,Econ Disadvantaged,287,27.2
+2022,ELA,6,Not Econ Disadv,1104,73.3
+2022,ELA,6,Female,,68.1
+2022,ELA,6,Male,713,59.6
+2022,ELA,6,Black/African American,,31.0
+2022,ELA,6,Asian,624,79.2
+2022,ELA,6,SWD,140,15.7
+2022,Math,6,All Students,1400,61.2
+2022,Math,6,English Learner,177,21.5
+2022,Math,6,Non-EL,1223,67.0
+2022,Math,6,Not Econ Disadv,1111,71.3
+2022,Math,6,Female,,59.6
+2022,Math,6,Male,718,62.8
+2022,Math,6,Black/African American,,23.8
+2022,Math,6,Hispanic/Latino,209,20.6
+2022,Math,6,White,387,55.0
+2022,Math,6,Asian,630,80.2
+2022,Math,6,SWD,140,16.4
+2022,ELA,6,Hispanic/Latino,207,26.1
+2022,ELA,6,White,386,59.3
+2022,Math,6,Econ Disadvantaged,289,22.5
+2022,ELA,7,All Students,1582,72.1
+2022,ELA,7,Non-EL,1433,77.8
+2022,ELA,7,Econ Disadvantaged,345,35.4
+2022,ELA,7,Female,,73.1
+2022,ELA,7,Male,831,71.2
+2022,ELA,7,Black/African American,,37.5
+2022,ELA,7,Asian,708,85.2
+2022,ELA,7,SWD,143,23.8
+2022,Math,7,English Learner,153,20.3
+2022,Math,7,Non-EL,1432,69.1
+2022,Math,7,Not Econ Disadv,1237,74.8
+2022,Math,7,Female,,58.6
+2022,Math,7,Male,832,69.7
+2022,Math,7,Hispanic/Latino,216,22.7
+2022,Math,7,White,441,59.2
+2022,Math,7,Asian,711,83.8
+2022,ELA,7,English Learner,149,16.8
+2022,ELA,7,Not Econ Disadv,1237,82.3
+2022,ELA,7,Hispanic/Latino,218,30.7
+2022,ELA,7,White,439,74.9
+2022,Math,7,All Students,1585,64.4
+2022,Math,7,Econ Disadvantaged,348,27.6
+2022,Math,7,Black/African American,,21.4
+2022,Math,7,SWD,142,19.0
+2023,ELA,3,Non-EL,879,77.4
+2023,ELA,3,Econ Disadvantaged,274,36.5
+2023,ELA,3,Male,592,66.9
+2023,ELA,3,Female,597,72.7
+2023,ELA,3,Black/African American,,28.1
+2023,ELA,3,Hispanic/Latino,150,30.7
+2023,Math,3,Non-EL,879,77.8
+2023,Math,3,Econ Disadvantaged,275,34.9
+2023,Math,3,Black/African American,,34.4
+2023,Math,3,Hispanic/Latino,153,37.3
+2023,Math,3,White,326,70.2
+2023,Math,3,Asian,531,87.9
+2023,Math,3,SWD,113,38.1
+2023,ELA,3,All Students,1189,69.8
+2023,ELA,3,White,324,71.6
+2023,Math,3,All Students,1200,72.7
+2023,Math,3,English Learner,321,58.6
+2023,Math,3,Male,600,74.3
+2023,ELA,3,English Learner,310,48.4
+2023,ELA,3,Not Econ Disadv,915,79.8
+2023,ELA,3,Asian,525,82.9
+2023,ELA,3,SWD,112,30.4
+2023,Math,3,Not Econ Disadv,925,83.9
+2023,Math,3,Female,600,71.0
+2023,ELA,4,Non-EL,1054,81.1
+2023,ELA,4,Econ Disadvantaged,296,36.8
+2023,ELA,4,Not Econ Disadv,1000,82.8
+2023,ELA,4,Hispanic/Latino,188,34.0
+2023,ELA,4,White,311,70.1
+2023,ELA,4,SWD,138,34.8
+2023,Math,4,Non-EL,1052,79.7
+2023,Math,4,Econ Disadvantaged,299,37.1
+2023,Math,4,Female,618,71.0
+2023,Math,4,Male,683,75.3
+2023,Math,4,Black/African American,45,44.4
+2023,Math,4,Hispanic/Latino,190,36.8
+2023,Math,4,White,311,69.8
+2023,Math,4,Asian,620,89.8
+2023,Math,4,SWD,138,35.5
+2023,ELA,4,All Students,1296,72.3
+2023,ELA,4,English Learner,242,33.9
+2023,ELA,4,Female,613,73.9
+2023,ELA,4,Male,683,70.9
+2023,ELA,4,Black/African American,45,53.3
+2023,Math,4,English Learner,249,46.2
+2023,ELA,4,Asian,617,87.4
+2023,Math,4,All Students,1301,73.3
+2023,Math,4,Not Econ Disadv,1002,84.0
+2023,ELA,5,All Students,1330,75.0
+2023,ELA,5,English Learner,196,26.0
+2023,ELA,5,Not Econ Disadv,1017,85.2
+2023,ELA,5,Black/African American,,40.8
+2023,ELA,5,Hispanic/Latino,193,36.8
+2023,ELA,5,SWD,145,36.6
+2023,Math,5,All Students,1333,67.2
+2023,Math,5,English Learner,199,28.6
+2023,Math,5,Non-EL,1134,74.0
+2023,Math,5,Econ Disadvantaged,314,29.3
+2023,Math,5,Female,,65.8
+2023,Math,5,Male,686,68.7
+2023,Math,5,Asian,601,84.5
+2023,Math,5,SWD,145,22.8
+2023,ELA,5,Female,,76.2
+2023,ELA,5,Male,685,73.9
+2023,Math,5,Hispanic/Latino,191,24.6
+2023,ELA,5,Non-EL,1134,83.4
+2023,ELA,5,Econ Disadvantaged,313,41.9
+2023,ELA,5,Asian,596,87.6
+2023,Math,5,Black/African American,,20.4
+2023,Math,5,White,342,68.4
+2023,ELA,5,White,342,80.4
+2023,Math,5,Not Econ Disadv,1019,78.9
+2023,ELA,6,All Students,1391,68.9
+2023,ELA,6,Non-EL,1201,76.9
+2023,ELA,6,Econ Disadvantaged,327,30.3
+2023,ELA,6,Not Econ Disadv,1064,80.8
+2023,ELA,6,Black/African American,,25.9
+2023,ELA,6,SWD,137,20.4
+2023,Math,6,All Students,1397,65.4
+2023,Math,6,English Learner,196,25.0
+2023,Math,6,Non-EL,1201,71.9
+2023,Math,6,Econ Disadvantaged,327,26.0
+2023,Math,6,Female,,65.8
+2023,Math,6,Male,743,65.0
+2023,Math,6,Asian,641,84.7
+2023,Math,6,SWD,138,17.4
+2023,ELA,6,English Learner,190,18.4
+2023,ELA,6,Female,,74.2
+2023,ELA,6,Male,738,64.4
+2023,Math,6,Not Econ Disadv,1070,77.4
+2023,Math,6,Hispanic/Latino,198,27.8
+2023,ELA,6,Hispanic/Latino,197,31.0
+2023,ELA,6,Asian,636,84.0
+2023,Math,6,Black/African American,,24.1
+2023,Math,6,White,345,60.6
+2023,ELA,6,White,345,71.0
+2023,ELA,7,All Students,1392,70.2
+2023,ELA,7,Non-EL,1211,78.4
+2023,ELA,7,Econ Disadvantaged,323,32.8
+2023,ELA,7,Black/African American,,44.2
+2023,ELA,7,Hispanic/Latino,220,33.6
+2023,ELA,7,White,368,68.5
+2023,ELA,7,Asian,619,84.0
+2023,ELA,7,SWD,136,20.6
+2023,Math,7,All Students,1403,67.4
+2023,Math,7,English Learner,193,31.1
+2023,Math,7,Not Econ Disadv,1077,78.6
+2023,Math,7,Female,,64.4
+2023,Math,7,Male,726,70.0
+2023,Math,7,Black/African American,,37.2
+2023,Math,7,White,369,62.1
+2023,Math,7,Asian,628,86.1
+2023,Math,7,SWD,135,21.5
+2023,ELA,7,English Learner,181,14.9
+2023,ELA,7,Not Econ Disadv,1069,81.5
+2023,ELA,7,Male,720,66.8
+2023,Math,7,Non-EL,1210,73.1
+2023,Math,7,Econ Disadvantaged,326,30.1
+2023,ELA,7,Female,,73.7
+2023,Math,7,Hispanic/Latino,220,24.1
+2024,ELA,3,All Students,1316,70.1
+2024,Math,3,All Students,1323,72.9
+2024,ELA,3,English Learner,353,40.8
+2024,Math,3,English Learner,360,48.3
+2024,Math,3,Non-EL,963,82.1
+2024,ELA,3,Non-EL,963,80.8
+2024,ELA,3,Econ Disadvantaged,303,37.3
+2024,Math,3,Econ Disadvantaged,307,38.4
+2024,ELA,3,Not Econ Disadv,1013,79.9
+2024,Math,3,Not Econ Disadv,1016,83.4
+2024,ELA,3,Female,607,75.1
+2024,Math,3,Female,611,72.0
+2024,ELA,3,Male,709,65.7
+2024,Math,3,Male,712,73.7
+2024,Math,3,Asian,622,87.8
+2024,ELA,3,Asian,618,82.5
+2024,ELA,3,Black/African American,,33.3
+2024,Math,3,Black/African American,,26.7
+2024,Math,3,Hispanic/Latino,189,31.2
+2024,ELA,3,Hispanic/Latino,187,28.9
+2024,Math,3,White,311,75.2
+2024,ELA,3,White,310,73.2
+2024,Math,3,SWD,175,38.3
+2024,ELA,3,SWD,175,38.3
+2024,ELA,4,All Students,1260,68.5
+2024,Math,4,All Students,1271,71.5
+2024,ELA,4,English Learner,316,40.5
+2024,Math,4,English Learner,327,48.6
+2024,Math,4,Non-EL,944,79.5
+2024,ELA,4,Non-EL,944,77.9
+2024,ELA,4,Econ Disadvantaged,310,36.5
+2024,Math,4,Econ Disadvantaged,316,34.2
+2024,ELA,4,Not Econ Disadv,950,79.0
+2024,Math,4,Not Econ Disadv,955,83.9
+2024,ELA,4,Female,625,70.9
+2024,Math,4,Female,629,70.8
+2024,Math,4,Male,642,72.3
+2024,ELA,4,Male,635,66.1
+2024,ELA,4,Asian,554,82.7
+2024,Math,4,Asian,560,88.4
+2024,Math,4,Black/African American,,28.8
+2024,ELA,4,Black/African American,,31.8
+2024,ELA,4,Hispanic/Latino,168,32.7
+2024,Math,4,Hispanic/Latino,169,33.7
+2024,ELA,4,White,333,67.3
+2024,Math,4,White,336,67.0
+2024,Math,4,SWD,148,32.4
+2024,ELA,4,SWD,148,30.4
+2024,ELA,5,All Students,1344,76.1
+2024,Math,5,All Students,1347,67.6
+2024,ELA,5,English Learner,216,29.2
+2024,Math,5,English Learner,220,29.1
+2024,Math,5,Non-EL,1127,75.2
+2024,ELA,5,Non-EL,1128,85.1
+2024,ELA,5,Econ Disadvantaged,312,38.8
+2024,Math,5,Econ Disadvantaged,312,28.2
+2024,ELA,5,Not Econ Disadv,1032,87.4
+2024,Math,5,Not Econ Disadv,1035,79.5
+2024,Math,5,Female,,63.4
+2024,ELA,5,Female,,76.3
+2024,ELA,5,Male,705,75.9
+2024,Math,5,Male,704,71.5
+2024,ELA,5,Asian,648,89.2
+2024,Math,5,Asian,649,85.4
+2024,ELA,5,Black/African American,,55.1
+2024,Math,5,Black/African American,,37.5
+2024,ELA,5,Hispanic/Latino,196,42.4
+2024,Math,5,Hispanic/Latino,197,27.9
+2024,ELA,5,White,312,73.7
+2024,Math,5,White,314,62.1
+2024,Math,5,SWD,161,29.2
+2024,ELA,5,SWD,161,36.7
+2024,ELA,6,All Students,1444,65.1
+2024,Math,6,All Students,1452,63.3
+2024,Math,6,English Learner,238,30.7
+2024,ELA,6,English Learner,229,23.1
+2024,ELA,6,Non-EL,1215,73.0
+2024,Math,6,Non-EL,1214,69.7
+2024,Math,6,Econ Disadvantaged,358,26.8
+2024,ELA,6,Econ Disadvantaged,353,32.3
+2024,ELA,6,Not Econ Disadv,1091,75.7
+2024,Math,6,Not Econ Disadv,1094,75.2
+2024,ELA,6,Female,,69.0
+2024,Math,6,Female,,62.8
+2024,ELA,6,Male,752,61.7
+2024,Math,6,Male,759,63.9
+2024,ELA,6,Asian,662,80.5
+2024,Math,6,Asian,668,83.1
+2024,ELA,6,Black/African American,,27.6
+2024,Math,6,Black/African American,,25.9
+2024,ELA,6,Hispanic/Latino,212,33.0
+2024,Math,6,Hispanic/Latino,214,21.5
+2024,ELA,6,White,354,63.6
+2024,Math,6,White,354,59.9
+2024,ELA,6,SWD,148,21.0
+2024,Math,6,SWD,149,22.8
+2024,ELA,7,All Students,1463,70.3
+2024,Math,7,All Students,1471,65.7
+2024,Math,7,English Learner,236,30.5
+2024,ELA,7,English Learner,228,22.4
+2024,ELA,7,Non-EL,1235,79.1
+2024,Math,7,Non-EL,1235,72.5
+2024,Math,7,Econ Disadvantaged,370,26.8
+2024,ELA,7,Econ Disadvantaged,368,33.2
+2024,Math,7,Not Econ Disadv,1101,78.8
+2024,ELA,7,Not Econ Disadv,1095,82.7
+2024,ELA,7,Female,,74.9
+2024,Math,7,Female,,65.1
+2024,ELA,7,Male,755,66.1
+2024,Math,7,Male,760,66.6
+2024,ELA,7,Asian,650,86.3
+2024,Math,7,Asian,658,87.2
+2024,ELA,7,Black/African American,57,31.6
+2024,Math,7,Black/African American,57,26.3
+2024,ELA,7,Hispanic/Latino,219,34.7
+2024,Math,7,Hispanic/Latino,218,22.5
+2024,ELA,7,White,364,70.6
+2024,Math,7,White,365,60.8
+2024,ELA,7,SWD,147,27.2
+2024,Math,7,SWD,147,20.4
+2025,Math,3,All Students,1345,69.4
+2025,ELA,3,All Students,1333,65.1
+2025,ELA,3,English Learner,369,34.2
+2025,Math,3,English Learner,381,43.6
+2025,ELA,3,Non-EL,964,77.0
+2025,Math,3,Non-EL,964,79.7
+2025,ELA,3,Econ Disadvantaged,322,28.3
+2025,Math,3,Econ Disadvantaged,323,33.4
+2025,ELA,3,Not Econ Disadv,1011,76.9
+2025,Math,3,Not Econ Disadv,1022,80.8
+2025,ELA,3,Female,643,69.2
+2025,Math,3,Female,647,66.3
+2025,ELA,3,Male,690,61.3
+2025,Math,3,Male,698,72.4
+2025,Math,3,Asian,614,85.0
+2025,ELA,3,Asian,602,80.1
+2025,ELA,3,Black/African American,,40.9
+2025,Math,3,Black/African American,,40.9
+2025,ELA,3,Hispanic/Latino,200,25.5
+2025,Math,3,Hispanic/Latino,200,29.0
+2025,ELA,3,White,328,61.9
+2025,Math,3,White,328,64.0
+2025,ELA,3,SWD,170,34.7
+2025,Math,3,SWD,170,40.0
+2025,ELA,4,All Students,1375,70.8
+2025,Math,4,All Students,1381,72.9
+2025,ELA,4,English Learner,328,33.2
+2025,Math,4,English Learner,334,44.3
+2025,Math,4,Non-EL,1047,82.0
+2025,ELA,4,Non-EL,1047,82.5
+2025,ELA,4,Econ Disadvantaged,321,35.8
+2025,Math,4,Econ Disadvantaged,321,39.9
+2025,Math,4,Not Econ Disadv,1060,82.8
+2025,ELA,4,Not Econ Disadv,1054,81.4
+2025,ELA,4,Female,,74.1
+2025,Math,4,Female,,70.2
+2025,Math,4,Male,743,75.1
+2025,ELA,4,Male,738,67.9
+2025,Math,4,Asian,676,87.3
+2025,ELA,4,Asian,671,82.9
+2025,ELA,4,Black/African American,,30.0
+2025,Math,4,Black/African American,,24.5
+2025,ELA,4,Hispanic/Latino,199,32.2
+2025,Math,4,Hispanic/Latino,199,31.2
+2025,ELA,4,White,303,73.6
+2025,Math,4,White,305,74.8
+2025,ELA,4,SWD,175,40.0
+2025,Math,4,SWD,176,37.5
+2025,Math,5,All Students,1335,67.9
+2025,ELA,5,All Students,1333,72.5
+2025,Math,5,English Learner,253,33.6
+2025,ELA,5,English Learner,250,27.6
+2025,ELA,5,Non-EL,1083,82.8
+2025,Math,5,Non-EL,1082,75.9
+2025,ELA,5,Econ Disadvantaged,332,37.7
+2025,Math,5,Econ Disadvantaged,331,32.6
+2025,Math,5,Not Econ Disadv,1004,79.5
+2025,ELA,5,Not Econ Disadv,1001,84.0
+2025,Math,5,Female,663,66.4
+2025,ELA,5,Female,661,75.5
+2025,Math,5,Male,672,69.4
+2025,ELA,5,Male,672,69.5
+2025,ELA,5,Asian,603,84.6
+2025,Math,5,Asian,606,86.6
+2025,ELA,5,Black/African American,,37.7
+2025,Math,5,Black/African American,,30.4
+2025,ELA,5,Hispanic/Latino,176,35.2
+2025,Math,5,Hispanic/Latino,176,25.0
+2025,ELA,5,White,337,73.9
+2025,Math,5,White,337,62.9
+2025,ELA,5,SWD,139,28.1
+2025,Math,5,SWD,139,20.9
+2025,Math,6,All Students,1486,65.3
+2025,ELA,6,All Students,1477,68.9
+2025,ELA,6,English Learner,231,21.2
+2025,Math,6,English Learner,240,26.3
+2025,ELA,6,Non-EL,1246,77.8
+2025,Math,6,Non-EL,1246,72.9
+2025,Math,6,Econ Disadvantaged,368,26.6
+2025,ELA,6,Econ Disadvantaged,365,33.7
+2025,Math,6,Not Econ Disadv,1118,78.1
+2025,ELA,6,Not Econ Disadv,1112,80.5
+2025,Math,6,Female,,64.3
+2025,ELA,6,Female,,71.6
+2025,Math,6,Male,793,66.3
+2025,ELA,6,Male,788,66.6
+2025,ELA,6,Asian,724,83.3
+2025,Math,6,Asian,732,83.1
+2025,ELA,6,Black/African American,,48.1
+2025,Math,6,Black/African American,,29.6
+2025,ELA,6,Hispanic/Latino,219,33.3
+2025,Math,6,Hispanic/Latino,219,25.1
+2025,ELA,6,White,331,64.7
+2025,Math,6,White,331,60.1
+2025,ELA,6,SWD,159,22.0
+2025,Math,6,SWD,159,25.2
+2025,ELA,7,All Students,1492,68.8
+2025,Math,7,All Students,1502,65.3
+2025,ELA,7,English Learner,226,21.2
+2025,Math,7,English Learner,239,28.0
+2025,ELA,7,Non-EL,1266,77.3
+2025,Math,7,Non-EL,1263,72.3
+2025,Math,7,Econ Disadvantaged,375,26.9
+2025,ELA,7,Econ Disadvantaged,375,35.2
+2025,ELA,7,Not Econ Disadv,1117,80.1
+2025,Math,7,Not Econ Disadv,1127,78.0
+2025,Math,7,Female,,64.0
+2025,ELA,7,Female,,72.0
+2025,ELA,7,Male,774,65.9
+2025,Math,7,Male,778,66.3
+2025,ELA,7,Asian,703,83.9
+2025,Math,7,Asian,714,84.2
+2025,Math,7,Black/African American,,20.3
+2025,ELA,7,Black/African American,,33.3
+2025,ELA,7,Hispanic/Latino,212,33.5
+2025,Math,7,Hispanic/Latino,212,25.5
+2025,Math,7,White,361,60.9
+2025,ELA,7,White,360,66.7
+2025,ELA,7,SWD,137,27.0
+2025,Math,7,SWD,136,18.4

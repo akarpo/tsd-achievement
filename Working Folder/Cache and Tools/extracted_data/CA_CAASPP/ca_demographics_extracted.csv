@@ -1,0 +1,3297 @@
+year,district,subject,grade,subgroup_code,subgroup,tested,pct_met
+2019,Dublin USD,ELA,3,1,All Students,1007,79.15
+2019,Dublin USD,ELA,3,3,Female,494,72.06
+2019,Dublin USD,ELA,3,4,Male,513,85.96
+2019,Dublin USD,ELA,3,31,Econ Disadvantaged,61,45.9
+2019,Dublin USD,ELA,3,74,Black/African American,20,55.0
+2019,Dublin USD,ELA,3,75,American Indian,7,
+2019,Dublin USD,ELA,3,76,Asian,589,87.61
+2019,Dublin USD,ELA,3,77,Filipino,35,74.29
+2019,Dublin USD,ELA,3,78,Hispanic/Latino,110,58.18
+2019,Dublin USD,ELA,3,79,Pacific Islander,,
+2019,Dublin USD,ELA,3,80,White,151,72.19
+2019,Dublin USD,ELA,3,99,Non-SWD,953,81.64
+2019,Dublin USD,ELA,3,111,Not Econ Disadv,946,81.29
+2019,Dublin USD,ELA,3,128,SWD,54,35.19
+2019,Dublin USD,ELA,3,144,Two or More Races,92,71.74
+2019,Dublin USD,ELA,3,160,English Learner,65,30.77
+2019,Dublin USD,ELA,3,180,English Only,617,77.47
+2019,Dublin USD,ELA,4,1,All Students,949,78.08
+2019,Dublin USD,ELA,4,3,Female,510,74.9
+2019,Dublin USD,ELA,4,4,Male,439,81.78
+2019,Dublin USD,ELA,4,31,Econ Disadvantaged,52,28.85
+2019,Dublin USD,ELA,4,74,Black/African American,25,52.0
+2019,Dublin USD,ELA,4,75,American Indian,5,
+2019,Dublin USD,ELA,4,76,Asian,537,86.78
+2019,Dublin USD,ELA,4,77,Filipino,27,85.19
+2019,Dublin USD,ELA,4,78,Hispanic/Latino,92,51.09
+2019,Dublin USD,ELA,4,79,Pacific Islander,7,
+2019,Dublin USD,ELA,4,80,White,167,73.05
+2019,Dublin USD,ELA,4,99,Non-SWD,872,81.65
+2019,Dublin USD,ELA,4,111,Not Econ Disadv,897,80.94
+2019,Dublin USD,ELA,4,128,SWD,77,37.66
+2019,Dublin USD,ELA,4,144,Two or More Races,89,69.66
+2019,Dublin USD,ELA,4,160,English Learner,59,28.81
+2019,Dublin USD,ELA,4,180,English Only,557,75.22
+2019,Dublin USD,ELA,5,1,All Students,1003,80.86
+2019,Dublin USD,ELA,5,3,Female,519,75.34
+2019,Dublin USD,ELA,5,4,Male,484,86.78
+2019,Dublin USD,ELA,5,31,Econ Disadvantaged,60,31.67
+2019,Dublin USD,ELA,5,74,Black/African American,35,51.43
+2019,Dublin USD,ELA,5,75,American Indian,4,
+2019,Dublin USD,ELA,5,76,Asian,542,89.48
+2019,Dublin USD,ELA,5,77,Filipino,38,89.47
+2019,Dublin USD,ELA,5,78,Hispanic/Latino,117,60.68
+2019,Dublin USD,ELA,5,79,Pacific Islander,,
+2019,Dublin USD,ELA,5,80,White,187,73.8
+2019,Dublin USD,ELA,5,99,Non-SWD,910,84.51
+2019,Dublin USD,ELA,5,111,Not Econ Disadv,943,83.99
+2019,Dublin USD,ELA,5,128,SWD,93,45.16
+2019,Dublin USD,ELA,5,144,Two or More Races,77,77.92
+2019,Dublin USD,ELA,5,160,English Learner,46,23.91
+2019,Dublin USD,ELA,5,180,English Only,618,78.8
+2019,Dublin USD,ELA,6,1,All Students,920,80.98
+2019,Dublin USD,ELA,6,3,Female,464,78.45
+2019,Dublin USD,ELA,6,4,Male,456,83.55
+2019,Dublin USD,ELA,6,31,Econ Disadvantaged,58,65.52
+2019,Dublin USD,ELA,6,74,Black/African American,23,65.22
+2019,Dublin USD,ELA,6,75,American Indian,,
+2019,Dublin USD,ELA,6,76,Asian,492,87.2
+2019,Dublin USD,ELA,6,77,Filipino,40,90.0
+2019,Dublin USD,ELA,6,78,Hispanic/Latino,93,64.52
+2019,Dublin USD,ELA,6,79,Pacific Islander,4,
+2019,Dublin USD,ELA,6,80,White,186,72.04
+2019,Dublin USD,ELA,6,99,Non-SWD,867,84.54
+2019,Dublin USD,ELA,6,111,Not Econ Disadv,862,82.02
+2019,Dublin USD,ELA,6,128,SWD,53,22.64
+2019,Dublin USD,ELA,6,144,Two or More Races,81,83.95
+2019,Dublin USD,ELA,6,160,English Learner,32,18.75
+2019,Dublin USD,ELA,6,180,English Only,577,79.72
+2019,Dublin USD,ELA,7,1,All Students,919,77.48
+2019,Dublin USD,ELA,7,3,Female,462,71.0
+2019,Dublin USD,ELA,7,4,Male,457,84.03
+2019,Dublin USD,ELA,7,31,Econ Disadvantaged,61,42.62
+2019,Dublin USD,ELA,7,74,Black/African American,35,25.71
+2019,Dublin USD,ELA,7,75,American Indian,,
+2019,Dublin USD,ELA,7,76,Asian,498,89.36
+2019,Dublin USD,ELA,7,77,Filipino,36,75.0
+2019,Dublin USD,ELA,7,78,Hispanic/Latino,93,49.46
+2019,Dublin USD,ELA,7,79,Pacific Islander,5,
+2019,Dublin USD,ELA,7,80,White,164,68.9
+2019,Dublin USD,ELA,7,99,Non-SWD,864,81.37
+2019,Dublin USD,ELA,7,111,Not Econ Disadv,858,79.95
+2019,Dublin USD,ELA,7,128,SWD,55,16.36
+2019,Dublin USD,ELA,7,144,Two or More Races,86,77.91
+2019,Dublin USD,ELA,7,160,English Learner,28,17.86
+2019,Dublin USD,ELA,7,180,English Only,547,73.31
+2019,Dublin USD,Math,3,1,All Students,1010,80.5
+2019,Dublin USD,Math,3,3,Female,496,78.83
+2019,Dublin USD,Math,3,4,Male,514,82.1
+2019,Dublin USD,Math,3,31,Econ Disadvantaged,61,39.34
+2019,Dublin USD,Math,3,74,Black/African American,20,60.0
+2019,Dublin USD,Math,3,75,American Indian,7,
+2019,Dublin USD,Math,3,76,Asian,593,89.38
+2019,Dublin USD,Math,3,77,Filipino,35,77.14
+2019,Dublin USD,Math,3,78,Hispanic/Latino,110,50.0
+2019,Dublin USD,Math,3,79,Pacific Islander,,
+2019,Dublin USD,Math,3,80,White,150,76.0
+2019,Dublin USD,Math,3,99,Non-SWD,956,82.95
+2019,Dublin USD,Math,3,111,Not Econ Disadv,949,83.14
+2019,Dublin USD,Math,3,128,SWD,54,37.04
+2019,Dublin USD,Math,3,144,Two or More Races,92,75.0
+2019,Dublin USD,Math,3,160,English Learner,69,40.58
+2019,Dublin USD,Math,3,180,English Only,616,78.57
+2019,Dublin USD,Math,4,1,All Students,952,78.15
+2019,Dublin USD,Math,4,3,Female,512,77.73
+2019,Dublin USD,Math,4,4,Male,440,78.64
+2019,Dublin USD,Math,4,31,Econ Disadvantaged,52,17.31
+2019,Dublin USD,Math,4,74,Black/African American,25,32.0
+2019,Dublin USD,Math,4,75,American Indian,5,
+2019,Dublin USD,Math,4,76,Asian,539,91.09
+2019,Dublin USD,Math,4,77,Filipino,27,77.78
+2019,Dublin USD,Math,4,78,Hispanic/Latino,92,44.57
+2019,Dublin USD,Math,4,79,Pacific Islander,7,
+2019,Dublin USD,Math,4,80,White,168,68.45
+2019,Dublin USD,Math,4,99,Non-SWD,875,81.71
+2019,Dublin USD,Math,4,111,Not Econ Disadv,900,81.67
+2019,Dublin USD,Math,4,128,SWD,77,37.66
+2019,Dublin USD,Math,4,144,Two or More Races,89,68.54
+2019,Dublin USD,Math,4,160,English Learner,64,46.88
+2019,Dublin USD,Math,4,180,English Only,556,73.38
+2019,Dublin USD,Math,5,1,All Students,1004,74.3
+2019,Dublin USD,Math,5,3,Female,520,74.04
+2019,Dublin USD,Math,5,4,Male,484,74.59
+2019,Dublin USD,Math,5,31,Econ Disadvantaged,61,14.75
+2019,Dublin USD,Math,5,74,Black/African American,35,28.57
+2019,Dublin USD,Math,5,75,American Indian,4,
+2019,Dublin USD,Math,5,76,Asian,545,87.71
+2019,Dublin USD,Math,5,77,Filipino,38,63.16
+2019,Dublin USD,Math,5,78,Hispanic/Latino,116,45.69
+2019,Dublin USD,Math,5,79,Pacific Islander,,
+2019,Dublin USD,Math,5,80,White,186,66.13
+2019,Dublin USD,Math,5,99,Non-SWD,912,78.4
+2019,Dublin USD,Math,5,111,Not Econ Disadv,943,78.15
+2019,Dublin USD,Math,5,128,SWD,92,33.7
+2019,Dublin USD,Math,5,144,Two or More Races,77,67.53
+2019,Dublin USD,Math,5,160,English Learner,49,34.69
+2019,Dublin USD,Math,5,180,English Only,616,70.62
+2019,Dublin USD,Math,6,1,All Students,921,71.99
+2019,Dublin USD,Math,6,3,Female,465,73.55
+2019,Dublin USD,Math,6,4,Male,456,70.39
+2019,Dublin USD,Math,6,31,Econ Disadvantaged,58,46.55
+2019,Dublin USD,Math,6,74,Black/African American,23,43.48
+2019,Dublin USD,Math,6,75,American Indian,,
+2019,Dublin USD,Math,6,76,Asian,493,83.16
+2019,Dublin USD,Math,6,77,Filipino,40,77.5
+2019,Dublin USD,Math,6,78,Hispanic/Latino,93,46.24
+2019,Dublin USD,Math,6,79,Pacific Islander,4,
+2019,Dublin USD,Math,6,80,White,186,58.6
+2019,Dublin USD,Math,6,99,Non-SWD,868,75.35
+2019,Dublin USD,Math,6,111,Not Econ Disadv,863,73.7
+2019,Dublin USD,Math,6,128,SWD,53,16.98
+2019,Dublin USD,Math,6,144,Two or More Races,81,70.37
+2019,Dublin USD,Math,6,160,English Learner,33,30.3
+2019,Dublin USD,Math,6,180,English Only,577,69.5
+2019,Dublin USD,Math,7,1,All Students,920,70.87
+2019,Dublin USD,Math,7,3,Female,463,70.63
+2019,Dublin USD,Math,7,4,Male,457,71.12
+2019,Dublin USD,Math,7,31,Econ Disadvantaged,62,25.81
+2019,Dublin USD,Math,7,74,Black/African American,35,17.14
+2019,Dublin USD,Math,7,75,American Indian,,
+2019,Dublin USD,Math,7,76,Asian,498,86.55
+2019,Dublin USD,Math,7,77,Filipino,36,69.44
+2019,Dublin USD,Math,7,78,Hispanic/Latino,95,35.79
+2019,Dublin USD,Math,7,79,Pacific Islander,5,
+2019,Dublin USD,Math,7,80,White,163,58.28
+2019,Dublin USD,Math,7,99,Non-SWD,866,74.25
+2019,Dublin USD,Math,7,111,Not Econ Disadv,858,74.13
+2019,Dublin USD,Math,7,128,SWD,54,16.67
+2019,Dublin USD,Math,7,144,Two or More Races,86,68.6
+2019,Dublin USD,Math,7,160,English Learner,30,20.0
+2019,Dublin USD,Math,7,180,English Only,546,66.12
+2019,Walnut Valley USD,ELA,3,1,All Students,851,75.91
+2019,Walnut Valley USD,ELA,3,3,Female,423,73.05
+2019,Walnut Valley USD,ELA,3,4,Male,428,78.74
+2019,Walnut Valley USD,ELA,3,31,Econ Disadvantaged,185,63.24
+2019,Walnut Valley USD,ELA,3,74,Black/African American,8,
+2019,Walnut Valley USD,ELA,3,76,Asian,501,82.44
+2019,Walnut Valley USD,ELA,3,77,Filipino,46,86.96
+2019,Walnut Valley USD,ELA,3,78,Hispanic/Latino,195,59.49
+2019,Walnut Valley USD,ELA,3,79,Pacific Islander,5,
+2019,Walnut Valley USD,ELA,3,80,White,43,65.12
+2019,Walnut Valley USD,ELA,3,99,Non-SWD,780,79.36
+2019,Walnut Valley USD,ELA,3,111,Not Econ Disadv,666,79.43
+2019,Walnut Valley USD,ELA,3,128,SWD,71,38.03
+2019,Walnut Valley USD,ELA,3,144,Two or More Races,53,77.36
+2019,Walnut Valley USD,ELA,3,160,English Learner,123,49.59
+2019,Walnut Valley USD,ELA,3,180,English Only,475,74.53
+2019,Walnut Valley USD,ELA,4,1,All Students,868,75.12
+2019,Walnut Valley USD,ELA,4,3,Female,443,73.36
+2019,Walnut Valley USD,ELA,4,4,Male,425,76.94
+2019,Walnut Valley USD,ELA,4,31,Econ Disadvantaged,203,63.55
+2019,Walnut Valley USD,ELA,4,74,Black/African American,11,36.36
+2019,Walnut Valley USD,ELA,4,76,Asian,519,82.47
+2019,Walnut Valley USD,ELA,4,77,Filipino,48,81.25
+2019,Walnut Valley USD,ELA,4,78,Hispanic/Latino,192,59.38
+2019,Walnut Valley USD,ELA,4,79,Pacific Islander,5,
+2019,Walnut Valley USD,ELA,4,80,White,46,69.57
+2019,Walnut Valley USD,ELA,4,99,Non-SWD,795,78.62
+2019,Walnut Valley USD,ELA,4,111,Not Econ Disadv,665,78.65
+2019,Walnut Valley USD,ELA,4,128,SWD,73,36.99
+2019,Walnut Valley USD,ELA,4,144,Two or More Races,47,70.21
+2019,Walnut Valley USD,ELA,4,160,English Learner,111,45.95
+2019,Walnut Valley USD,ELA,4,180,English Only,451,72.51
+2019,Walnut Valley USD,ELA,5,1,All Students,969,78.74
+2019,Walnut Valley USD,ELA,5,3,Female,505,78.22
+2019,Walnut Valley USD,ELA,5,4,Male,464,79.31
+2019,Walnut Valley USD,ELA,5,31,Econ Disadvantaged,260,70.77
+2019,Walnut Valley USD,ELA,5,74,Black/African American,14,50.0
+2019,Walnut Valley USD,ELA,5,76,Asian,558,86.02
+2019,Walnut Valley USD,ELA,5,77,Filipino,40,80.0
+2019,Walnut Valley USD,ELA,5,78,Hispanic/Latino,235,63.4
+2019,Walnut Valley USD,ELA,5,79,Pacific Islander,8,
+2019,Walnut Valley USD,ELA,5,80,White,63,73.02
+2019,Walnut Valley USD,ELA,5,99,Non-SWD,891,82.94
+2019,Walnut Valley USD,ELA,5,111,Not Econ Disadv,709,81.66
+2019,Walnut Valley USD,ELA,5,128,SWD,78,30.77
+2019,Walnut Valley USD,ELA,5,144,Two or More Races,51,82.35
+2019,Walnut Valley USD,ELA,5,160,English Learner,123,46.34
+2019,Walnut Valley USD,ELA,5,180,English Only,504,76.59
+2019,Walnut Valley USD,ELA,6,1,All Students,1075,76.47
+2019,Walnut Valley USD,ELA,6,3,Female,543,74.03
+2019,Walnut Valley USD,ELA,6,4,Male,532,78.95
+2019,Walnut Valley USD,ELA,6,31,Econ Disadvantaged,261,63.98
+2019,Walnut Valley USD,ELA,6,74,Black/African American,11,27.27
+2019,Walnut Valley USD,ELA,6,75,American Indian,,
+2019,Walnut Valley USD,ELA,6,76,Asian,666,82.13
+2019,Walnut Valley USD,ELA,6,77,Filipino,27,88.89
+2019,Walnut Valley USD,ELA,6,78,Hispanic/Latino,249,61.04
+2019,Walnut Valley USD,ELA,6,79,Pacific Islander,17,76.47
+2019,Walnut Valley USD,ELA,6,80,White,53,66.04
+2019,Walnut Valley USD,ELA,6,99,Non-SWD,1001,80.32
+2019,Walnut Valley USD,ELA,6,111,Not Econ Disadv,814,80.47
+2019,Walnut Valley USD,ELA,6,128,SWD,74,24.32
+2019,Walnut Valley USD,ELA,6,144,Two or More Races,51,92.16
+2019,Walnut Valley USD,ELA,6,160,English Learner,108,29.63
+2019,Walnut Valley USD,ELA,6,180,English Only,525,75.81
+2019,Walnut Valley USD,ELA,7,1,All Students,1127,76.31
+2019,Walnut Valley USD,ELA,7,3,Female,566,72.44
+2019,Walnut Valley USD,ELA,7,4,Male,561,80.21
+2019,Walnut Valley USD,ELA,7,31,Econ Disadvantaged,300,62.0
+2019,Walnut Valley USD,ELA,7,74,Black/African American,20,40.0
+2019,Walnut Valley USD,ELA,7,76,Asian,632,85.76
+2019,Walnut Valley USD,ELA,7,77,Filipino,47,85.11
+2019,Walnut Valley USD,ELA,7,78,Hispanic/Latino,283,57.6
+2019,Walnut Valley USD,ELA,7,79,Pacific Islander,11,72.73
+2019,Walnut Valley USD,ELA,7,80,White,82,65.85
+2019,Walnut Valley USD,ELA,7,99,Non-SWD,1038,81.02
+2019,Walnut Valley USD,ELA,7,111,Not Econ Disadv,827,81.5
+2019,Walnut Valley USD,ELA,7,128,SWD,89,21.35
+2019,Walnut Valley USD,ELA,7,144,Two or More Races,52,86.54
+2019,Walnut Valley USD,ELA,7,160,English Learner,99,30.3
+2019,Walnut Valley USD,ELA,7,180,English Only,581,73.67
+2019,Walnut Valley USD,Math,3,1,All Students,864,81.6
+2019,Walnut Valley USD,Math,3,3,Female,432,82.87
+2019,Walnut Valley USD,Math,3,4,Male,432,80.32
+2019,Walnut Valley USD,Math,3,31,Econ Disadvantaged,187,63.64
+2019,Walnut Valley USD,Math,3,74,Black/African American,8,
+2019,Walnut Valley USD,Math,3,76,Asian,513,91.23
+2019,Walnut Valley USD,Math,3,77,Filipino,46,91.3
+2019,Walnut Valley USD,Math,3,78,Hispanic/Latino,196,58.67
+2019,Walnut Valley USD,Math,3,79,Pacific Islander,5,
+2019,Walnut Valley USD,Math,3,80,White,43,67.44
+2019,Walnut Valley USD,Math,3,99,Non-SWD,793,85.12
+2019,Walnut Valley USD,Math,3,111,Not Econ Disadv,677,86.56
+2019,Walnut Valley USD,Math,3,128,SWD,71,42.25
+2019,Walnut Valley USD,Math,3,144,Two or More Races,53,79.25
+2019,Walnut Valley USD,Math,3,160,English Learner,136,72.79
+2019,Walnut Valley USD,Math,3,180,English Only,475,77.47
+2019,Walnut Valley USD,Math,4,1,All Students,879,75.65
+2019,Walnut Valley USD,Math,4,3,Female,452,76.99
+2019,Walnut Valley USD,Math,4,4,Male,427,74.24
+2019,Walnut Valley USD,Math,4,31,Econ Disadvantaged,204,67.65
+2019,Walnut Valley USD,Math,4,74,Black/African American,11,36.36
+2019,Walnut Valley USD,Math,4,76,Asian,530,86.04
+2019,Walnut Valley USD,Math,4,77,Filipino,47,85.11
+2019,Walnut Valley USD,Math,4,78,Hispanic/Latino,193,53.37
+2019,Walnut Valley USD,Math,4,79,Pacific Islander,5,
+2019,Walnut Valley USD,Math,4,80,White,46,56.52
+2019,Walnut Valley USD,Math,4,99,Non-SWD,806,78.78
+2019,Walnut Valley USD,Math,4,111,Not Econ Disadv,675,78.07
+2019,Walnut Valley USD,Math,4,128,SWD,73,41.1
+2019,Walnut Valley USD,Math,4,144,Two or More Races,47,70.21
+2019,Walnut Valley USD,Math,4,160,English Learner,122,65.57
+2019,Walnut Valley USD,Math,4,180,English Only,450,68.44
+2019,Walnut Valley USD,Math,5,1,All Students,980,73.88
+2019,Walnut Valley USD,Math,5,3,Female,512,76.76
+2019,Walnut Valley USD,Math,5,4,Male,468,70.73
+2019,Walnut Valley USD,Math,5,31,Econ Disadvantaged,260,64.23
+2019,Walnut Valley USD,Math,5,74,Black/African American,14,42.86
+2019,Walnut Valley USD,Math,5,76,Asian,569,86.82
+2019,Walnut Valley USD,Math,5,77,Filipino,40,80.0
+2019,Walnut Valley USD,Math,5,78,Hispanic/Latino,235,45.96
+2019,Walnut Valley USD,Math,5,79,Pacific Islander,8,
+2019,Walnut Valley USD,Math,5,80,White,63,61.9
+2019,Walnut Valley USD,Math,5,99,Non-SWD,902,77.94
+2019,Walnut Valley USD,Math,5,111,Not Econ Disadv,720,77.36
+2019,Walnut Valley USD,Math,5,128,SWD,78,26.92
+2019,Walnut Valley USD,Math,5,144,Two or More Races,51,74.51
+2019,Walnut Valley USD,Math,5,160,English Learner,134,59.7
+2019,Walnut Valley USD,Math,5,180,English Only,504,66.67
+2019,Walnut Valley USD,Math,6,1,All Students,1082,77.89
+2019,Walnut Valley USD,Math,6,3,Female,547,80.4
+2019,Walnut Valley USD,Math,6,4,Male,535,75.33
+2019,Walnut Valley USD,Math,6,31,Econ Disadvantaged,264,72.24
+2019,Walnut Valley USD,Math,6,74,Black/African American,11,18.18
+2019,Walnut Valley USD,Math,6,75,American Indian,,
+2019,Walnut Valley USD,Math,6,76,Asian,672,89.43
+2019,Walnut Valley USD,Math,6,77,Filipino,28,75.0
+2019,Walnut Valley USD,Math,6,78,Hispanic/Latino,249,53.23
+2019,Walnut Valley USD,Math,6,79,Pacific Islander,17,70.59
+2019,Walnut Valley USD,Math,6,80,White,53,56.6
+2019,Walnut Valley USD,Math,6,99,Non-SWD,1008,81.53
+2019,Walnut Valley USD,Math,6,111,Not Econ Disadv,818,79.71
+2019,Walnut Valley USD,Math,6,128,SWD,74,28.38
+2019,Walnut Valley USD,Math,6,144,Two or More Races,51,84.31
+2019,Walnut Valley USD,Math,6,160,English Learner,113,66.96
+2019,Walnut Valley USD,Math,6,180,English Only,525,68.38
+2019,Walnut Valley USD,Math,7,1,All Students,1136,72.54
+2019,Walnut Valley USD,Math,7,3,Female,573,73.82
+2019,Walnut Valley USD,Math,7,4,Male,563,71.23
+2019,Walnut Valley USD,Math,7,31,Econ Disadvantaged,301,59.14
+2019,Walnut Valley USD,Math,7,74,Black/African American,20,30.0
+2019,Walnut Valley USD,Math,7,76,Asian,639,89.51
+2019,Walnut Valley USD,Math,7,77,Filipino,47,74.47
+2019,Walnut Valley USD,Math,7,78,Hispanic/Latino,285,40.0
+2019,Walnut Valley USD,Math,7,79,Pacific Islander,11,72.73
+2019,Walnut Valley USD,Math,7,80,White,82,56.1
+2019,Walnut Valley USD,Math,7,99,Non-SWD,1046,77.34
+2019,Walnut Valley USD,Math,7,111,Not Econ Disadv,835,77.37
+2019,Walnut Valley USD,Math,7,128,SWD,90,16.67
+2019,Walnut Valley USD,Math,7,144,Two or More Races,52,82.69
+2019,Walnut Valley USD,Math,7,160,English Learner,106,62.26
+2019,Walnut Valley USD,Math,7,180,English Only,583,63.98
+2019,Palo Alto USD,ELA,3,1,All Students,788,74.08
+2019,Palo Alto USD,ELA,3,3,Female,402,70.4
+2019,Palo Alto USD,ELA,3,4,Male,386,77.92
+2019,Palo Alto USD,ELA,3,31,Econ Disadvantaged,114,29.2
+2019,Palo Alto USD,ELA,3,74,Black/African American,18,22.22
+2019,Palo Alto USD,ELA,3,76,Asian,272,87.13
+2019,Palo Alto USD,ELA,3,77,Filipino,,
+2019,Palo Alto USD,ELA,3,78,Hispanic/Latino,122,39.67
+2019,Palo Alto USD,ELA,3,79,Pacific Islander,6,
+2019,Palo Alto USD,ELA,3,80,White,253,79.84
+2019,Palo Alto USD,ELA,3,99,Non-SWD,687,78.43
+2019,Palo Alto USD,ELA,3,111,Not Econ Disadv,674,81.6
+2019,Palo Alto USD,ELA,3,128,SWD,101,44.55
+2019,Palo Alto USD,ELA,3,144,Two or More Races,116,77.59
+2019,Palo Alto USD,ELA,3,160,English Learner,113,40.18
+2019,Palo Alto USD,ELA,3,180,English Only,498,76.91
+2019,Palo Alto USD,ELA,4,1,All Students,839,79.98
+2019,Palo Alto USD,ELA,4,3,Female,455,75.6
+2019,Palo Alto USD,ELA,4,4,Male,384,85.16
+2019,Palo Alto USD,ELA,4,31,Econ Disadvantaged,100,49.0
+2019,Palo Alto USD,ELA,4,74,Black/African American,16,25.0
+2019,Palo Alto USD,ELA,4,76,Asian,280,90.0
+2019,Palo Alto USD,ELA,4,77,Filipino,8,
+2019,Palo Alto USD,ELA,4,78,Hispanic/Latino,120,58.33
+2019,Palo Alto USD,ELA,4,79,Pacific Islander,11,36.36
+2019,Palo Alto USD,ELA,4,80,White,311,80.06
+2019,Palo Alto USD,ELA,4,99,Non-SWD,753,84.59
+2019,Palo Alto USD,ELA,4,111,Not Econ Disadv,739,84.17
+2019,Palo Alto USD,ELA,4,128,SWD,86,39.53
+2019,Palo Alto USD,ELA,4,144,Two or More Races,93,91.4
+2019,Palo Alto USD,ELA,4,160,English Learner,103,39.81
+2019,Palo Alto USD,ELA,4,180,English Only,505,82.97
+2019,Palo Alto USD,ELA,5,1,All Students,860,83.37
+2019,Palo Alto USD,ELA,5,3,Female,440,81.14
+2019,Palo Alto USD,ELA,5,4,Male,420,85.71
+2019,Palo Alto USD,ELA,5,31,Econ Disadvantaged,107,44.86
+2019,Palo Alto USD,ELA,5,74,Black/African American,10,
+2019,Palo Alto USD,ELA,5,76,Asian,333,93.69
+2019,Palo Alto USD,ELA,5,77,Filipino,5,
+2019,Palo Alto USD,ELA,5,78,Hispanic/Latino,121,52.07
+2019,Palo Alto USD,ELA,5,79,Pacific Islander,8,
+2019,Palo Alto USD,ELA,5,80,White,293,88.74
+2019,Palo Alto USD,ELA,5,99,Non-SWD,762,87.8
+2019,Palo Alto USD,ELA,5,111,Not Econ Disadv,753,88.84
+2019,Palo Alto USD,ELA,5,128,SWD,98,48.98
+2019,Palo Alto USD,ELA,5,144,Two or More Races,90,81.11
+2019,Palo Alto USD,ELA,5,160,English Learner,68,36.76
+2019,Palo Alto USD,ELA,5,180,English Only,519,85.55
+2019,Palo Alto USD,ELA,6,1,All Students,862,81.09
+2019,Palo Alto USD,ELA,6,3,Female,486,79.63
+2019,Palo Alto USD,ELA,6,4,Male,376,82.98
+2019,Palo Alto USD,ELA,6,31,Econ Disadvantaged,96,40.63
+2019,Palo Alto USD,ELA,6,74,Black/African American,14,42.86
+2019,Palo Alto USD,ELA,6,76,Asian,293,89.08
+2019,Palo Alto USD,ELA,6,78,Hispanic/Latino,102,48.04
+2019,Palo Alto USD,ELA,6,79,Pacific Islander,8,
+2019,Palo Alto USD,ELA,6,80,White,312,86.22
+2019,Palo Alto USD,ELA,6,99,Non-SWD,768,86.46
+2019,Palo Alto USD,ELA,6,111,Not Econ Disadv,766,86.16
+2019,Palo Alto USD,ELA,6,128,SWD,94,37.23
+2019,Palo Alto USD,ELA,6,144,Two or More Races,133,83.46
+2019,Palo Alto USD,ELA,6,160,English Learner,44,20.45
+2019,Palo Alto USD,ELA,6,180,English Only,524,82.06
+2019,Palo Alto USD,ELA,7,1,All Students,906,85.98
+2019,Palo Alto USD,ELA,7,3,Female,477,84.07
+2019,Palo Alto USD,ELA,7,4,Male,429,88.11
+2019,Palo Alto USD,ELA,7,31,Econ Disadvantaged,99,52.53
+2019,Palo Alto USD,ELA,7,74,Black/African American,14,28.57
+2019,Palo Alto USD,ELA,7,75,American Indian,4,
+2019,Palo Alto USD,ELA,7,76,Asian,345,93.62
+2019,Palo Alto USD,ELA,7,77,Filipino,5,
+2019,Palo Alto USD,ELA,7,78,Hispanic/Latino,119,62.18
+2019,Palo Alto USD,ELA,7,79,Pacific Islander,6,
+2019,Palo Alto USD,ELA,7,80,White,312,87.82
+2019,Palo Alto USD,ELA,7,99,Non-SWD,828,89.86
+2019,Palo Alto USD,ELA,7,111,Not Econ Disadv,807,90.09
+2019,Palo Alto USD,ELA,7,128,SWD,78,44.87
+2019,Palo Alto USD,ELA,7,144,Two or More Races,101,95.05
+2019,Palo Alto USD,ELA,7,160,English Learner,34,17.65
+2019,Palo Alto USD,ELA,7,180,English Only,574,88.33
+2019,Palo Alto USD,Math,3,1,All Students,798,82.83
+2019,Palo Alto USD,Math,3,3,Female,406,82.27
+2019,Palo Alto USD,Math,3,4,Male,392,83.42
+2019,Palo Alto USD,Math,3,31,Econ Disadvantaged,116,37.93
+2019,Palo Alto USD,Math,3,74,Black/African American,18,50.0
+2019,Palo Alto USD,Math,3,76,Asian,277,94.58
+2019,Palo Alto USD,Math,3,77,Filipino,,
+2019,Palo Alto USD,Math,3,78,Hispanic/Latino,123,50.41
+2019,Palo Alto USD,Math,3,79,Pacific Islander,6,
+2019,Palo Alto USD,Math,3,80,White,256,85.55
+2019,Palo Alto USD,Math,3,99,Non-SWD,697,86.8
+2019,Palo Alto USD,Math,3,111,Not Econ Disadv,682,90.47
+2019,Palo Alto USD,Math,3,128,SWD,101,55.45
+2019,Palo Alto USD,Math,3,144,Two or More Races,117,90.6
+2019,Palo Alto USD,Math,3,160,English Learner,121,57.02
+2019,Palo Alto USD,Math,3,180,English Only,498,85.54
+2019,Palo Alto USD,Math,4,1,All Students,853,84.17
+2019,Palo Alto USD,Math,4,3,Female,461,83.73
+2019,Palo Alto USD,Math,4,4,Male,392,84.69
+2019,Palo Alto USD,Math,4,31,Econ Disadvantaged,100,49.0
+2019,Palo Alto USD,Math,4,74,Black/African American,16,31.25
+2019,Palo Alto USD,Math,4,76,Asian,293,94.54
+2019,Palo Alto USD,Math,4,77,Filipino,8,
+2019,Palo Alto USD,Math,4,78,Hispanic/Latino,119,58.82
+2019,Palo Alto USD,Math,4,79,Pacific Islander,11,36.36
+2019,Palo Alto USD,Math,4,80,White,313,85.3
+2019,Palo Alto USD,Math,4,99,Non-SWD,767,88.14
+2019,Palo Alto USD,Math,4,111,Not Econ Disadv,753,88.84
+2019,Palo Alto USD,Math,4,128,SWD,86,48.84
+2019,Palo Alto USD,Math,4,144,Two or More Races,93,95.7
+2019,Palo Alto USD,Math,4,160,English Learner,117,58.97
+2019,Palo Alto USD,Math,4,180,English Only,505,86.14
+2019,Palo Alto USD,Math,5,1,All Students,864,78.82
+2019,Palo Alto USD,Math,5,3,Female,443,79.23
+2019,Palo Alto USD,Math,5,4,Male,421,78.38
+2019,Palo Alto USD,Math,5,31,Econ Disadvantaged,106,35.85
+2019,Palo Alto USD,Math,5,74,Black/African American,10,
+2019,Palo Alto USD,Math,5,76,Asian,335,93.73
+2019,Palo Alto USD,Math,5,77,Filipino,5,
+2019,Palo Alto USD,Math,5,78,Hispanic/Latino,121,40.5
+2019,Palo Alto USD,Math,5,79,Pacific Islander,8,
+2019,Palo Alto USD,Math,5,80,White,295,80.34
+2019,Palo Alto USD,Math,5,99,Non-SWD,766,83.68
+2019,Palo Alto USD,Math,5,111,Not Econ Disadv,758,84.83
+2019,Palo Alto USD,Math,5,128,SWD,98,40.82
+2019,Palo Alto USD,Math,5,144,Two or More Races,90,80.0
+2019,Palo Alto USD,Math,5,160,English Learner,69,47.83
+2019,Palo Alto USD,Math,5,180,English Only,521,79.85
+2019,Palo Alto USD,Math,6,1,All Students,873,79.38
+2019,Palo Alto USD,Math,6,3,Female,490,80.61
+2019,Palo Alto USD,Math,6,4,Male,383,77.81
+2019,Palo Alto USD,Math,6,31,Econ Disadvantaged,97,37.11
+2019,Palo Alto USD,Math,6,74,Black/African American,14,35.71
+2019,Palo Alto USD,Math,6,76,Asian,298,90.6
+2019,Palo Alto USD,Math,6,78,Hispanic/Latino,102,43.14
+2019,Palo Alto USD,Math,6,79,Pacific Islander,8,
+2019,Palo Alto USD,Math,6,80,White,317,81.39
+2019,Palo Alto USD,Math,6,99,Non-SWD,779,84.85
+2019,Palo Alto USD,Math,6,111,Not Econ Disadv,776,84.66
+2019,Palo Alto USD,Math,6,128,SWD,94,34.04
+2019,Palo Alto USD,Math,6,144,Two or More Races,134,85.07
+2019,Palo Alto USD,Math,6,160,English Learner,53,30.19
+2019,Palo Alto USD,Math,6,180,English Only,524,80.73
+2019,Palo Alto USD,Math,7,1,All Students,910,83.63
+2019,Palo Alto USD,Math,7,3,Female,480,85.0
+2019,Palo Alto USD,Math,7,4,Male,430,82.09
+2019,Palo Alto USD,Math,7,31,Econ Disadvantaged,99,43.43
+2019,Palo Alto USD,Math,7,74,Black/African American,14,21.43
+2019,Palo Alto USD,Math,7,75,American Indian,4,
+2019,Palo Alto USD,Math,7,76,Asian,346,93.93
+2019,Palo Alto USD,Math,7,77,Filipino,5,
+2019,Palo Alto USD,Math,7,78,Hispanic/Latino,120,55.83
+2019,Palo Alto USD,Math,7,79,Pacific Islander,6,
+2019,Palo Alto USD,Math,7,80,White,314,85.99
+2019,Palo Alto USD,Math,7,99,Non-SWD,831,87.73
+2019,Palo Alto USD,Math,7,111,Not Econ Disadv,811,88.53
+2019,Palo Alto USD,Math,7,128,SWD,79,40.51
+2019,Palo Alto USD,Math,7,144,Two or More Races,101,87.13
+2019,Palo Alto USD,Math,7,160,English Learner,35,28.57
+2019,Palo Alto USD,Math,7,180,English Only,577,86.31
+2019,Milpitas USD,ELA,3,1,All Students,723,65.98
+2019,Milpitas USD,ELA,3,3,Female,373,61.39
+2019,Milpitas USD,ELA,3,4,Male,350,70.86
+2019,Milpitas USD,ELA,3,31,Econ Disadvantaged,233,47.21
+2019,Milpitas USD,ELA,3,74,Black/African American,16,43.75
+2019,Milpitas USD,ELA,3,75,American Indian,,
+2019,Milpitas USD,ELA,3,76,Asian,384,76.82
+2019,Milpitas USD,ELA,3,77,Filipino,112,67.86
+2019,Milpitas USD,ELA,3,78,Hispanic/Latino,115,33.91
+2019,Milpitas USD,ELA,3,79,Pacific Islander,4,
+2019,Milpitas USD,ELA,3,80,White,34,58.82
+2019,Milpitas USD,ELA,3,99,Non-SWD,667,69.87
+2019,Milpitas USD,ELA,3,111,Not Econ Disadv,490,74.9
+2019,Milpitas USD,ELA,3,128,SWD,56,19.64
+2019,Milpitas USD,ELA,3,144,Two or More Races,54,64.81
+2019,Milpitas USD,ELA,3,160,English Learner,174,30.46
+2019,Milpitas USD,ELA,3,180,English Only,329,67.78
+2019,Milpitas USD,ELA,4,1,All Students,704,68.89
+2019,Milpitas USD,ELA,4,3,Female,346,63.87
+2019,Milpitas USD,ELA,4,4,Male,358,73.74
+2019,Milpitas USD,ELA,4,31,Econ Disadvantaged,246,44.31
+2019,Milpitas USD,ELA,4,74,Black/African American,12,50.0
+2019,Milpitas USD,ELA,4,76,Asian,354,81.64
+2019,Milpitas USD,ELA,4,77,Filipino,98,70.41
+2019,Milpitas USD,ELA,4,78,Hispanic/Latino,143,34.97
+2019,Milpitas USD,ELA,4,79,Pacific Islander,4,
+2019,Milpitas USD,ELA,4,80,White,38,73.68
+2019,Milpitas USD,ELA,4,99,Non-SWD,653,71.82
+2019,Milpitas USD,ELA,4,111,Not Econ Disadv,458,82.1
+2019,Milpitas USD,ELA,4,128,SWD,51,31.37
+2019,Milpitas USD,ELA,4,144,Two or More Races,53,73.58
+2019,Milpitas USD,ELA,4,160,English Learner,183,37.7
+2019,Milpitas USD,ELA,4,180,English Only,295,68.14
+2019,Milpitas USD,ELA,5,1,All Students,709,70.66
+2019,Milpitas USD,ELA,5,3,Female,370,65.95
+2019,Milpitas USD,ELA,5,4,Male,339,75.81
+2019,Milpitas USD,ELA,5,31,Econ Disadvantaged,236,50.85
+2019,Milpitas USD,ELA,5,74,Black/African American,10,
+2019,Milpitas USD,ELA,5,75,American Indian,6,
+2019,Milpitas USD,ELA,5,76,Asian,352,84.09
+2019,Milpitas USD,ELA,5,77,Filipino,124,66.94
+2019,Milpitas USD,ELA,5,78,Hispanic/Latino,148,45.27
+2019,Milpitas USD,ELA,5,79,Pacific Islander,,
+2019,Milpitas USD,ELA,5,80,White,27,66.67
+2019,Milpitas USD,ELA,5,99,Non-SWD,653,75.04
+2019,Milpitas USD,ELA,5,111,Not Econ Disadv,473,80.55
+2019,Milpitas USD,ELA,5,128,SWD,56,19.64
+2019,Milpitas USD,ELA,5,144,Two or More Races,39,66.67
+2019,Milpitas USD,ELA,5,160,English Learner,174,37.93
+2019,Milpitas USD,ELA,5,180,English Only,288,70.83
+2019,Milpitas USD,ELA,6,1,All Students,754,69.99
+2019,Milpitas USD,ELA,6,3,Female,384,66.93
+2019,Milpitas USD,ELA,6,4,Male,370,73.17
+2019,Milpitas USD,ELA,6,31,Econ Disadvantaged,275,52.19
+2019,Milpitas USD,ELA,6,74,Black/African American,21,52.38
+2019,Milpitas USD,ELA,6,75,American Indian,,
+2019,Milpitas USD,ELA,6,76,Asian,354,86.16
+2019,Milpitas USD,ELA,6,77,Filipino,117,65.81
+2019,Milpitas USD,ELA,6,78,Hispanic/Latino,175,43.68
+2019,Milpitas USD,ELA,6,79,Pacific Islander,,
+2019,Milpitas USD,ELA,6,80,White,43,69.77
+2019,Milpitas USD,ELA,6,99,Non-SWD,678,76.37
+2019,Milpitas USD,ELA,6,111,Not Econ Disadv,479,80.17
+2019,Milpitas USD,ELA,6,128,SWD,76,13.16
+2019,Milpitas USD,ELA,6,144,Two or More Races,42,64.29
+2019,Milpitas USD,ELA,6,160,English Learner,156,23.72
+2019,Milpitas USD,ELA,6,180,English Only,281,67.62
+2019,Milpitas USD,ELA,7,1,All Students,785,76.94
+2019,Milpitas USD,ELA,7,3,Female,405,68.64
+2019,Milpitas USD,ELA,7,4,Male,380,85.79
+2019,Milpitas USD,ELA,7,31,Econ Disadvantaged,245,62.04
+2019,Milpitas USD,ELA,7,74,Black/African American,15,46.67
+2019,Milpitas USD,ELA,7,75,American Indian,,
+2019,Milpitas USD,ELA,7,76,Asian,399,88.22
+2019,Milpitas USD,ELA,7,77,Filipino,136,78.68
+2019,Milpitas USD,ELA,7,78,Hispanic/Latino,162,48.77
+2019,Milpitas USD,ELA,7,79,Pacific Islander,5,
+2019,Milpitas USD,ELA,7,80,White,31,83.87
+2019,Milpitas USD,ELA,7,99,Non-SWD,732,80.05
+2019,Milpitas USD,ELA,7,111,Not Econ Disadv,540,83.7
+2019,Milpitas USD,ELA,7,128,SWD,53,33.96
+2019,Milpitas USD,ELA,7,144,Two or More Races,34,82.35
+2019,Milpitas USD,ELA,7,160,English Learner,140,30.71
+2019,Milpitas USD,ELA,7,180,English Only,290,79.31
+2019,Milpitas USD,Math,3,1,All Students,728,71.84
+2019,Milpitas USD,Math,3,3,Female,376,69.95
+2019,Milpitas USD,Math,3,4,Male,352,73.86
+2019,Milpitas USD,Math,3,31,Econ Disadvantaged,236,50.85
+2019,Milpitas USD,Math,3,74,Black/African American,16,37.5
+2019,Milpitas USD,Math,3,75,American Indian,,
+2019,Milpitas USD,Math,3,76,Asian,389,84.32
+2019,Milpitas USD,Math,3,77,Filipino,111,72.07
+2019,Milpitas USD,Math,3,78,Hispanic/Latino,116,35.34
+2019,Milpitas USD,Math,3,79,Pacific Islander,4,
+2019,Milpitas USD,Math,3,80,White,34,73.53
+2019,Milpitas USD,Math,3,99,Non-SWD,674,75.37
+2019,Milpitas USD,Math,3,111,Not Econ Disadv,492,81.91
+2019,Milpitas USD,Math,3,128,SWD,54,27.78
+2019,Milpitas USD,Math,3,144,Two or More Races,54,72.22
+2019,Milpitas USD,Math,3,160,English Learner,180,42.78
+2019,Milpitas USD,Math,3,180,English Only,328,72.56
+2019,Milpitas USD,Math,4,1,All Students,709,64.03
+2019,Milpitas USD,Math,4,3,Female,347,62.82
+2019,Milpitas USD,Math,4,4,Male,362,65.19
+2019,Milpitas USD,Math,4,31,Econ Disadvantaged,248,37.5
+2019,Milpitas USD,Math,4,74,Black/African American,12,16.67
+2019,Milpitas USD,Math,4,76,Asian,359,83.57
+2019,Milpitas USD,Math,4,77,Filipino,98,59.18
+2019,Milpitas USD,Math,4,78,Hispanic/Latino,143,21.68
+2019,Milpitas USD,Math,4,79,Pacific Islander,4,
+2019,Milpitas USD,Math,4,80,White,38,65.79
+2019,Milpitas USD,Math,4,99,Non-SWD,658,67.17
+2019,Milpitas USD,Math,4,111,Not Econ Disadv,461,78.31
+2019,Milpitas USD,Math,4,128,SWD,51,23.53
+2019,Milpitas USD,Math,4,144,Two or More Races,53,64.15
+2019,Milpitas USD,Math,4,160,English Learner,188,37.77
+2019,Milpitas USD,Math,4,180,English Only,295,59.66
+2019,Milpitas USD,Math,5,1,All Students,714,60.5
+2019,Milpitas USD,Math,5,3,Female,372,59.14
+2019,Milpitas USD,Math,5,4,Male,342,61.99
+2019,Milpitas USD,Math,5,31,Econ Disadvantaged,240,42.92
+2019,Milpitas USD,Math,5,74,Black/African American,10,
+2019,Milpitas USD,Math,5,75,American Indian,6,
+2019,Milpitas USD,Math,5,76,Asian,355,77.75
+2019,Milpitas USD,Math,5,77,Filipino,124,50.81
+2019,Milpitas USD,Math,5,78,Hispanic/Latino,150,31.33
+2019,Milpitas USD,Math,5,79,Pacific Islander,,
+2019,Milpitas USD,Math,5,80,White,27,59.26
+2019,Milpitas USD,Math,5,99,Non-SWD,658,64.13
+2019,Milpitas USD,Math,5,111,Not Econ Disadv,474,69.41
+2019,Milpitas USD,Math,5,128,SWD,56,17.86
+2019,Milpitas USD,Math,5,144,Two or More Races,39,56.41
+2019,Milpitas USD,Math,5,160,English Learner,178,27.53
+2019,Milpitas USD,Math,5,180,English Only,288,56.6
+2019,Milpitas USD,Math,6,1,All Students,760,60.92
+2019,Milpitas USD,Math,6,3,Female,388,59.54
+2019,Milpitas USD,Math,6,4,Male,372,62.37
+2019,Milpitas USD,Math,6,31,Econ Disadvantaged,278,39.21
+2019,Milpitas USD,Math,6,74,Black/African American,21,19.05
+2019,Milpitas USD,Math,6,75,American Indian,,
+2019,Milpitas USD,Math,6,76,Asian,358,85.47
+2019,Milpitas USD,Math,6,77,Filipino,118,51.69
+2019,Milpitas USD,Math,6,78,Hispanic/Latino,176,28.41
+2019,Milpitas USD,Math,6,79,Pacific Islander,,
+2019,Milpitas USD,Math,6,80,White,43,53.49
+2019,Milpitas USD,Math,6,99,Non-SWD,684,66.37
+2019,Milpitas USD,Math,6,111,Not Econ Disadv,482,73.44
+2019,Milpitas USD,Math,6,128,SWD,76,11.84
+2019,Milpitas USD,Math,6,144,Two or More Races,42,42.86
+2019,Milpitas USD,Math,6,160,English Learner,161,25.47
+2019,Milpitas USD,Math,6,180,English Only,281,52.67
+2019,Milpitas USD,Math,7,1,All Students,792,72.1
+2019,Milpitas USD,Math,7,3,Female,409,72.37
+2019,Milpitas USD,Math,7,4,Male,383,71.8
+2019,Milpitas USD,Math,7,31,Econ Disadvantaged,247,56.68
+2019,Milpitas USD,Math,7,74,Black/African American,15,60.0
+2019,Milpitas USD,Math,7,75,American Indian,,
+2019,Milpitas USD,Math,7,76,Asian,404,89.85
+2019,Milpitas USD,Math,7,77,Filipino,137,73.72
+2019,Milpitas USD,Math,7,78,Hispanic/Latino,163,31.9
+2019,Milpitas USD,Math,7,79,Pacific Islander,5,
+2019,Milpitas USD,Math,7,80,White,31,74.19
+2019,Milpitas USD,Math,7,99,Non-SWD,739,75.1
+2019,Milpitas USD,Math,7,111,Not Econ Disadv,545,79.08
+2019,Milpitas USD,Math,7,128,SWD,53,30.19
+2019,Milpitas USD,Math,7,144,Two or More Races,34,55.88
+2019,Milpitas USD,Math,7,160,English Learner,146,31.51
+2019,Milpitas USD,Math,7,180,English Only,290,70.34
+2022,Dublin USD,ELA,3,1,All Students,1017,79.94
+2022,Dublin USD,ELA,3,3,Female,524,75.57
+2022,Dublin USD,ELA,3,4,Male,493,84.58
+2022,Dublin USD,ELA,3,31,Econ Disadvantaged,36,52.78
+2022,Dublin USD,ELA,3,74,Black/African American,36,52.78
+2022,Dublin USD,ELA,3,76,Asian,642,87.07
+2022,Dublin USD,ELA,3,77,Filipino,46,86.96
+2022,Dublin USD,ELA,3,78,Hispanic/Latino,77,50.65
+2022,Dublin USD,ELA,3,79,Pacific Islander,4,
+2022,Dublin USD,ELA,3,80,White,128,67.19
+2022,Dublin USD,ELA,3,99,Non-SWD,944,83.16
+2022,Dublin USD,ELA,3,111,Not Econ Disadv,981,80.94
+2022,Dublin USD,ELA,3,128,SWD,73,38.36
+2022,Dublin USD,ELA,3,144,Two or More Races,84,80.95
+2022,Dublin USD,ELA,3,160,English Learner,59,49.15
+2022,Dublin USD,ELA,3,180,English Only,618,76.86
+2022,Dublin USD,ELA,4,1,All Students,1009,81.57
+2022,Dublin USD,ELA,4,3,Female,483,80.33
+2022,Dublin USD,ELA,4,4,Male,526,82.7
+2022,Dublin USD,ELA,4,31,Econ Disadvantaged,52,48.08
+2022,Dublin USD,ELA,4,74,Black/African American,26,34.62
+2022,Dublin USD,ELA,4,75,American Indian,,
+2022,Dublin USD,ELA,4,76,Asian,669,88.49
+2022,Dublin USD,ELA,4,77,Filipino,38,78.95
+2022,Dublin USD,ELA,4,78,Hispanic/Latino,84,70.24
+2022,Dublin USD,ELA,4,79,Pacific Islander,,
+2022,Dublin USD,ELA,4,80,White,124,66.13
+2022,Dublin USD,ELA,4,99,Non-SWD,939,84.77
+2022,Dublin USD,ELA,4,111,Not Econ Disadv,957,83.39
+2022,Dublin USD,ELA,4,128,SWD,70,38.57
+2022,Dublin USD,ELA,4,144,Two or More Races,64,75.0
+2022,Dublin USD,ELA,4,160,English Learner,68,36.76
+2022,Dublin USD,ELA,4,180,English Only,569,79.79
+2022,Dublin USD,ELA,5,1,All Students,1041,85.69
+2022,Dublin USD,ELA,5,3,Female,522,81.8
+2022,Dublin USD,ELA,5,4,Male,519,89.6
+2022,Dublin USD,ELA,5,31,Econ Disadvantaged,43,51.16
+2022,Dublin USD,ELA,5,74,Black/African American,17,58.82
+2022,Dublin USD,ELA,5,75,American Indian,,
+2022,Dublin USD,ELA,5,76,Asian,671,92.55
+2022,Dublin USD,ELA,5,77,Filipino,56,82.14
+2022,Dublin USD,ELA,5,78,Hispanic/Latino,71,56.34
+2022,Dublin USD,ELA,5,79,Pacific Islander,4,
+2022,Dublin USD,ELA,5,80,White,147,72.79
+2022,Dublin USD,ELA,5,99,Non-SWD,979,89.38
+2022,Dublin USD,ELA,5,111,Not Econ Disadv,998,87.17
+2022,Dublin USD,ELA,5,128,SWD,62,27.42
+2022,Dublin USD,ELA,5,144,Two or More Races,74,86.49
+2022,Dublin USD,ELA,5,160,English Learner,42,50.0
+2022,Dublin USD,ELA,5,180,English Only,621,84.06
+2022,Dublin USD,ELA,6,1,All Students,942,79.47
+2022,Dublin USD,ELA,6,3,Female,477,73.79
+2022,Dublin USD,ELA,6,4,Male,465,85.31
+2022,Dublin USD,ELA,6,31,Econ Disadvantaged,41,38.46
+2022,Dublin USD,ELA,6,74,Black/African American,20,36.84
+2022,Dublin USD,ELA,6,75,American Indian,,
+2022,Dublin USD,ELA,6,76,Asian,584,87.5
+2022,Dublin USD,ELA,6,77,Filipino,44,75.0
+2022,Dublin USD,ELA,6,78,Hispanic/Latino,93,49.46
+2022,Dublin USD,ELA,6,79,Pacific Islander,,
+2022,Dublin USD,ELA,6,80,White,125,74.4
+2022,Dublin USD,ELA,6,99,Non-SWD,891,82.45
+2022,Dublin USD,ELA,6,111,Not Econ Disadv,901,81.24
+2022,Dublin USD,ELA,6,128,SWD,51,27.45
+2022,Dublin USD,ELA,6,144,Two or More Races,74,76.71
+2022,Dublin USD,ELA,6,160,English Learner,33,21.21
+2022,Dublin USD,ELA,6,180,English Only,553,77.5
+2022,Dublin USD,ELA,7,1,All Students,913,80.72
+2022,Dublin USD,ELA,7,3,Female,495,77.58
+2022,Dublin USD,ELA,7,4,Male,418,84.45
+2022,Dublin USD,ELA,7,31,Econ Disadvantaged,39,35.9
+2022,Dublin USD,ELA,7,74,Black/African American,26,46.15
+2022,Dublin USD,ELA,7,75,American Indian,,
+2022,Dublin USD,ELA,7,76,Asian,555,91.35
+2022,Dublin USD,ELA,7,77,Filipino,42,71.43
+2022,Dublin USD,ELA,7,78,Hispanic/Latino,79,49.37
+2022,Dublin USD,ELA,7,79,Pacific Islander,7,
+2022,Dublin USD,ELA,7,80,White,130,70.77
+2022,Dublin USD,ELA,7,99,Non-SWD,854,85.13
+2022,Dublin USD,ELA,7,111,Not Econ Disadv,874,82.72
+2022,Dublin USD,ELA,7,128,SWD,59,16.95
+2022,Dublin USD,ELA,7,144,Two or More Races,73,72.6
+2022,Dublin USD,ELA,7,160,English Learner,30,20.0
+2022,Dublin USD,ELA,7,180,English Only,534,75.84
+2022,Dublin USD,Math,3,1,All Students,1023,82.49
+2022,Dublin USD,Math,3,3,Female,528,81.63
+2022,Dublin USD,Math,3,4,Male,495,83.4
+2022,Dublin USD,Math,3,31,Econ Disadvantaged,36,37.14
+2022,Dublin USD,Math,3,74,Black/African American,36,36.11
+2022,Dublin USD,Math,3,76,Asian,642,92.68
+2022,Dublin USD,Math,3,77,Filipino,47,85.11
+2022,Dublin USD,Math,3,78,Hispanic/Latino,78,48.72
+2022,Dublin USD,Math,3,79,Pacific Islander,4,
+2022,Dublin USD,Math,3,80,White,132,67.42
+2022,Dublin USD,Math,3,99,Non-SWD,948,85.23
+2022,Dublin USD,Math,3,111,Not Econ Disadv,987,84.09
+2022,Dublin USD,Math,3,128,SWD,75,47.3
+2022,Dublin USD,Math,3,144,Two or More Races,84,79.76
+2022,Dublin USD,Math,3,160,English Learner,63,57.14
+2022,Dublin USD,Math,3,180,English Only,621,79.68
+2022,Dublin USD,Math,4,1,All Students,1012,79.68
+2022,Dublin USD,Math,4,3,Female,486,82.89
+2022,Dublin USD,Math,4,4,Male,526,76.72
+2022,Dublin USD,Math,4,31,Econ Disadvantaged,53,50.0
+2022,Dublin USD,Math,4,74,Black/African American,26,23.08
+2022,Dublin USD,Math,4,75,American Indian,,
+2022,Dublin USD,Math,4,76,Asian,669,87.71
+2022,Dublin USD,Math,4,77,Filipino,38,78.95
+2022,Dublin USD,Math,4,78,Hispanic/Latino,85,55.29
+2022,Dublin USD,Math,4,79,Pacific Islander,,
+2022,Dublin USD,Math,4,80,White,126,68.0
+2022,Dublin USD,Math,4,99,Non-SWD,942,82.64
+2022,Dublin USD,Math,4,111,Not Econ Disadv,959,81.3
+2022,Dublin USD,Math,4,128,SWD,70,40.0
+2022,Dublin USD,Math,4,144,Two or More Races,64,75.0
+2022,Dublin USD,Math,4,160,English Learner,71,41.43
+2022,Dublin USD,Math,4,180,English Only,569,77.99
+2022,Dublin USD,Math,5,1,All Students,1042,77.26
+2022,Dublin USD,Math,5,3,Female,523,78.59
+2022,Dublin USD,Math,5,4,Male,519,75.92
+2022,Dublin USD,Math,5,31,Econ Disadvantaged,43,32.56
+2022,Dublin USD,Math,5,74,Black/African American,17,29.41
+2022,Dublin USD,Math,5,75,American Indian,,
+2022,Dublin USD,Math,5,76,Asian,671,87.03
+2022,Dublin USD,Math,5,77,Filipino,56,67.86
+2022,Dublin USD,Math,5,78,Hispanic/Latino,71,40.85
+2022,Dublin USD,Math,5,79,Pacific Islander,4,
+2022,Dublin USD,Math,5,80,White,147,62.59
+2022,Dublin USD,Math,5,99,Non-SWD,979,80.8
+2022,Dublin USD,Math,5,111,Not Econ Disadv,999,79.18
+2022,Dublin USD,Math,5,128,SWD,63,22.22
+2022,Dublin USD,Math,5,144,Two or More Races,75,73.33
+2022,Dublin USD,Math,5,160,English Learner,42,30.95
+2022,Dublin USD,Math,5,180,English Only,622,74.92
+2022,Dublin USD,Math,6,1,All Students,940,70.93
+2022,Dublin USD,Math,6,3,Female,479,70.92
+2022,Dublin USD,Math,6,4,Male,461,70.93
+2022,Dublin USD,Math,6,31,Econ Disadvantaged,42,19.51
+2022,Dublin USD,Math,6,74,Black/African American,19,15.79
+2022,Dublin USD,Math,6,75,American Indian,,
+2022,Dublin USD,Math,6,76,Asian,584,83.22
+2022,Dublin USD,Math,6,77,Filipino,44,47.73
+2022,Dublin USD,Math,6,78,Hispanic/Latino,92,40.66
+2022,Dublin USD,Math,6,79,Pacific Islander,,
+2022,Dublin USD,Math,6,80,White,125,60.8
+2022,Dublin USD,Math,6,99,Non-SWD,888,74.1
+2022,Dublin USD,Math,6,111,Not Econ Disadv,898,73.27
+2022,Dublin USD,Math,6,128,SWD,52,15.69
+2022,Dublin USD,Math,6,144,Two or More Races,74,55.41
+2022,Dublin USD,Math,6,160,English Learner,33,9.09
+2022,Dublin USD,Math,6,180,English Only,551,66.55
+2022,Dublin USD,Math,7,1,All Students,908,70.81
+2022,Dublin USD,Math,7,3,Female,495,72.32
+2022,Dublin USD,Math,7,4,Male,413,69.01
+2022,Dublin USD,Math,7,31,Econ Disadvantaged,41,14.63
+2022,Dublin USD,Math,7,74,Black/African American,25,24.0
+2022,Dublin USD,Math,7,75,American Indian,,
+2022,Dublin USD,Math,7,76,Asian,554,86.1
+2022,Dublin USD,Math,7,77,Filipino,41,53.66
+2022,Dublin USD,Math,7,78,Hispanic/Latino,76,27.63
+2022,Dublin USD,Math,7,79,Pacific Islander,7,
+2022,Dublin USD,Math,7,80,White,131,61.07
+2022,Dublin USD,Math,7,99,Non-SWD,850,74.71
+2022,Dublin USD,Math,7,111,Not Econ Disadv,867,73.47
+2022,Dublin USD,Math,7,128,SWD,58,13.79
+2022,Dublin USD,Math,7,144,Two or More Races,73,47.95
+2022,Dublin USD,Math,7,160,English Learner,29,13.79
+2022,Dublin USD,Math,7,180,English Only,531,65.54
+2022,Walnut Valley USD,ELA,3,1,All Students,972,74.38
+2022,Walnut Valley USD,ELA,3,3,Female,514,72.37
+2022,Walnut Valley USD,ELA,3,4,Male,458,76.64
+2022,Walnut Valley USD,ELA,3,31,Econ Disadvantaged,290,66.21
+2022,Walnut Valley USD,ELA,3,74,Black/African American,8,
+2022,Walnut Valley USD,ELA,3,76,Asian,664,80.72
+2022,Walnut Valley USD,ELA,3,77,Filipino,49,83.67
+2022,Walnut Valley USD,ELA,3,78,Hispanic/Latino,170,51.76
+2022,Walnut Valley USD,ELA,3,79,Pacific Islander,,
+2022,Walnut Valley USD,ELA,3,80,White,37,62.16
+2022,Walnut Valley USD,ELA,3,99,Non-SWD,907,77.29
+2022,Walnut Valley USD,ELA,3,111,Not Econ Disadv,682,77.86
+2022,Walnut Valley USD,ELA,3,128,SWD,65,33.85
+2022,Walnut Valley USD,ELA,3,144,Two or More Races,42,73.81
+2022,Walnut Valley USD,ELA,3,160,English Learner,137,41.61
+2022,Walnut Valley USD,ELA,3,180,English Only,443,69.98
+2022,Walnut Valley USD,ELA,4,1,All Students,945,72.59
+2022,Walnut Valley USD,ELA,4,3,Female,461,72.23
+2022,Walnut Valley USD,ELA,4,4,Male,484,72.93
+2022,Walnut Valley USD,ELA,4,31,Econ Disadvantaged,245,62.86
+2022,Walnut Valley USD,ELA,4,74,Black/African American,4,
+2022,Walnut Valley USD,ELA,4,76,Asian,606,78.88
+2022,Walnut Valley USD,ELA,4,77,Filipino,56,78.57
+2022,Walnut Valley USD,ELA,4,78,Hispanic/Latino,193,56.48
+2022,Walnut Valley USD,ELA,4,80,White,47,48.94
+2022,Walnut Valley USD,ELA,4,99,Non-SWD,853,76.55
+2022,Walnut Valley USD,ELA,4,111,Not Econ Disadv,700,76.0
+2022,Walnut Valley USD,ELA,4,128,SWD,92,35.87
+2022,Walnut Valley USD,ELA,4,144,Two or More Races,39,74.36
+2022,Walnut Valley USD,ELA,4,160,English Learner,127,36.22
+2022,Walnut Valley USD,ELA,4,180,English Only,477,68.97
+2022,Walnut Valley USD,ELA,5,1,All Students,905,76.35
+2022,Walnut Valley USD,ELA,5,3,Female,460,73.91
+2022,Walnut Valley USD,ELA,5,4,Male,445,78.88
+2022,Walnut Valley USD,ELA,5,31,Econ Disadvantaged,240,67.92
+2022,Walnut Valley USD,ELA,5,74,Black/African American,9,
+2022,Walnut Valley USD,ELA,5,76,Asian,544,83.64
+2022,Walnut Valley USD,ELA,5,77,Filipino,53,86.79
+2022,Walnut Valley USD,ELA,5,78,Hispanic/Latino,208,60.58
+2022,Walnut Valley USD,ELA,5,79,Pacific Islander,,
+2022,Walnut Valley USD,ELA,5,80,White,49,63.27
+2022,Walnut Valley USD,ELA,5,99,Non-SWD,822,80.41
+2022,Walnut Valley USD,ELA,5,111,Not Econ Disadv,665,79.4
+2022,Walnut Valley USD,ELA,5,128,SWD,83,36.14
+2022,Walnut Valley USD,ELA,5,144,Two or More Races,40,62.5
+2022,Walnut Valley USD,ELA,5,160,English Learner,91,30.77
+2022,Walnut Valley USD,ELA,5,180,English Only,478,73.43
+2022,Walnut Valley USD,ELA,6,1,All Students,964,73.86
+2022,Walnut Valley USD,ELA,6,3,Female,474,69.62
+2022,Walnut Valley USD,ELA,6,4,Male,490,77.96
+2022,Walnut Valley USD,ELA,6,31,Econ Disadvantaged,258,64.34
+2022,Walnut Valley USD,ELA,6,74,Black/African American,8,
+2022,Walnut Valley USD,ELA,6,75,American Indian,,
+2022,Walnut Valley USD,ELA,6,76,Asian,613,80.26
+2022,Walnut Valley USD,ELA,6,77,Filipino,52,88.46
+2022,Walnut Valley USD,ELA,6,78,Hispanic/Latino,197,53.81
+2022,Walnut Valley USD,ELA,6,79,Pacific Islander,4,
+2022,Walnut Valley USD,ELA,6,80,White,41,60.98
+2022,Walnut Valley USD,ELA,6,99,Non-SWD,894,77.52
+2022,Walnut Valley USD,ELA,6,111,Not Econ Disadv,706,77.34
+2022,Walnut Valley USD,ELA,6,128,SWD,70,27.14
+2022,Walnut Valley USD,ELA,6,144,Two or More Races,48,79.17
+2022,Walnut Valley USD,ELA,6,160,English Learner,116,27.59
+2022,Walnut Valley USD,ELA,6,180,English Only,495,73.54
+2022,Walnut Valley USD,ELA,7,1,All Students,1010,78.81
+2022,Walnut Valley USD,ELA,7,3,Female,526,73.57
+2022,Walnut Valley USD,ELA,7,4,Male,484,84.5
+2022,Walnut Valley USD,ELA,7,31,Econ Disadvantaged,258,68.99
+2022,Walnut Valley USD,ELA,7,74,Black/African American,9,
+2022,Walnut Valley USD,ELA,7,76,Asian,623,85.87
+2022,Walnut Valley USD,ELA,7,77,Filipino,62,82.26
+2022,Walnut Valley USD,ELA,7,78,Hispanic/Latino,220,60.91
+2022,Walnut Valley USD,ELA,7,79,Pacific Islander,4,
+2022,Walnut Valley USD,ELA,7,80,White,48,70.83
+2022,Walnut Valley USD,ELA,7,99,Non-SWD,943,83.03
+2022,Walnut Valley USD,ELA,7,111,Not Econ Disadv,752,82.18
+2022,Walnut Valley USD,ELA,7,128,SWD,67,19.4
+2022,Walnut Valley USD,ELA,7,144,Two or More Races,44,75.0
+2022,Walnut Valley USD,ELA,7,160,English Learner,77,28.57
+2022,Walnut Valley USD,ELA,7,180,English Only,504,76.19
+2022,Walnut Valley USD,Math,3,1,All Students,982,79.84
+2022,Walnut Valley USD,Math,3,3,Female,519,79.96
+2022,Walnut Valley USD,Math,3,4,Male,463,79.7
+2022,Walnut Valley USD,Math,3,31,Econ Disadvantaged,293,73.72
+2022,Walnut Valley USD,Math,3,74,Black/African American,8,
+2022,Walnut Valley USD,Math,3,76,Asian,671,88.52
+2022,Walnut Valley USD,Math,3,77,Filipino,49,85.71
+2022,Walnut Valley USD,Math,3,78,Hispanic/Latino,173,52.02
+2022,Walnut Valley USD,Math,3,79,Pacific Islander,,
+2022,Walnut Valley USD,Math,3,80,White,37,64.86
+2022,Walnut Valley USD,Math,3,99,Non-SWD,917,82.77
+2022,Walnut Valley USD,Math,3,111,Not Econ Disadv,689,82.44
+2022,Walnut Valley USD,Math,3,128,SWD,65,38.46
+2022,Walnut Valley USD,Math,3,144,Two or More Races,42,71.43
+2022,Walnut Valley USD,Math,3,160,English Learner,147,66.67
+2022,Walnut Valley USD,Math,3,180,English Only,443,72.46
+2022,Walnut Valley USD,Math,4,1,All Students,952,74.16
+2022,Walnut Valley USD,Math,4,3,Female,468,76.07
+2022,Walnut Valley USD,Math,4,4,Male,484,72.31
+2022,Walnut Valley USD,Math,4,31,Econ Disadvantaged,245,65.31
+2022,Walnut Valley USD,Math,4,74,Black/African American,4,
+2022,Walnut Valley USD,Math,4,76,Asian,614,84.2
+2022,Walnut Valley USD,Math,4,77,Filipino,56,78.57
+2022,Walnut Valley USD,Math,4,78,Hispanic/Latino,192,47.92
+2022,Walnut Valley USD,Math,4,80,White,47,55.32
+2022,Walnut Valley USD,Math,4,99,Non-SWD,860,78.14
+2022,Walnut Valley USD,Math,4,111,Not Econ Disadv,707,77.23
+2022,Walnut Valley USD,Math,4,128,SWD,92,36.96
+2022,Walnut Valley USD,Math,4,144,Two or More Races,39,64.1
+2022,Walnut Valley USD,Math,4,160,English Learner,135,51.11
+2022,Walnut Valley USD,Math,4,180,English Only,476,67.65
+2022,Walnut Valley USD,Math,5,1,All Students,911,65.42
+2022,Walnut Valley USD,Math,5,3,Female,464,68.1
+2022,Walnut Valley USD,Math,5,4,Male,447,62.64
+2022,Walnut Valley USD,Math,5,31,Econ Disadvantaged,241,56.85
+2022,Walnut Valley USD,Math,5,74,Black/African American,9,
+2022,Walnut Valley USD,Math,5,76,Asian,549,79.05
+2022,Walnut Valley USD,Math,5,77,Filipino,53,71.7
+2022,Walnut Valley USD,Math,5,78,Hispanic/Latino,209,37.8
+2022,Walnut Valley USD,Math,5,79,Pacific Islander,,
+2022,Walnut Valley USD,Math,5,80,White,49,40.82
+2022,Walnut Valley USD,Math,5,99,Non-SWD,828,69.81
+2022,Walnut Valley USD,Math,5,111,Not Econ Disadv,670,68.51
+2022,Walnut Valley USD,Math,5,128,SWD,83,21.69
+2022,Walnut Valley USD,Math,5,144,Two or More Races,40,47.5
+2022,Walnut Valley USD,Math,5,160,English Learner,97,28.87
+2022,Walnut Valley USD,Math,5,180,English Only,478,57.74
+2022,Walnut Valley USD,Math,6,1,All Students,969,69.87
+2022,Walnut Valley USD,Math,6,3,Female,476,71.22
+2022,Walnut Valley USD,Math,6,4,Male,493,68.56
+2022,Walnut Valley USD,Math,6,31,Econ Disadvantaged,258,61.63
+2022,Walnut Valley USD,Math,6,74,Black/African American,8,
+2022,Walnut Valley USD,Math,6,75,American Indian,,
+2022,Walnut Valley USD,Math,6,76,Asian,617,81.2
+2022,Walnut Valley USD,Math,6,77,Filipino,52,75.0
+2022,Walnut Valley USD,Math,6,78,Hispanic/Latino,198,39.39
+2022,Walnut Valley USD,Math,6,79,Pacific Islander,4,
+2022,Walnut Valley USD,Math,6,80,White,41,58.54
+2022,Walnut Valley USD,Math,6,99,Non-SWD,899,73.19
+2022,Walnut Valley USD,Math,6,111,Not Econ Disadv,711,72.86
+2022,Walnut Valley USD,Math,6,128,SWD,70,27.14
+2022,Walnut Valley USD,Math,6,144,Two or More Races,48,62.5
+2022,Walnut Valley USD,Math,6,160,English Learner,120,40.83
+2022,Walnut Valley USD,Math,6,180,English Only,497,65.39
+2022,Walnut Valley USD,Math,7,1,All Students,1017,70.47
+2022,Walnut Valley USD,Math,7,3,Female,528,71.73
+2022,Walnut Valley USD,Math,7,4,Male,489,69.12
+2022,Walnut Valley USD,Math,7,31,Econ Disadvantaged,260,58.85
+2022,Walnut Valley USD,Math,7,74,Black/African American,9,
+2022,Walnut Valley USD,Math,7,76,Asian,629,84.87
+2022,Walnut Valley USD,Math,7,77,Filipino,62,72.58
+2022,Walnut Valley USD,Math,7,78,Hispanic/Latino,220,37.73
+2022,Walnut Valley USD,Math,7,79,Pacific Islander,4,
+2022,Walnut Valley USD,Math,7,80,White,49,46.94
+2022,Walnut Valley USD,Math,7,99,Non-SWD,950,74.29
+2022,Walnut Valley USD,Math,7,111,Not Econ Disadv,757,74.47
+2022,Walnut Valley USD,Math,7,128,SWD,67,16.42
+2022,Walnut Valley USD,Math,7,144,Two or More Races,44,65.91
+2022,Walnut Valley USD,Math,7,160,English Learner,84,51.81
+2022,Walnut Valley USD,Math,7,180,English Only,504,61.71
+2022,Palo Alto USD,ELA,3,1,All Students,677,76.66
+2022,Palo Alto USD,ELA,3,3,Female,357,74.79
+2022,Palo Alto USD,ELA,3,4,Male,320,78.75
+2022,Palo Alto USD,ELA,3,31,Econ Disadvantaged,99,41.41
+2022,Palo Alto USD,ELA,3,74,Black/African American,11,54.55
+2022,Palo Alto USD,ELA,3,76,Asian,270,90.0
+2022,Palo Alto USD,ELA,3,77,Filipino,5,
+2022,Palo Alto USD,ELA,3,78,Hispanic/Latino,107,41.12
+2022,Palo Alto USD,ELA,3,79,Pacific Islander,7,
+2022,Palo Alto USD,ELA,3,80,White,194,78.35
+2022,Palo Alto USD,ELA,3,99,Non-SWD,614,80.29
+2022,Palo Alto USD,ELA,3,111,Not Econ Disadv,578,82.7
+2022,Palo Alto USD,ELA,3,128,SWD,63,41.27
+2022,Palo Alto USD,ELA,3,144,Two or More Races,83,80.72
+2022,Palo Alto USD,ELA,3,160,English Learner,83,38.55
+2022,Palo Alto USD,ELA,3,180,English Only,399,80.2
+2022,Palo Alto USD,ELA,4,1,All Students,719,83.59
+2022,Palo Alto USD,ELA,4,3,Female,356,80.34
+2022,Palo Alto USD,ELA,4,4,Male,363,86.78
+2022,Palo Alto USD,ELA,4,31,Econ Disadvantaged,91,45.05
+2022,Palo Alto USD,ELA,4,74,Black/African American,10,
+2022,Palo Alto USD,ELA,4,75,American Indian,,
+2022,Palo Alto USD,ELA,4,76,Asian,281,95.02
+2022,Palo Alto USD,ELA,4,77,Filipino,9,
+2022,Palo Alto USD,ELA,4,78,Hispanic/Latino,120,55.0
+2022,Palo Alto USD,ELA,4,79,Pacific Islander,10,
+2022,Palo Alto USD,ELA,4,80,White,203,86.7
+2022,Palo Alto USD,ELA,4,99,Non-SWD,645,86.67
+2022,Palo Alto USD,ELA,4,111,Not Econ Disadv,628,89.17
+2022,Palo Alto USD,ELA,4,128,SWD,74,56.76
+2022,Palo Alto USD,ELA,4,144,Two or More Races,85,84.71
+2022,Palo Alto USD,ELA,4,160,English Learner,79,50.63
+2022,Palo Alto USD,ELA,4,180,English Only,417,85.61
+2022,Palo Alto USD,ELA,5,1,All Students,694,83.43
+2022,Palo Alto USD,ELA,5,3,Female,348,79.6
+2022,Palo Alto USD,ELA,5,4,Male,346,87.28
+2022,Palo Alto USD,ELA,5,31,Econ Disadvantaged,75,41.33
+2022,Palo Alto USD,ELA,5,74,Black/African American,13,46.15
+2022,Palo Alto USD,ELA,5,76,Asian,252,92.86
+2022,Palo Alto USD,ELA,5,77,Filipino,6,
+2022,Palo Alto USD,ELA,5,78,Hispanic/Latino,114,58.77
+2022,Palo Alto USD,ELA,5,79,Pacific Islander,,
+2022,Palo Alto USD,ELA,5,80,White,216,87.5
+2022,Palo Alto USD,ELA,5,99,Non-SWD,627,87.24
+2022,Palo Alto USD,ELA,5,111,Not Econ Disadv,619,88.53
+2022,Palo Alto USD,ELA,5,128,SWD,67,47.76
+2022,Palo Alto USD,ELA,5,144,Two or More Races,90,85.56
+2022,Palo Alto USD,ELA,5,160,English Learner,53,45.28
+2022,Palo Alto USD,ELA,5,180,English Only,406,86.21
+2022,Palo Alto USD,ELA,6,1,All Students,737,83.42
+2022,Palo Alto USD,ELA,6,3,Female,381,80.31
+2022,Palo Alto USD,ELA,6,4,Male,355,87.01
+2022,Palo Alto USD,ELA,6,31,Econ Disadvantaged,91,42.22
+2022,Palo Alto USD,ELA,6,74,Black/African American,19,42.11
+2022,Palo Alto USD,ELA,6,76,Asian,288,95.83
+2022,Palo Alto USD,ELA,6,77,Filipino,,
+2022,Palo Alto USD,ELA,6,78,Hispanic/Latino,118,51.28
+2022,Palo Alto USD,ELA,6,79,Pacific Islander,6,
+2022,Palo Alto USD,ELA,6,80,White,205,85.85
+2022,Palo Alto USD,ELA,6,99,Non-SWD,653,88.65
+2022,Palo Alto USD,ELA,6,111,Not Econ Disadv,646,89.16
+2022,Palo Alto USD,ELA,6,128,SWD,84,42.86
+2022,Palo Alto USD,ELA,6,144,Two or More Races,99,89.9
+2022,Palo Alto USD,ELA,6,160,English Learner,40,41.03
+2022,Palo Alto USD,ELA,6,180,English Only,456,85.75
+2022,Palo Alto USD,ELA,7,1,All Students,735,82.18
+2022,Palo Alto USD,ELA,7,3,Female,409,78.97
+2022,Palo Alto USD,ELA,7,4,Male,325,86.15
+2022,Palo Alto USD,ELA,7,31,Econ Disadvantaged,87,41.38
+2022,Palo Alto USD,ELA,7,74,Black/African American,12,25.0
+2022,Palo Alto USD,ELA,7,76,Asian,274,94.16
+2022,Palo Alto USD,ELA,7,77,Filipino,8,
+2022,Palo Alto USD,ELA,7,78,Hispanic/Latino,108,52.78
+2022,Palo Alto USD,ELA,7,79,Pacific Islander,10,
+2022,Palo Alto USD,ELA,7,80,White,245,84.49
+2022,Palo Alto USD,ELA,7,99,Non-SWD,661,87.44
+2022,Palo Alto USD,ELA,7,111,Not Econ Disadv,648,87.65
+2022,Palo Alto USD,ELA,7,128,SWD,74,35.14
+2022,Palo Alto USD,ELA,7,144,Two or More Races,78,88.46
+2022,Palo Alto USD,ELA,7,160,English Learner,39,23.08
+2022,Palo Alto USD,ELA,7,180,English Only,440,86.14
+2022,Palo Alto USD,Math,3,1,All Students,695,81.87
+2022,Palo Alto USD,Math,3,3,Female,364,84.89
+2022,Palo Alto USD,Math,3,4,Male,331,78.55
+2022,Palo Alto USD,Math,3,31,Econ Disadvantaged,101,47.52
+2022,Palo Alto USD,Math,3,74,Black/African American,11,63.64
+2022,Palo Alto USD,Math,3,76,Asian,277,93.86
+2022,Palo Alto USD,Math,3,77,Filipino,5,
+2022,Palo Alto USD,Math,3,78,Hispanic/Latino,109,45.87
+2022,Palo Alto USD,Math,3,79,Pacific Islander,7,
+2022,Palo Alto USD,Math,3,80,White,203,84.73
+2022,Palo Alto USD,Math,3,99,Non-SWD,631,84.94
+2022,Palo Alto USD,Math,3,111,Not Econ Disadv,594,87.71
+2022,Palo Alto USD,Math,3,128,SWD,64,51.56
+2022,Palo Alto USD,Math,3,144,Two or More Races,83,86.75
+2022,Palo Alto USD,Math,3,160,English Learner,100,47.0
+2022,Palo Alto USD,Math,3,180,English Only,399,85.71
+2022,Palo Alto USD,Math,4,1,All Students,731,81.26
+2022,Palo Alto USD,Math,4,3,Female,364,80.77
+2022,Palo Alto USD,Math,4,4,Male,367,81.74
+2022,Palo Alto USD,Math,4,31,Econ Disadvantaged,93,43.01
+2022,Palo Alto USD,Math,4,74,Black/African American,10,
+2022,Palo Alto USD,Math,4,75,American Indian,,
+2022,Palo Alto USD,Math,4,76,Asian,287,95.47
+2022,Palo Alto USD,Math,4,77,Filipino,9,
+2022,Palo Alto USD,Math,4,78,Hispanic/Latino,121,44.63
+2022,Palo Alto USD,Math,4,79,Pacific Islander,10,
+2022,Palo Alto USD,Math,4,80,White,207,85.51
+2022,Palo Alto USD,Math,4,99,Non-SWD,657,84.47
+2022,Palo Alto USD,Math,4,111,Not Econ Disadv,638,86.83
+2022,Palo Alto USD,Math,4,128,SWD,74,52.7
+2022,Palo Alto USD,Math,4,144,Two or More Races,86,84.88
+2022,Palo Alto USD,Math,4,160,English Learner,91,46.15
+2022,Palo Alto USD,Math,4,180,English Only,417,84.89
+2022,Palo Alto USD,Math,5,1,All Students,707,77.23
+2022,Palo Alto USD,Math,5,3,Female,356,76.4
+2022,Palo Alto USD,Math,5,4,Male,351,78.06
+2022,Palo Alto USD,Math,5,31,Econ Disadvantaged,76,34.21
+2022,Palo Alto USD,Math,5,74,Black/African American,13,23.08
+2022,Palo Alto USD,Math,5,76,Asian,257,93.0
+2022,Palo Alto USD,Math,5,77,Filipino,6,
+2022,Palo Alto USD,Math,5,78,Hispanic/Latino,115,45.22
+2022,Palo Alto USD,Math,5,79,Pacific Islander,,
+2022,Palo Alto USD,Math,5,80,White,222,77.03
+2022,Palo Alto USD,Math,5,99,Non-SWD,641,81.28
+2022,Palo Alto USD,Math,5,111,Not Econ Disadv,631,82.41
+2022,Palo Alto USD,Math,5,128,SWD,66,37.88
+2022,Palo Alto USD,Math,5,144,Two or More Races,91,82.42
+2022,Palo Alto USD,Math,5,160,English Learner,67,43.28
+2022,Palo Alto USD,Math,5,180,English Only,404,80.2
+2022,Palo Alto USD,Math,6,1,All Students,743,78.06
+2022,Palo Alto USD,Math,6,3,Female,385,76.88
+2022,Palo Alto USD,Math,6,4,Male,357,79.55
+2022,Palo Alto USD,Math,6,31,Econ Disadvantaged,91,28.57
+2022,Palo Alto USD,Math,6,74,Black/African American,19,42.11
+2022,Palo Alto USD,Math,6,76,Asian,290,94.83
+2022,Palo Alto USD,Math,6,77,Filipino,,
+2022,Palo Alto USD,Math,6,78,Hispanic/Latino,118,38.98
+2022,Palo Alto USD,Math,6,79,Pacific Islander,6,
+2022,Palo Alto USD,Math,6,80,White,209,75.12
+2022,Palo Alto USD,Math,6,99,Non-SWD,659,83.46
+2022,Palo Alto USD,Math,6,111,Not Econ Disadv,652,84.97
+2022,Palo Alto USD,Math,6,128,SWD,84,35.71
+2022,Palo Alto USD,Math,6,144,Two or More Races,99,91.92
+2022,Palo Alto USD,Math,6,160,English Learner,46,32.61
+2022,Palo Alto USD,Math,6,180,English Only,456,80.26
+2022,Palo Alto USD,Math,7,1,All Students,740,77.13
+2022,Palo Alto USD,Math,7,3,Female,413,76.21
+2022,Palo Alto USD,Math,7,4,Male,326,78.22
+2022,Palo Alto USD,Math,7,31,Econ Disadvantaged,87,32.56
+2022,Palo Alto USD,Math,7,74,Black/African American,12,16.67
+2022,Palo Alto USD,Math,7,76,Asian,277,93.5
+2022,Palo Alto USD,Math,7,77,Filipino,8,
+2022,Palo Alto USD,Math,7,78,Hispanic/Latino,109,35.19
+2022,Palo Alto USD,Math,7,79,Pacific Islander,10,
+2022,Palo Alto USD,Math,7,80,White,246,78.46
+2022,Palo Alto USD,Math,7,99,Non-SWD,666,82.26
+2022,Palo Alto USD,Math,7,111,Not Econ Disadv,653,83.0
+2022,Palo Alto USD,Math,7,128,SWD,74,31.08
+2022,Palo Alto USD,Math,7,144,Two or More Races,78,87.18
+2022,Palo Alto USD,Math,7,160,English Learner,44,34.09
+2022,Palo Alto USD,Math,7,180,English Only,440,78.86
+2022,Milpitas USD,ELA,3,1,All Students,754,67.11
+2022,Milpitas USD,ELA,3,3,Female,401,64.34
+2022,Milpitas USD,ELA,3,4,Male,353,70.25
+2022,Milpitas USD,ELA,3,31,Econ Disadvantaged,202,45.05
+2022,Milpitas USD,ELA,3,74,Black/African American,7,
+2022,Milpitas USD,ELA,3,75,American Indian,4,
+2022,Milpitas USD,ELA,3,76,Asian,435,79.31
+2022,Milpitas USD,ELA,3,77,Filipino,95,65.26
+2022,Milpitas USD,ELA,3,78,Hispanic/Latino,138,34.78
+2022,Milpitas USD,ELA,3,79,Pacific Islander,,
+2022,Milpitas USD,ELA,3,80,White,25,56.0
+2022,Milpitas USD,ELA,3,99,Non-SWD,698,69.91
+2022,Milpitas USD,ELA,3,111,Not Econ Disadv,552,75.18
+2022,Milpitas USD,ELA,3,128,SWD,56,32.14
+2022,Milpitas USD,ELA,3,144,Two or More Races,49,63.27
+2022,Milpitas USD,ELA,3,160,English Learner,181,39.23
+2022,Milpitas USD,ELA,3,180,English Only,357,67.79
+2022,Milpitas USD,ELA,4,1,All Students,744,68.01
+2022,Milpitas USD,ELA,4,3,Female,383,61.36
+2022,Milpitas USD,ELA,4,4,Male,361,75.07
+2022,Milpitas USD,ELA,4,31,Econ Disadvantaged,209,43.54
+2022,Milpitas USD,ELA,4,74,Black/African American,11,27.27
+2022,Milpitas USD,ELA,4,76,Asian,405,84.2
+2022,Milpitas USD,ELA,4,77,Filipino,98,62.24
+2022,Milpitas USD,ELA,4,78,Hispanic/Latino,143,32.17
+2022,Milpitas USD,ELA,4,79,Pacific Islander,6,
+2022,Milpitas USD,ELA,4,80,White,33,63.64
+2022,Milpitas USD,ELA,4,99,Non-SWD,683,72.18
+2022,Milpitas USD,ELA,4,111,Not Econ Disadv,535,77.57
+2022,Milpitas USD,ELA,4,128,SWD,61,21.31
+2022,Milpitas USD,ELA,4,144,Two or More Races,48,64.58
+2022,Milpitas USD,ELA,4,160,English Learner,165,38.18
+2022,Milpitas USD,ELA,4,180,English Only,313,64.22
+2022,Milpitas USD,ELA,5,1,All Students,655,70.08
+2022,Milpitas USD,ELA,5,3,Female,334,66.17
+2022,Milpitas USD,ELA,5,4,Male,320,74.38
+2022,Milpitas USD,ELA,5,31,Econ Disadvantaged,190,45.79
+2022,Milpitas USD,ELA,5,74,Black/African American,16,25.0
+2022,Milpitas USD,ELA,5,75,American Indian,,
+2022,Milpitas USD,ELA,5,76,Asian,347,85.88
+2022,Milpitas USD,ELA,5,77,Filipino,76,72.37
+2022,Milpitas USD,ELA,5,78,Hispanic/Latino,133,32.33
+2022,Milpitas USD,ELA,5,79,Pacific Islander,,
+2022,Milpitas USD,ELA,5,80,White,30,70.0
+2022,Milpitas USD,ELA,5,99,Non-SWD,603,73.63
+2022,Milpitas USD,ELA,5,111,Not Econ Disadv,465,80.0
+2022,Milpitas USD,ELA,5,128,SWD,52,28.85
+2022,Milpitas USD,ELA,5,144,Two or More Races,48,75.0
+2022,Milpitas USD,ELA,5,160,English Learner,113,25.66
+2022,Milpitas USD,ELA,5,180,English Only,296,68.92
+2022,Milpitas USD,ELA,6,1,All Students,744,69.76
+2022,Milpitas USD,ELA,6,3,Female,356,64.04
+2022,Milpitas USD,ELA,6,4,Male,388,75.0
+2022,Milpitas USD,ELA,6,31,Econ Disadvantaged,242,48.76
+2022,Milpitas USD,ELA,6,74,Black/African American,14,28.57
+2022,Milpitas USD,ELA,6,75,American Indian,,
+2022,Milpitas USD,ELA,6,76,Asian,392,82.91
+2022,Milpitas USD,ELA,6,77,Filipino,116,67.24
+2022,Milpitas USD,ELA,6,78,Hispanic/Latino,129,38.76
+2022,Milpitas USD,ELA,6,79,Pacific Islander,7,
+2022,Milpitas USD,ELA,6,80,White,33,69.7
+2022,Milpitas USD,ELA,6,99,Non-SWD,670,75.97
+2022,Milpitas USD,ELA,6,111,Not Econ Disadv,502,79.88
+2022,Milpitas USD,ELA,6,128,SWD,74,13.51
+2022,Milpitas USD,ELA,6,144,Two or More Races,51,66.67
+2022,Milpitas USD,ELA,6,160,English Learner,109,22.94
+2022,Milpitas USD,ELA,6,180,English Only,317,66.56
+2022,Milpitas USD,ELA,7,1,All Students,666,72.44
+2022,Milpitas USD,ELA,7,3,Female,320,70.53
+2022,Milpitas USD,ELA,7,4,Male,346,74.2
+2022,Milpitas USD,ELA,7,31,Econ Disadvantaged,220,52.29
+2022,Milpitas USD,ELA,7,74,Black/African American,12,33.33
+2022,Milpitas USD,ELA,7,75,American Indian,,
+2022,Milpitas USD,ELA,7,76,Asian,343,85.13
+2022,Milpitas USD,ELA,7,77,Filipino,88,77.27
+2022,Milpitas USD,ELA,7,78,Hispanic/Latino,140,39.13
+2022,Milpitas USD,ELA,7,79,Pacific Islander,,
+2022,Milpitas USD,ELA,7,80,White,32,78.13
+2022,Milpitas USD,ELA,7,99,Non-SWD,621,76.13
+2022,Milpitas USD,ELA,7,111,Not Econ Disadv,446,82.29
+2022,Milpitas USD,ELA,7,128,SWD,45,20.45
+2022,Milpitas USD,ELA,7,144,Two or More Races,46,80.43
+2022,Milpitas USD,ELA,7,160,English Learner,98,25.77
+2022,Milpitas USD,ELA,7,180,English Only,262,68.97
+2022,Milpitas USD,Math,3,1,All Students,760,72.3
+2022,Milpitas USD,Math,3,3,Female,404,74.38
+2022,Milpitas USD,Math,3,4,Male,356,69.94
+2022,Milpitas USD,Math,3,31,Econ Disadvantaged,204,50.0
+2022,Milpitas USD,Math,3,74,Black/African American,7,
+2022,Milpitas USD,Math,3,75,American Indian,4,
+2022,Milpitas USD,Math,3,76,Asian,437,89.91
+2022,Milpitas USD,Math,3,77,Filipino,95,56.84
+2022,Milpitas USD,Math,3,78,Hispanic/Latino,142,32.39
+2022,Milpitas USD,Math,3,79,Pacific Islander,,
+2022,Milpitas USD,Math,3,80,White,25,68.0
+2022,Milpitas USD,Math,3,99,Non-SWD,704,75.21
+2022,Milpitas USD,Math,3,111,Not Econ Disadv,556,80.4
+2022,Milpitas USD,Math,3,128,SWD,56,35.71
+2022,Milpitas USD,Math,3,144,Two or More Races,49,71.43
+2022,Milpitas USD,Math,3,160,English Learner,187,47.85
+2022,Milpitas USD,Math,3,180,English Only,357,71.63
+2022,Milpitas USD,Math,4,1,All Students,757,62.35
+2022,Milpitas USD,Math,4,3,Female,390,60.51
+2022,Milpitas USD,Math,4,4,Male,367,64.31
+2022,Milpitas USD,Math,4,31,Econ Disadvantaged,211,31.75
+2022,Milpitas USD,Math,4,74,Black/African American,11,27.27
+2022,Milpitas USD,Math,4,76,Asian,410,84.63
+2022,Milpitas USD,Math,4,77,Filipino,99,49.49
+2022,Milpitas USD,Math,4,78,Hispanic/Latino,150,18.0
+2022,Milpitas USD,Math,4,79,Pacific Islander,6,
+2022,Milpitas USD,Math,4,80,White,33,66.67
+2022,Milpitas USD,Math,4,99,Non-SWD,696,65.8
+2022,Milpitas USD,Math,4,111,Not Econ Disadv,546,74.18
+2022,Milpitas USD,Math,4,128,SWD,61,22.95
+2022,Milpitas USD,Math,4,144,Two or More Races,48,45.83
+2022,Milpitas USD,Math,4,160,English Learner,179,33.52
+2022,Milpitas USD,Math,4,180,English Only,312,54.49
+2022,Milpitas USD,Math,5,1,All Students,668,59.73
+2022,Milpitas USD,Math,5,3,Female,340,59.71
+2022,Milpitas USD,Math,5,4,Male,327,59.94
+2022,Milpitas USD,Math,5,31,Econ Disadvantaged,195,32.31
+2022,Milpitas USD,Math,5,74,Black/African American,16,25.0
+2022,Milpitas USD,Math,5,75,American Indian,,
+2022,Milpitas USD,Math,5,76,Asian,352,80.68
+2022,Milpitas USD,Math,5,77,Filipino,78,47.44
+2022,Milpitas USD,Math,5,78,Hispanic/Latino,138,18.84
+2022,Milpitas USD,Math,5,79,Pacific Islander,,
+2022,Milpitas USD,Math,5,80,White,32,56.25
+2022,Milpitas USD,Math,5,99,Non-SWD,616,62.34
+2022,Milpitas USD,Math,5,111,Not Econ Disadv,473,71.04
+2022,Milpitas USD,Math,5,128,SWD,52,28.85
+2022,Milpitas USD,Math,5,144,Two or More Races,47,61.7
+2022,Milpitas USD,Math,5,160,English Learner,127,21.26
+2022,Milpitas USD,Math,5,180,English Only,295,56.95
+2022,Milpitas USD,Math,6,1,All Students,745,61.96
+2022,Milpitas USD,Math,6,3,Female,357,61.24
+2022,Milpitas USD,Math,6,4,Male,388,62.63
+2022,Milpitas USD,Math,6,31,Econ Disadvantaged,242,39.67
+2022,Milpitas USD,Math,6,74,Black/African American,14,21.43
+2022,Milpitas USD,Math,6,75,American Indian,,
+2022,Milpitas USD,Math,6,76,Asian,393,78.63
+2022,Milpitas USD,Math,6,77,Filipino,115,52.63
+2022,Milpitas USD,Math,6,78,Hispanic/Latino,130,26.15
+2022,Milpitas USD,Math,6,79,Pacific Islander,7,
+2022,Milpitas USD,Math,6,80,White,33,57.58
+2022,Milpitas USD,Math,6,99,Non-SWD,671,67.36
+2022,Milpitas USD,Math,6,111,Not Econ Disadv,503,72.71
+2022,Milpitas USD,Math,6,128,SWD,74,12.33
+2022,Milpitas USD,Math,6,144,Two or More Races,51,60.78
+2022,Milpitas USD,Math,6,160,English Learner,111,25.23
+2022,Milpitas USD,Math,6,180,English Only,316,56.83
+2022,Milpitas USD,Math,7,1,All Students,668,63.87
+2022,Milpitas USD,Math,7,3,Female,320,65.63
+2022,Milpitas USD,Math,7,4,Male,348,62.25
+2022,Milpitas USD,Math,7,31,Econ Disadvantaged,220,36.53
+2022,Milpitas USD,Math,7,74,Black/African American,11,18.18
+2022,Milpitas USD,Math,7,75,American Indian,,
+2022,Milpitas USD,Math,7,76,Asian,345,84.64
+2022,Milpitas USD,Math,7,77,Filipino,90,58.89
+2022,Milpitas USD,Math,7,78,Hispanic/Latino,138,20.44
+2022,Milpitas USD,Math,7,79,Pacific Islander,,
+2022,Milpitas USD,Math,7,80,White,32,56.25
+2022,Milpitas USD,Math,7,99,Non-SWD,623,67.36
+2022,Milpitas USD,Math,7,111,Not Econ Disadv,448,77.23
+2022,Milpitas USD,Math,7,128,SWD,45,15.56
+2022,Milpitas USD,Math,7,144,Two or More Races,47,68.09
+2022,Milpitas USD,Math,7,160,English Learner,104,16.5
+2022,Milpitas USD,Math,7,180,English Only,258,56.2
+2023,Dublin USD,ELA,3,1,All Students,983,78.54
+2023,Dublin USD,ELA,3,3,Female,508,75.2
+2023,Dublin USD,ELA,3,4,Male,475,82.11
+2023,Dublin USD,ELA,3,31,Econ Disadvantaged,79,48.1
+2023,Dublin USD,ELA,3,74,Black/African American,17,64.71
+2023,Dublin USD,ELA,3,75,American Indian,,
+2023,Dublin USD,ELA,3,76,Asian,616,84.58
+2023,Dublin USD,ELA,3,77,Filipino,32,81.25
+2023,Dublin USD,ELA,3,78,Hispanic/Latino,88,54.55
+2023,Dublin USD,ELA,3,79,Pacific Islander,,
+2023,Dublin USD,ELA,3,80,White,153,72.55
+2023,Dublin USD,ELA,3,99,Non-SWD,909,82.51
+2023,Dublin USD,ELA,3,111,Not Econ Disadv,904,81.19
+2023,Dublin USD,ELA,3,128,SWD,74,29.73
+2023,Dublin USD,ELA,3,144,Two or More Races,74,72.97
+2023,Dublin USD,ELA,3,160,English Learner,92,53.26
+2023,Dublin USD,ELA,3,180,English Only,594,76.77
+2023,Dublin USD,ELA,4,1,All Students,1022,81.12
+2023,Dublin USD,ELA,4,3,Female,516,78.68
+2023,Dublin USD,ELA,4,4,Male,506,83.6
+2023,Dublin USD,ELA,4,31,Econ Disadvantaged,66,51.52
+2023,Dublin USD,ELA,4,74,Black/African American,37,51.35
+2023,Dublin USD,ELA,4,76,Asian,667,87.26
+2023,Dublin USD,ELA,4,77,Filipino,42,78.57
+2023,Dublin USD,ELA,4,78,Hispanic/Latino,74,54.05
+2023,Dublin USD,ELA,4,79,Pacific Islander,,
+2023,Dublin USD,ELA,4,80,White,122,77.05
+2023,Dublin USD,ELA,4,99,Non-SWD,948,84.92
+2023,Dublin USD,ELA,4,111,Not Econ Disadv,956,83.16
+2023,Dublin USD,ELA,4,128,SWD,74,32.43
+2023,Dublin USD,ELA,4,144,Two or More Races,77,76.62
+2023,Dublin USD,ELA,4,160,English Learner,53,37.74
+2023,Dublin USD,ELA,4,180,English Only,611,79.71
+2023,Dublin USD,ELA,5,1,All Students,1015,80.79
+2023,Dublin USD,ELA,5,3,Female,488,78.07
+2023,Dublin USD,ELA,5,4,Male,527,83.3
+2023,Dublin USD,ELA,5,31,Econ Disadvantaged,98,60.2
+2023,Dublin USD,ELA,5,74,Black/African American,27,44.44
+2023,Dublin USD,ELA,5,75,American Indian,,
+2023,Dublin USD,ELA,5,76,Asian,674,87.09
+2023,Dublin USD,ELA,5,77,Filipino,34,91.18
+2023,Dublin USD,ELA,5,78,Hispanic/Latino,91,56.04
+2023,Dublin USD,ELA,5,79,Pacific Islander,,
+2023,Dublin USD,ELA,5,80,White,123,70.73
+2023,Dublin USD,ELA,5,99,Non-SWD,940,84.15
+2023,Dublin USD,ELA,5,111,Not Econ Disadv,917,82.99
+2023,Dublin USD,ELA,5,128,SWD,75,38.67
+2023,Dublin USD,ELA,5,144,Two or More Races,62,82.26
+2023,Dublin USD,ELA,5,160,English Learner,55,38.18
+2023,Dublin USD,ELA,5,180,English Only,580,79.48
+2023,Dublin USD,ELA,6,1,All Students,1008,79.66
+2023,Dublin USD,ELA,6,3,Female,514,76.65
+2023,Dublin USD,ELA,6,4,Male,494,82.79
+2023,Dublin USD,ELA,6,31,Econ Disadvantaged,71,60.56
+2023,Dublin USD,ELA,6,74,Black/African American,17,52.94
+2023,Dublin USD,ELA,6,75,American Indian,,
+2023,Dublin USD,ELA,6,76,Asian,656,87.2
+2023,Dublin USD,ELA,6,77,Filipino,51,72.55
+2023,Dublin USD,ELA,6,78,Hispanic/Latino,71,43.66
+2023,Dublin USD,ELA,6,79,Pacific Islander,4,
+2023,Dublin USD,ELA,6,80,White,134,67.16
+2023,Dublin USD,ELA,6,99,Non-SWD,941,83.63
+2023,Dublin USD,ELA,6,111,Not Econ Disadv,937,81.11
+2023,Dublin USD,ELA,6,128,SWD,67,23.88
+2023,Dublin USD,ELA,6,144,Two or More Races,74,79.73
+2023,Dublin USD,ELA,6,160,English Learner,40,25.0
+2023,Dublin USD,ELA,6,180,English Only,594,78.11
+2023,Dublin USD,ELA,7,1,All Students,924,78.79
+2023,Dublin USD,ELA,7,3,Female,467,73.02
+2023,Dublin USD,ELA,7,4,Male,457,84.68
+2023,Dublin USD,ELA,7,31,Econ Disadvantaged,78,53.85
+2023,Dublin USD,ELA,7,74,Black/African American,25,24.0
+2023,Dublin USD,ELA,7,75,American Indian,,
+2023,Dublin USD,ELA,7,76,Asian,577,88.91
+2023,Dublin USD,ELA,7,77,Filipino,42,73.81
+2023,Dublin USD,ELA,7,78,Hispanic/Latino,96,54.17
+2023,Dublin USD,ELA,7,79,Pacific Islander,,
+2023,Dublin USD,ELA,7,80,White,114,69.3
+2023,Dublin USD,ELA,7,99,Non-SWD,866,82.56
+2023,Dublin USD,ELA,7,111,Not Econ Disadv,846,81.09
+2023,Dublin USD,ELA,7,128,SWD,58,22.41
+2023,Dublin USD,ELA,7,144,Two or More Races,68,67.65
+2023,Dublin USD,ELA,7,160,English Learner,24,12.5
+2023,Dublin USD,ELA,7,180,English Only,545,75.05
+2023,Dublin USD,Math,3,1,All Students,985,82.54
+2023,Dublin USD,Math,3,3,Female,510,82.16
+2023,Dublin USD,Math,3,4,Male,475,82.95
+2023,Dublin USD,Math,3,31,Econ Disadvantaged,80,55.0
+2023,Dublin USD,Math,3,74,Black/African American,17,58.82
+2023,Dublin USD,Math,3,75,American Indian,,
+2023,Dublin USD,Math,3,76,Asian,617,89.47
+2023,Dublin USD,Math,3,77,Filipino,32,93.75
+2023,Dublin USD,Math,3,78,Hispanic/Latino,88,59.09
+2023,Dublin USD,Math,3,79,Pacific Islander,,
+2023,Dublin USD,Math,3,80,White,154,70.78
+2023,Dublin USD,Math,3,99,Non-SWD,912,85.96
+2023,Dublin USD,Math,3,111,Not Econ Disadv,905,84.97
+2023,Dublin USD,Math,3,128,SWD,73,39.73
+2023,Dublin USD,Math,3,144,Two or More Races,74,78.38
+2023,Dublin USD,Math,3,160,English Learner,94,64.89
+2023,Dublin USD,Math,3,180,English Only,593,81.45
+2023,Dublin USD,Math,4,1,All Students,1025,82.44
+2023,Dublin USD,Math,4,3,Female,519,81.7
+2023,Dublin USD,Math,4,4,Male,506,83.2
+2023,Dublin USD,Math,4,31,Econ Disadvantaged,67,52.24
+2023,Dublin USD,Math,4,74,Black/African American,37,45.95
+2023,Dublin USD,Math,4,76,Asian,670,91.19
+2023,Dublin USD,Math,4,77,Filipino,42,80.95
+2023,Dublin USD,Math,4,78,Hispanic/Latino,74,48.65
+2023,Dublin USD,Math,4,79,Pacific Islander,,
+2023,Dublin USD,Math,4,80,White,122,71.31
+2023,Dublin USD,Math,4,99,Non-SWD,951,85.91
+2023,Dublin USD,Math,4,111,Not Econ Disadv,958,84.55
+2023,Dublin USD,Math,4,128,SWD,74,37.84
+2023,Dublin USD,Math,4,144,Two or More Races,77,75.32
+2023,Dublin USD,Math,4,160,English Learner,56,50.0
+2023,Dublin USD,Math,4,180,English Only,611,79.71
+2023,Dublin USD,Math,5,1,All Students,1017,75.32
+2023,Dublin USD,Math,5,3,Female,490,77.35
+2023,Dublin USD,Math,5,4,Male,527,73.43
+2023,Dublin USD,Math,5,31,Econ Disadvantaged,98,43.88
+2023,Dublin USD,Math,5,74,Black/African American,27,18.52
+2023,Dublin USD,Math,5,75,American Indian,,
+2023,Dublin USD,Math,5,76,Asian,677,84.93
+2023,Dublin USD,Math,5,77,Filipino,34,73.53
+2023,Dublin USD,Math,5,78,Hispanic/Latino,90,45.56
+2023,Dublin USD,Math,5,79,Pacific Islander,,
+2023,Dublin USD,Math,5,80,White,123,59.35
+2023,Dublin USD,Math,5,99,Non-SWD,942,78.87
+2023,Dublin USD,Math,5,111,Not Econ Disadv,919,78.67
+2023,Dublin USD,Math,5,128,SWD,75,30.67
+2023,Dublin USD,Math,5,144,Two or More Races,62,74.19
+2023,Dublin USD,Math,5,160,English Learner,58,34.48
+2023,Dublin USD,Math,5,180,English Only,579,73.4
+2023,Dublin USD,Math,6,1,All Students,1010,70.69
+2023,Dublin USD,Math,6,3,Female,514,73.93
+2023,Dublin USD,Math,6,4,Male,496,67.34
+2023,Dublin USD,Math,6,31,Econ Disadvantaged,71,38.03
+2023,Dublin USD,Math,6,74,Black/African American,17,29.41
+2023,Dublin USD,Math,6,75,American Indian,,
+2023,Dublin USD,Math,6,76,Asian,656,80.79
+2023,Dublin USD,Math,6,77,Filipino,51,64.71
+2023,Dublin USD,Math,6,78,Hispanic/Latino,72,37.5
+2023,Dublin USD,Math,6,79,Pacific Islander,4,
+2023,Dublin USD,Math,6,80,White,135,48.89
+2023,Dublin USD,Math,6,99,Non-SWD,943,74.34
+2023,Dublin USD,Math,6,111,Not Econ Disadv,939,73.16
+2023,Dublin USD,Math,6,128,SWD,67,19.4
+2023,Dublin USD,Math,6,144,Two or More Races,74,67.57
+2023,Dublin USD,Math,6,160,English Learner,40,17.5
+2023,Dublin USD,Math,6,180,English Only,596,67.45
+2023,Dublin USD,Math,7,1,All Students,924,72.08
+2023,Dublin USD,Math,7,3,Female,467,72.38
+2023,Dublin USD,Math,7,4,Male,457,71.77
+2023,Dublin USD,Math,7,31,Econ Disadvantaged,77,37.66
+2023,Dublin USD,Math,7,74,Black/African American,24,20.83
+2023,Dublin USD,Math,7,75,American Indian,,
+2023,Dublin USD,Math,7,76,Asian,577,84.06
+2023,Dublin USD,Math,7,77,Filipino,42,54.76
+2023,Dublin USD,Math,7,78,Hispanic/Latino,96,37.5
+2023,Dublin USD,Math,7,79,Pacific Islander,,
+2023,Dublin USD,Math,7,80,White,115,64.35
+2023,Dublin USD,Math,7,99,Non-SWD,866,75.75
+2023,Dublin USD,Math,7,111,Not Econ Disadv,847,75.21
+2023,Dublin USD,Math,7,128,SWD,58,17.24
+2023,Dublin USD,Math,7,144,Two or More Races,68,61.76
+2023,Dublin USD,Math,7,160,English Learner,25,20.0
+2023,Dublin USD,Math,7,180,English Only,544,68.2
+2023,Walnut Valley USD,ELA,3,1,All Students,919,72.69
+2023,Walnut Valley USD,ELA,3,3,Female,460,71.3
+2023,Walnut Valley USD,ELA,3,4,Male,458,74.02
+2023,Walnut Valley USD,ELA,3,31,Econ Disadvantaged,295,64.41
+2023,Walnut Valley USD,ELA,3,74,Black/African American,9,
+2023,Walnut Valley USD,ELA,3,75,American Indian,,
+2023,Walnut Valley USD,ELA,3,76,Asian,606,80.2
+2023,Walnut Valley USD,ELA,3,77,Filipino,48,85.42
+2023,Walnut Valley USD,ELA,3,78,Hispanic/Latino,186,47.85
+2023,Walnut Valley USD,ELA,3,79,Pacific Islander,,
+2023,Walnut Valley USD,ELA,3,80,White,32,56.25
+2023,Walnut Valley USD,ELA,3,99,Non-SWD,858,75.41
+2023,Walnut Valley USD,ELA,3,111,Not Econ Disadv,624,76.6
+2023,Walnut Valley USD,ELA,3,128,SWD,61,34.43
+2023,Walnut Valley USD,ELA,3,144,Two or More Races,36,80.56
+2023,Walnut Valley USD,ELA,3,160,English Learner,165,45.45
+2023,Walnut Valley USD,ELA,3,180,English Only,431,67.98
+2023,Walnut Valley USD,ELA,4,1,All Students,1015,74.09
+2023,Walnut Valley USD,ELA,4,3,Female,533,71.11
+2023,Walnut Valley USD,ELA,4,4,Male,482,77.39
+2023,Walnut Valley USD,ELA,4,31,Econ Disadvantaged,297,66.67
+2023,Walnut Valley USD,ELA,4,74,Black/African American,8,
+2023,Walnut Valley USD,ELA,4,76,Asian,701,79.74
+2023,Walnut Valley USD,ELA,4,77,Filipino,53,86.79
+2023,Walnut Valley USD,ELA,4,78,Hispanic/Latino,173,52.02
+2023,Walnut Valley USD,ELA,4,79,Pacific Islander,,
+2023,Walnut Valley USD,ELA,4,80,White,33,60.61
+2023,Walnut Valley USD,ELA,4,99,Non-SWD,955,76.54
+2023,Walnut Valley USD,ELA,4,111,Not Econ Disadv,718,77.16
+2023,Walnut Valley USD,ELA,4,128,SWD,60,35.0
+2023,Walnut Valley USD,ELA,4,144,Two or More Races,44,72.73
+2023,Walnut Valley USD,ELA,4,160,English Learner,121,32.23
+2023,Walnut Valley USD,ELA,4,180,English Only,445,71.24
+2023,Walnut Valley USD,ELA,5,1,All Students,978,76.38
+2023,Walnut Valley USD,ELA,5,3,Female,480,76.04
+2023,Walnut Valley USD,ELA,5,4,Male,498,76.71
+2023,Walnut Valley USD,ELA,5,31,Econ Disadvantaged,258,67.44
+2023,Walnut Valley USD,ELA,5,74,Black/African American,5,
+2023,Walnut Valley USD,ELA,5,76,Asian,640,83.13
+2023,Walnut Valley USD,ELA,5,77,Filipino,57,77.19
+2023,Walnut Valley USD,ELA,5,78,Hispanic/Latino,192,57.81
+2023,Walnut Valley USD,ELA,5,80,White,44,65.91
+2023,Walnut Valley USD,ELA,5,99,Non-SWD,895,80.45
+2023,Walnut Valley USD,ELA,5,111,Not Econ Disadv,720,79.58
+2023,Walnut Valley USD,ELA,5,128,SWD,83,32.53
+2023,Walnut Valley USD,ELA,5,144,Two or More Races,40,72.5
+2023,Walnut Valley USD,ELA,5,160,English Learner,109,32.11
+2023,Walnut Valley USD,ELA,5,180,English Only,473,74.63
+2023,Walnut Valley USD,ELA,6,1,All Students,1033,74.44
+2023,Walnut Valley USD,ELA,6,3,Female,524,71.18
+2023,Walnut Valley USD,ELA,6,4,Male,509,77.8
+2023,Walnut Valley USD,ELA,6,31,Econ Disadvantaged,274,66.06
+2023,Walnut Valley USD,ELA,6,74,Black/African American,9,
+2023,Walnut Valley USD,ELA,6,76,Asian,640,83.13
+2023,Walnut Valley USD,ELA,6,77,Filipino,68,83.82
+2023,Walnut Valley USD,ELA,6,78,Hispanic/Latino,221,52.49
+2023,Walnut Valley USD,ELA,6,79,Pacific Islander,,
+2023,Walnut Valley USD,ELA,6,80,White,52,55.77
+2023,Walnut Valley USD,ELA,6,99,Non-SWD,941,78.96
+2023,Walnut Valley USD,ELA,6,111,Not Econ Disadv,759,77.47
+2023,Walnut Valley USD,ELA,6,128,SWD,92,28.26
+2023,Walnut Valley USD,ELA,6,144,Two or More Races,41,65.85
+2023,Walnut Valley USD,ELA,6,160,English Learner,104,28.85
+2023,Walnut Valley USD,ELA,6,180,English Only,517,70.6
+2023,Walnut Valley USD,ELA,7,1,All Students,1029,78.52
+2023,Walnut Valley USD,ELA,7,3,Female,509,73.67
+2023,Walnut Valley USD,ELA,7,4,Male,520,83.27
+2023,Walnut Valley USD,ELA,7,31,Econ Disadvantaged,275,69.45
+2023,Walnut Valley USD,ELA,7,74,Black/African American,9,
+2023,Walnut Valley USD,ELA,7,76,Asian,664,84.49
+2023,Walnut Valley USD,ELA,7,77,Filipino,56,80.36
+2023,Walnut Valley USD,ELA,7,78,Hispanic/Latino,205,60.49
+2023,Walnut Valley USD,ELA,7,79,Pacific Islander,,
+2023,Walnut Valley USD,ELA,7,80,White,41,70.73
+2023,Walnut Valley USD,ELA,7,99,Non-SWD,960,81.67
+2023,Walnut Valley USD,ELA,7,111,Not Econ Disadv,754,81.83
+2023,Walnut Valley USD,ELA,7,128,SWD,69,34.78
+2023,Walnut Valley USD,ELA,7,144,Two or More Races,51,80.39
+2023,Walnut Valley USD,ELA,7,160,English Learner,115,28.7
+2023,Walnut Valley USD,ELA,7,180,English Only,503,78.93
+2023,Walnut Valley USD,Math,3,1,All Students,938,77.83
+2023,Walnut Valley USD,Math,3,3,Female,469,80.38
+2023,Walnut Valley USD,Math,3,4,Male,468,75.21
+2023,Walnut Valley USD,Math,3,31,Econ Disadvantaged,297,72.39
+2023,Walnut Valley USD,Math,3,74,Black/African American,9,
+2023,Walnut Valley USD,Math,3,75,American Indian,,
+2023,Walnut Valley USD,Math,3,76,Asian,622,87.94
+2023,Walnut Valley USD,Math,3,77,Filipino,48,75.0
+2023,Walnut Valley USD,Math,3,78,Hispanic/Latino,189,50.79
+2023,Walnut Valley USD,Math,3,79,Pacific Islander,,
+2023,Walnut Valley USD,Math,3,80,White,32,56.25
+2023,Walnut Valley USD,Math,3,99,Non-SWD,877,80.39
+2023,Walnut Valley USD,Math,3,111,Not Econ Disadv,641,80.34
+2023,Walnut Valley USD,Math,3,128,SWD,61,40.98
+2023,Walnut Valley USD,Math,3,144,Two or More Races,36,77.78
+2023,Walnut Valley USD,Math,3,160,English Learner,184,66.3
+2023,Walnut Valley USD,Math,3,180,English Only,431,70.07
+2023,Walnut Valley USD,Math,4,1,All Students,1029,77.26
+2023,Walnut Valley USD,Math,4,3,Female,542,78.78
+2023,Walnut Valley USD,Math,4,4,Male,487,75.56
+2023,Walnut Valley USD,Math,4,31,Econ Disadvantaged,302,71.19
+2023,Walnut Valley USD,Math,4,74,Black/African American,8,
+2023,Walnut Valley USD,Math,4,76,Asian,714,85.43
+2023,Walnut Valley USD,Math,4,77,Filipino,53,79.25
+2023,Walnut Valley USD,Math,4,78,Hispanic/Latino,174,48.85
+2023,Walnut Valley USD,Math,4,79,Pacific Islander,,
+2023,Walnut Valley USD,Math,4,80,White,33,60.61
+2023,Walnut Valley USD,Math,4,99,Non-SWD,969,79.57
+2023,Walnut Valley USD,Math,4,111,Not Econ Disadv,727,79.78
+2023,Walnut Valley USD,Math,4,128,SWD,60,40.0
+2023,Walnut Valley USD,Math,4,144,Two or More Races,44,75.0
+2023,Walnut Valley USD,Math,4,160,English Learner,135,57.78
+2023,Walnut Valley USD,Math,4,180,English Only,445,68.54
+2023,Walnut Valley USD,Math,5,1,All Students,999,67.17
+2023,Walnut Valley USD,Math,5,3,Female,493,68.76
+2023,Walnut Valley USD,Math,5,4,Male,506,65.61
+2023,Walnut Valley USD,Math,5,31,Econ Disadvantaged,266,57.52
+2023,Walnut Valley USD,Math,5,74,Black/African American,5,
+2023,Walnut Valley USD,Math,5,76,Asian,661,78.82
+2023,Walnut Valley USD,Math,5,77,Filipino,57,66.67
+2023,Walnut Valley USD,Math,5,78,Hispanic/Latino,192,35.42
+2023,Walnut Valley USD,Math,5,80,White,44,40.91
+2023,Walnut Valley USD,Math,5,99,Non-SWD,916,71.18
+2023,Walnut Valley USD,Math,5,111,Not Econ Disadv,733,70.67
+2023,Walnut Valley USD,Math,5,128,SWD,83,22.89
+2023,Walnut Valley USD,Math,5,144,Two or More Races,40,60.0
+2023,Walnut Valley USD,Math,5,160,English Learner,130,32.31
+2023,Walnut Valley USD,Math,5,180,English Only,473,59.83
+2023,Walnut Valley USD,Math,6,1,All Students,1042,69.58
+2023,Walnut Valley USD,Math,6,3,Female,530,70.57
+2023,Walnut Valley USD,Math,6,4,Male,512,68.55
+2023,Walnut Valley USD,Math,6,31,Econ Disadvantaged,275,60.36
+2023,Walnut Valley USD,Math,6,74,Black/African American,9,
+2023,Walnut Valley USD,Math,6,76,Asian,649,84.13
+2023,Walnut Valley USD,Math,6,77,Filipino,68,67.65
+2023,Walnut Valley USD,Math,6,78,Hispanic/Latino,220,36.82
+2023,Walnut Valley USD,Math,6,79,Pacific Islander,,
+2023,Walnut Valley USD,Math,6,80,White,52,40.38
+2023,Walnut Valley USD,Math,6,99,Non-SWD,950,74.42
+2023,Walnut Valley USD,Math,6,111,Not Econ Disadv,767,72.88
+2023,Walnut Valley USD,Math,6,128,SWD,92,19.57
+2023,Walnut Valley USD,Math,6,144,Two or More Races,42,59.52
+2023,Walnut Valley USD,Math,6,160,English Learner,114,36.84
+2023,Walnut Valley USD,Math,6,180,English Only,516,61.43
+2023,Walnut Valley USD,Math,7,1,All Students,1034,72.82
+2023,Walnut Valley USD,Math,7,3,Female,513,74.07
+2023,Walnut Valley USD,Math,7,4,Male,521,71.59
+2023,Walnut Valley USD,Math,7,31,Econ Disadvantaged,276,62.68
+2023,Walnut Valley USD,Math,7,74,Black/African American,9,
+2023,Walnut Valley USD,Math,7,76,Asian,671,84.5
+2023,Walnut Valley USD,Math,7,77,Filipino,56,71.43
+2023,Walnut Valley USD,Math,7,78,Hispanic/Latino,203,37.93
+2023,Walnut Valley USD,Math,7,79,Pacific Islander,,
+2023,Walnut Valley USD,Math,7,80,White,41,58.54
+2023,Walnut Valley USD,Math,7,99,Non-SWD,966,76.09
+2023,Walnut Valley USD,Math,7,111,Not Econ Disadv,758,76.52
+2023,Walnut Valley USD,Math,7,128,SWD,68,26.47
+2023,Walnut Valley USD,Math,7,144,Two or More Races,51,76.47
+2023,Walnut Valley USD,Math,7,160,English Learner,123,46.34
+2023,Walnut Valley USD,Math,7,180,English Only,500,67.4
+2023,Palo Alto USD,ELA,3,1,All Students,659,83.16
+2023,Palo Alto USD,ELA,3,3,Female,321,81.31
+2023,Palo Alto USD,ELA,3,4,Male,338,84.91
+2023,Palo Alto USD,ELA,3,31,Econ Disadvantaged,70,52.86
+2023,Palo Alto USD,ELA,3,74,Black/African American,9,
+2023,Palo Alto USD,ELA,3,76,Asian,284,92.61
+2023,Palo Alto USD,ELA,3,77,Filipino,6,
+2023,Palo Alto USD,ELA,3,78,Hispanic/Latino,100,59.0
+2023,Palo Alto USD,ELA,3,79,Pacific Islander,9,
+2023,Palo Alto USD,ELA,3,80,White,190,84.74
+2023,Palo Alto USD,ELA,3,99,Non-SWD,601,87.02
+2023,Palo Alto USD,ELA,3,111,Not Econ Disadv,589,86.76
+2023,Palo Alto USD,ELA,3,128,SWD,58,43.1
+2023,Palo Alto USD,ELA,3,144,Two or More Races,61,80.33
+2023,Palo Alto USD,ELA,3,160,English Learner,61,49.18
+2023,Palo Alto USD,ELA,3,180,English Only,391,82.61
+2023,Palo Alto USD,ELA,4,1,All Students,684,78.8
+2023,Palo Alto USD,ELA,4,3,Female,364,78.02
+2023,Palo Alto USD,ELA,4,4,Male,320,79.69
+2023,Palo Alto USD,ELA,4,31,Econ Disadvantaged,102,46.08
+2023,Palo Alto USD,ELA,4,74,Black/African American,13,69.23
+2023,Palo Alto USD,ELA,4,76,Asian,279,92.11
+2023,Palo Alto USD,ELA,4,77,Filipino,4,
+2023,Palo Alto USD,ELA,4,78,Hispanic/Latino,107,40.19
+2023,Palo Alto USD,ELA,4,79,Pacific Islander,6,
+2023,Palo Alto USD,ELA,4,80,White,185,77.84
+2023,Palo Alto USD,ELA,4,99,Non-SWD,609,83.74
+2023,Palo Alto USD,ELA,4,111,Not Econ Disadv,582,84.54
+2023,Palo Alto USD,ELA,4,128,SWD,75,38.67
+2023,Palo Alto USD,ELA,4,144,Two or More Races,90,90.0
+2023,Palo Alto USD,ELA,4,160,English Learner,78,30.77
+2023,Palo Alto USD,ELA,4,180,English Only,389,84.58
+2023,Palo Alto USD,ELA,5,1,All Students,744,84.54
+2023,Palo Alto USD,ELA,5,3,Female,368,81.79
+2023,Palo Alto USD,ELA,5,4,Male,376,87.23
+2023,Palo Alto USD,ELA,5,31,Econ Disadvantaged,83,51.81
+2023,Palo Alto USD,ELA,5,74,Black/African American,11,63.64
+2023,Palo Alto USD,ELA,5,75,American Indian,,
+2023,Palo Alto USD,ELA,5,76,Asian,308,92.53
+2023,Palo Alto USD,ELA,5,77,Filipino,7,
+2023,Palo Alto USD,ELA,5,78,Hispanic/Latino,123,57.72
+2023,Palo Alto USD,ELA,5,79,Pacific Islander,10,
+2023,Palo Alto USD,ELA,5,80,White,202,89.11
+2023,Palo Alto USD,ELA,5,99,Non-SWD,670,88.36
+2023,Palo Alto USD,ELA,5,111,Not Econ Disadv,661,88.65
+2023,Palo Alto USD,ELA,5,128,SWD,74,50.0
+2023,Palo Alto USD,ELA,5,144,Two or More Races,82,89.02
+2023,Palo Alto USD,ELA,5,160,English Learner,55,30.91
+2023,Palo Alto USD,ELA,5,180,English Only,422,89.1
+2023,Palo Alto USD,ELA,6,1,All Students,707,82.18
+2023,Palo Alto USD,ELA,6,3,Female,376,79.52
+2023,Palo Alto USD,ELA,6,4,Male,331,85.2
+2023,Palo Alto USD,ELA,6,31,Econ Disadvantaged,86,45.35
+2023,Palo Alto USD,ELA,6,74,Black/African American,12,58.33
+2023,Palo Alto USD,ELA,6,76,Asian,283,91.17
+2023,Palo Alto USD,ELA,6,77,Filipino,7,
+2023,Palo Alto USD,ELA,6,78,Hispanic/Latino,110,47.27
+2023,Palo Alto USD,ELA,6,79,Pacific Islander,,
+2023,Palo Alto USD,ELA,6,80,White,204,87.75
+2023,Palo Alto USD,ELA,6,99,Non-SWD,643,86.16
+2023,Palo Alto USD,ELA,6,111,Not Econ Disadv,621,87.28
+2023,Palo Alto USD,ELA,6,128,SWD,64,42.19
+2023,Palo Alto USD,ELA,6,144,Two or More Races,88,86.36
+2023,Palo Alto USD,ELA,6,160,English Learner,41,19.51
+2023,Palo Alto USD,ELA,6,180,English Only,396,87.63
+2023,Palo Alto USD,ELA,7,1,All Students,766,84.71
+2023,Palo Alto USD,ELA,7,3,Female,394,83.21
+2023,Palo Alto USD,ELA,7,4,Male,371,86.52
+2023,Palo Alto USD,ELA,7,31,Econ Disadvantaged,95,44.21
+2023,Palo Alto USD,ELA,7,74,Black/African American,20,55.0
+2023,Palo Alto USD,ELA,7,76,Asian,308,95.13
+2023,Palo Alto USD,ELA,7,77,Filipino,,
+2023,Palo Alto USD,ELA,7,78,Hispanic/Latino,120,55.0
+2023,Palo Alto USD,ELA,7,79,Pacific Islander,7,
+2023,Palo Alto USD,ELA,7,80,White,203,85.71
+2023,Palo Alto USD,ELA,7,99,Non-SWD,685,90.2
+2023,Palo Alto USD,ELA,7,111,Not Econ Disadv,671,90.45
+2023,Palo Alto USD,ELA,7,128,SWD,81,38.27
+2023,Palo Alto USD,ELA,7,144,Two or More Races,105,95.19
+2023,Palo Alto USD,ELA,7,160,English Learner,28,42.86
+2023,Palo Alto USD,ELA,7,180,English Only,459,87.77
+2023,Palo Alto USD,Math,3,1,All Students,677,83.6
+2023,Palo Alto USD,Math,3,3,Female,330,85.76
+2023,Palo Alto USD,Math,3,4,Male,347,81.56
+2023,Palo Alto USD,Math,3,31,Econ Disadvantaged,73,39.73
+2023,Palo Alto USD,Math,3,74,Black/African American,9,
+2023,Palo Alto USD,Math,3,76,Asian,289,94.46
+2023,Palo Alto USD,Math,3,77,Filipino,6,
+2023,Palo Alto USD,Math,3,78,Hispanic/Latino,105,50.48
+2023,Palo Alto USD,Math,3,79,Pacific Islander,9,
+2023,Palo Alto USD,Math,3,80,White,198,83.84
+2023,Palo Alto USD,Math,3,99,Non-SWD,618,86.25
+2023,Palo Alto USD,Math,3,111,Not Econ Disadv,604,88.91
+2023,Palo Alto USD,Math,3,128,SWD,59,55.93
+2023,Palo Alto USD,Math,3,144,Two or More Races,61,91.8
+2023,Palo Alto USD,Math,3,160,English Learner,79,62.03
+2023,Palo Alto USD,Math,3,180,English Only,390,82.82
+2023,Palo Alto USD,Math,4,1,All Students,693,80.66
+2023,Palo Alto USD,Math,4,3,Female,368,83.42
+2023,Palo Alto USD,Math,4,4,Male,325,77.54
+2023,Palo Alto USD,Math,4,31,Econ Disadvantaged,103,41.75
+2023,Palo Alto USD,Math,4,74,Black/African American,13,53.85
+2023,Palo Alto USD,Math,4,76,Asian,283,96.47
+2023,Palo Alto USD,Math,4,77,Filipino,4,
+2023,Palo Alto USD,Math,4,78,Hispanic/Latino,107,40.19
+2023,Palo Alto USD,Math,4,79,Pacific Islander,6,
+2023,Palo Alto USD,Math,4,80,White,191,81.15
+2023,Palo Alto USD,Math,4,99,Non-SWD,618,85.92
+2023,Palo Alto USD,Math,4,111,Not Econ Disadv,590,87.46
+2023,Palo Alto USD,Math,4,128,SWD,75,37.33
+2023,Palo Alto USD,Math,4,144,Two or More Races,89,84.27
+2023,Palo Alto USD,Math,4,160,English Learner,89,46.07
+2023,Palo Alto USD,Math,4,180,English Only,388,82.99
+2023,Palo Alto USD,Math,5,1,All Students,753,81.27
+2023,Palo Alto USD,Math,5,3,Female,374,82.89
+2023,Palo Alto USD,Math,5,4,Male,379,79.68
+2023,Palo Alto USD,Math,5,31,Econ Disadvantaged,83,49.4
+2023,Palo Alto USD,Math,5,74,Black/African American,11,54.55
+2023,Palo Alto USD,Math,5,75,American Indian,,
+2023,Palo Alto USD,Math,5,76,Asian,314,93.63
+2023,Palo Alto USD,Math,5,77,Filipino,7,
+2023,Palo Alto USD,Math,5,78,Hispanic/Latino,123,47.15
+2023,Palo Alto USD,Math,5,79,Pacific Islander,10,
+2023,Palo Alto USD,Math,5,80,White,205,84.39
+2023,Palo Alto USD,Math,5,99,Non-SWD,679,85.27
+2023,Palo Alto USD,Math,5,111,Not Econ Disadv,670,85.22
+2023,Palo Alto USD,Math,5,128,SWD,74,44.59
+2023,Palo Alto USD,Math,5,144,Two or More Races,82,89.02
+2023,Palo Alto USD,Math,5,160,English Learner,62,45.16
+2023,Palo Alto USD,Math,5,180,English Only,422,84.83
+2023,Palo Alto USD,Math,6,1,All Students,716,78.21
+2023,Palo Alto USD,Math,6,3,Female,381,79.27
+2023,Palo Alto USD,Math,6,4,Male,335,77.01
+2023,Palo Alto USD,Math,6,31,Econ Disadvantaged,89,40.45
+2023,Palo Alto USD,Math,6,74,Black/African American,12,41.67
+2023,Palo Alto USD,Math,6,76,Asian,286,93.71
+2023,Palo Alto USD,Math,6,77,Filipino,7,
+2023,Palo Alto USD,Math,6,78,Hispanic/Latino,110,40.91
+2023,Palo Alto USD,Math,6,79,Pacific Islander,,
+2023,Palo Alto USD,Math,6,80,White,210,76.67
+2023,Palo Alto USD,Math,6,99,Non-SWD,652,82.52
+2023,Palo Alto USD,Math,6,111,Not Econ Disadv,627,83.57
+2023,Palo Alto USD,Math,6,128,SWD,64,34.38
+2023,Palo Alto USD,Math,6,144,Two or More Races,88,82.95
+2023,Palo Alto USD,Math,6,160,English Learner,51,41.18
+2023,Palo Alto USD,Math,6,180,English Only,395,81.27
+2023,Palo Alto USD,Math,7,1,All Students,767,80.18
+2023,Palo Alto USD,Math,7,3,Female,397,80.35
+2023,Palo Alto USD,Math,7,4,Male,369,80.22
+2023,Palo Alto USD,Math,7,31,Econ Disadvantaged,96,33.33
+2023,Palo Alto USD,Math,7,74,Black/African American,20,45.0
+2023,Palo Alto USD,Math,7,76,Asian,311,94.86
+2023,Palo Alto USD,Math,7,77,Filipino,,
+2023,Palo Alto USD,Math,7,78,Hispanic/Latino,121,41.32
+2023,Palo Alto USD,Math,7,79,Pacific Islander,7,
+2023,Palo Alto USD,Math,7,80,White,200,80.5
+2023,Palo Alto USD,Math,7,99,Non-SWD,685,85.69
+2023,Palo Alto USD,Math,7,111,Not Econ Disadv,671,86.89
+2023,Palo Alto USD,Math,7,128,SWD,82,34.15
+2023,Palo Alto USD,Math,7,144,Two or More Races,105,90.48
+2023,Palo Alto USD,Math,7,160,English Learner,32,37.5
+2023,Palo Alto USD,Math,7,180,English Only,457,83.15
+2023,Milpitas USD,ELA,3,1,All Students,776,64.82
+2023,Milpitas USD,ELA,3,3,Female,403,60.79
+2023,Milpitas USD,ELA,3,4,Male,373,69.17
+2023,Milpitas USD,ELA,3,31,Econ Disadvantaged,266,43.23
+2023,Milpitas USD,ELA,3,74,Black/African American,16,37.5
+2023,Milpitas USD,ELA,3,75,American Indian,,
+2023,Milpitas USD,ELA,3,76,Asian,440,80.45
+2023,Milpitas USD,ELA,3,77,Filipino,85,61.18
+2023,Milpitas USD,ELA,3,78,Hispanic/Latino,149,24.83
+2023,Milpitas USD,ELA,3,79,Pacific Islander,7,
+2023,Milpitas USD,ELA,3,80,White,29,72.41
+2023,Milpitas USD,ELA,3,99,Non-SWD,695,69.78
+2023,Milpitas USD,ELA,3,111,Not Econ Disadv,510,76.08
+2023,Milpitas USD,ELA,3,128,SWD,81,22.22
+2023,Milpitas USD,ELA,3,144,Two or More Races,48,60.42
+2023,Milpitas USD,ELA,3,160,English Learner,193,35.23
+2023,Milpitas USD,ELA,3,180,English Only,346,63.01
+2023,Milpitas USD,ELA,4,1,All Students,754,65.38
+2023,Milpitas USD,ELA,4,3,Female,403,63.52
+2023,Milpitas USD,ELA,4,4,Male,351,67.52
+2023,Milpitas USD,ELA,4,31,Econ Disadvantaged,253,45.06
+2023,Milpitas USD,ELA,4,74,Black/African American,6,
+2023,Milpitas USD,ELA,4,75,American Indian,,
+2023,Milpitas USD,ELA,4,76,Asian,428,81.54
+2023,Milpitas USD,ELA,4,77,Filipino,94,58.51
+2023,Milpitas USD,ELA,4,78,Hispanic/Latino,151,29.14
+2023,Milpitas USD,ELA,4,79,Pacific Islander,,
+2023,Milpitas USD,ELA,4,80,White,26,61.54
+2023,Milpitas USD,ELA,4,99,Non-SWD,688,69.77
+2023,Milpitas USD,ELA,4,111,Not Econ Disadv,501,75.65
+2023,Milpitas USD,ELA,4,128,SWD,66,19.7
+2023,Milpitas USD,ELA,4,144,Two or More Races,44,54.55
+2023,Milpitas USD,ELA,4,160,English Learner,156,28.85
+2023,Milpitas USD,ELA,4,180,English Only,345,65.51
+2023,Milpitas USD,ELA,5,1,All Students,759,67.98
+2023,Milpitas USD,ELA,5,3,Female,390,61.03
+2023,Milpitas USD,ELA,5,4,Male,369,75.34
+2023,Milpitas USD,ELA,5,31,Econ Disadvantaged,249,45.38
+2023,Milpitas USD,ELA,5,74,Black/African American,12,50.0
+2023,Milpitas USD,ELA,5,75,American Indian,,
+2023,Milpitas USD,ELA,5,76,Asian,415,86.51
+2023,Milpitas USD,ELA,5,77,Filipino,97,62.89
+2023,Milpitas USD,ELA,5,78,Hispanic/Latino,150,26.67
+2023,Milpitas USD,ELA,5,79,Pacific Islander,5,
+2023,Milpitas USD,ELA,5,80,White,30,66.67
+2023,Milpitas USD,ELA,5,99,Non-SWD,692,72.25
+2023,Milpitas USD,ELA,5,111,Not Econ Disadv,510,79.02
+2023,Milpitas USD,ELA,5,128,SWD,67,23.88
+2023,Milpitas USD,ELA,5,144,Two or More Races,49,55.1
+2023,Milpitas USD,ELA,5,160,English Learner,123,20.33
+2023,Milpitas USD,ELA,5,180,English Only,314,61.78
+2023,Milpitas USD,ELA,6,1,All Students,664,68.67
+2023,Milpitas USD,ELA,6,3,Female,333,66.07
+2023,Milpitas USD,ELA,6,4,Male,331,71.3
+2023,Milpitas USD,ELA,6,31,Econ Disadvantaged,222,51.35
+2023,Milpitas USD,ELA,6,74,Black/African American,17,47.06
+2023,Milpitas USD,ELA,6,75,American Indian,,
+2023,Milpitas USD,ELA,6,76,Asian,357,84.87
+2023,Milpitas USD,ELA,6,77,Filipino,73,64.38
+2023,Milpitas USD,ELA,6,78,Hispanic/Latino,142,35.92
+2023,Milpitas USD,ELA,6,79,Pacific Islander,,
+2023,Milpitas USD,ELA,6,80,White,35,60.0
+2023,Milpitas USD,ELA,6,99,Non-SWD,615,72.36
+2023,Milpitas USD,ELA,6,111,Not Econ Disadv,442,77.38
+2023,Milpitas USD,ELA,6,128,SWD,49,22.45
+2023,Milpitas USD,ELA,6,144,Two or More Races,37,64.86
+2023,Milpitas USD,ELA,6,160,English Learner,97,15.46
+2023,Milpitas USD,ELA,6,180,English Only,291,65.64
+2023,Milpitas USD,ELA,7,1,All Students,715,77.03
+2023,Milpitas USD,ELA,7,3,Female,327,72.7
+2023,Milpitas USD,ELA,7,4,Male,388,80.67
+2023,Milpitas USD,ELA,7,31,Econ Disadvantaged,274,68.13
+2023,Milpitas USD,ELA,7,74,Black/African American,13,41.67
+2023,Milpitas USD,ELA,7,76,Asian,382,86.13
+2023,Milpitas USD,ELA,7,77,Filipino,103,81.55
+2023,Milpitas USD,ELA,7,78,Hispanic/Latino,125,47.2
+2023,Milpitas USD,ELA,7,79,Pacific Islander,9,
+2023,Milpitas USD,ELA,7,80,White,29,82.76
+2023,Milpitas USD,ELA,7,99,Non-SWD,645,83.07
+2023,Milpitas USD,ELA,7,111,Not Econ Disadv,441,82.54
+2023,Milpitas USD,ELA,7,128,SWD,70,21.43
+2023,Milpitas USD,ELA,7,144,Two or More Races,54,77.78
+2023,Milpitas USD,ELA,7,160,English Learner,84,25.0
+2023,Milpitas USD,ELA,7,180,English Only,290,77.85
+2023,Milpitas USD,Math,3,1,All Students,784,67.09
+2023,Milpitas USD,Math,3,3,Female,408,65.93
+2023,Milpitas USD,Math,3,4,Male,376,68.35
+2023,Milpitas USD,Math,3,31,Econ Disadvantaged,269,42.75
+2023,Milpitas USD,Math,3,74,Black/African American,16,43.75
+2023,Milpitas USD,Math,3,75,American Indian,,
+2023,Milpitas USD,Math,3,76,Asian,446,83.41
+2023,Milpitas USD,Math,3,77,Filipino,85,65.88
+2023,Milpitas USD,Math,3,78,Hispanic/Latino,150,27.33
+2023,Milpitas USD,Math,3,79,Pacific Islander,7,
+2023,Milpitas USD,Math,3,80,White,30,63.33
+2023,Milpitas USD,Math,3,99,Non-SWD,703,71.55
+2023,Milpitas USD,Math,3,111,Not Econ Disadv,515,79.81
+2023,Milpitas USD,Math,3,128,SWD,81,28.4
+2023,Milpitas USD,Math,3,144,Two or More Races,48,58.33
+2023,Milpitas USD,Math,3,160,English Learner,201,38.81
+2023,Milpitas USD,Math,3,180,English Only,346,67.05
+2023,Milpitas USD,Math,4,1,All Students,771,65.89
+2023,Milpitas USD,Math,4,3,Female,411,70.32
+2023,Milpitas USD,Math,4,4,Male,360,60.83
+2023,Milpitas USD,Math,4,31,Econ Disadvantaged,260,44.62
+2023,Milpitas USD,Math,4,74,Black/African American,6,
+2023,Milpitas USD,Math,4,75,American Indian,,
+2023,Milpitas USD,Math,4,76,Asian,438,84.47
+2023,Milpitas USD,Math,4,77,Filipino,96,58.33
+2023,Milpitas USD,Math,4,78,Hispanic/Latino,155,23.23
+2023,Milpitas USD,Math,4,79,Pacific Islander,,
+2023,Milpitas USD,Math,4,80,White,27,62.96
+2023,Milpitas USD,Math,4,99,Non-SWD,705,69.93
+2023,Milpitas USD,Math,4,111,Not Econ Disadv,511,76.71
+2023,Milpitas USD,Math,4,128,SWD,66,22.73
+2023,Milpitas USD,Math,4,144,Two or More Races,44,59.09
+2023,Milpitas USD,Math,4,160,English Learner,173,32.95
+2023,Milpitas USD,Math,4,180,English Only,345,66.38
+2023,Milpitas USD,Math,5,1,All Students,767,58.41
+2023,Milpitas USD,Math,5,3,Female,396,56.31
+2023,Milpitas USD,Math,5,4,Male,371,60.65
+2023,Milpitas USD,Math,5,31,Econ Disadvantaged,251,32.67
+2023,Milpitas USD,Math,5,74,Black/African American,12,33.33
+2023,Milpitas USD,Math,5,75,American Indian,,
+2023,Milpitas USD,Math,5,76,Asian,420,80.48
+2023,Milpitas USD,Math,5,77,Filipino,99,47.47
+2023,Milpitas USD,Math,5,78,Hispanic/Latino,150,11.33
+2023,Milpitas USD,Math,5,79,Pacific Islander,5,
+2023,Milpitas USD,Math,5,80,White,30,70.0
+2023,Milpitas USD,Math,5,99,Non-SWD,700,62.0
+2023,Milpitas USD,Math,5,111,Not Econ Disadv,516,70.93
+2023,Milpitas USD,Math,5,128,SWD,67,20.9
+2023,Milpitas USD,Math,5,144,Two or More Races,50,40.0
+2023,Milpitas USD,Math,5,160,English Learner,131,15.27
+2023,Milpitas USD,Math,5,180,English Only,314,49.04
+2023,Milpitas USD,Math,6,1,All Students,670,61.94
+2023,Milpitas USD,Math,6,3,Female,336,62.8
+2023,Milpitas USD,Math,6,4,Male,334,61.08
+2023,Milpitas USD,Math,6,31,Econ Disadvantaged,225,45.33
+2023,Milpitas USD,Math,6,74,Black/African American,17,35.29
+2023,Milpitas USD,Math,6,75,American Indian,,
+2023,Milpitas USD,Math,6,76,Asian,360,81.94
+2023,Milpitas USD,Math,6,77,Filipino,73,60.27
+2023,Milpitas USD,Math,6,78,Hispanic/Latino,143,20.28
+2023,Milpitas USD,Math,6,79,Pacific Islander,,
+2023,Milpitas USD,Math,6,80,White,37,48.65
+2023,Milpitas USD,Math,6,99,Non-SWD,621,65.22
+2023,Milpitas USD,Math,6,111,Not Econ Disadv,445,70.34
+2023,Milpitas USD,Math,6,128,SWD,49,20.41
+2023,Milpitas USD,Math,6,144,Two or More Races,37,56.76
+2023,Milpitas USD,Math,6,160,English Learner,105,16.19
+2023,Milpitas USD,Math,6,180,English Only,291,58.08
+2023,Milpitas USD,Math,7,1,All Students,725,64.97
+2023,Milpitas USD,Math,7,3,Female,332,66.87
+2023,Milpitas USD,Math,7,4,Male,393,63.36
+2023,Milpitas USD,Math,7,31,Econ Disadvantaged,281,53.02
+2023,Milpitas USD,Math,7,74,Black/African American,11,18.18
+2023,Milpitas USD,Math,7,76,Asian,384,81.51
+2023,Milpitas USD,Math,7,77,Filipino,104,64.42
+2023,Milpitas USD,Math,7,78,Hispanic/Latino,132,25.76
+2023,Milpitas USD,Math,7,79,Pacific Islander,9,
+2023,Milpitas USD,Math,7,80,White,29,51.72
+2023,Milpitas USD,Math,7,99,Non-SWD,655,70.53
+2023,Milpitas USD,Math,7,111,Not Econ Disadv,444,72.52
+2023,Milpitas USD,Math,7,128,SWD,70,12.86
+2023,Milpitas USD,Math,7,144,Two or More Races,56,64.29
+2023,Milpitas USD,Math,7,160,English Learner,95,15.79
+2023,Milpitas USD,Math,7,180,English Only,290,60.69
+2024,Dublin USD,ELA,3,1,All Students,978,78.83
+2024,Dublin USD,ELA,3,3,Female,486,76.75
+2024,Dublin USD,ELA,3,4,Male,492,80.89
+2024,Dublin USD,ELA,3,31,Econ Disadvantaged,114,65.79
+2024,Dublin USD,ELA,3,74,Black/African American,19,47.37
+2024,Dublin USD,ELA,3,75,American Indian,4,
+2024,Dublin USD,ELA,3,76,Asian,664,84.19
+2024,Dublin USD,ELA,3,77,Filipino,40,85.0
+2024,Dublin USD,ELA,3,78,Hispanic/Latino,82,56.1
+2024,Dublin USD,ELA,3,79,Pacific Islander,,
+2024,Dublin USD,ELA,3,80,White,111,65.77
+2024,Dublin USD,ELA,3,99,Non-SWD,899,81.87
+2024,Dublin USD,ELA,3,111,Not Econ Disadv,864,80.56
+2024,Dublin USD,ELA,3,128,SWD,79,44.3
+2024,Dublin USD,ELA,3,144,Two or More Races,56,80.36
+2024,Dublin USD,ELA,3,160,English Learner,70,38.57
+2024,Dublin USD,ELA,3,180,English Only,600,77.67
+2024,Dublin USD,ELA,4,1,All Students,1001,78.82
+2024,Dublin USD,ELA,4,3,Female,515,76.12
+2024,Dublin USD,ELA,4,4,Male,485,81.65
+2024,Dublin USD,ELA,4,31,Econ Disadvantaged,180,70.0
+2024,Dublin USD,ELA,4,74,Black/African American,15,46.67
+2024,Dublin USD,ELA,4,75,American Indian,,
+2024,Dublin USD,ELA,4,76,Asian,628,85.19
+2024,Dublin USD,ELA,4,77,Filipino,33,87.88
+2024,Dublin USD,ELA,4,78,Hispanic/Latino,95,49.47
+2024,Dublin USD,ELA,4,79,Pacific Islander,,
+2024,Dublin USD,ELA,4,80,White,149,75.84
+2024,Dublin USD,ELA,4,99,Non-SWD,911,83.86
+2024,Dublin USD,ELA,4,111,Not Econ Disadv,821,80.76
+2024,Dublin USD,ELA,4,128,SWD,90,27.78
+2024,Dublin USD,ELA,4,144,Two or More Races,78,71.79
+2024,Dublin USD,ELA,4,160,English Learner,71,43.66
+2024,Dublin USD,ELA,4,180,English Only,601,78.7
+2024,Dublin USD,ELA,5,1,All Students,1040,84.71
+2024,Dublin USD,ELA,5,3,Female,523,80.69
+2024,Dublin USD,ELA,5,4,Male,517,88.78
+2024,Dublin USD,ELA,5,31,Econ Disadvantaged,89,62.92
+2024,Dublin USD,ELA,5,74,Black/African American,34,52.94
+2024,Dublin USD,ELA,5,76,Asian,684,90.5
+2024,Dublin USD,ELA,5,77,Filipino,44,88.64
+2024,Dublin USD,ELA,5,78,Hispanic/Latino,81,62.96
+2024,Dublin USD,ELA,5,79,Pacific Islander,,
+2024,Dublin USD,ELA,5,80,White,115,77.39
+2024,Dublin USD,ELA,5,99,Non-SWD,965,89.22
+2024,Dublin USD,ELA,5,111,Not Econ Disadv,951,86.75
+2024,Dublin USD,ELA,5,128,SWD,75,26.67
+2024,Dublin USD,ELA,5,144,Two or More Races,79,79.75
+2024,Dublin USD,ELA,5,160,English Learner,34,32.35
+2024,Dublin USD,ELA,5,180,English Only,618,83.82
+2024,Dublin USD,ELA,6,1,All Students,1002,78.24
+2024,Dublin USD,ELA,6,3,Female,474,75.11
+2024,Dublin USD,ELA,6,4,Male,528,81.06
+2024,Dublin USD,ELA,6,31,Econ Disadvantaged,118,55.08
+2024,Dublin USD,ELA,6,74,Black/African American,22,36.36
+2024,Dublin USD,ELA,6,75,American Indian,,
+2024,Dublin USD,ELA,6,76,Asian,674,85.91
+2024,Dublin USD,ELA,6,77,Filipino,35,77.14
+2024,Dublin USD,ELA,6,78,Hispanic/Latino,99,50.51
+2024,Dublin USD,ELA,6,79,Pacific Islander,,
+2024,Dublin USD,ELA,6,80,White,105,66.67
+2024,Dublin USD,ELA,6,99,Non-SWD,928,81.79
+2024,Dublin USD,ELA,6,111,Not Econ Disadv,884,81.33
+2024,Dublin USD,ELA,6,128,SWD,74,33.78
+2024,Dublin USD,ELA,6,144,Two or More Races,63,77.78
+2024,Dublin USD,ELA,6,160,English Learner,42,21.43
+2024,Dublin USD,ELA,6,180,English Only,567,77.25
+2024,Dublin USD,ELA,7,1,All Students,986,78.8
+2024,Dublin USD,ELA,7,3,Female,513,74.85
+2024,Dublin USD,ELA,7,4,Male,472,83.05
+2024,Dublin USD,ELA,7,31,Econ Disadvantaged,114,66.67
+2024,Dublin USD,ELA,7,74,Black/African American,19,47.37
+2024,Dublin USD,ELA,7,75,American Indian,,
+2024,Dublin USD,ELA,7,76,Asian,650,86.77
+2024,Dublin USD,ELA,7,77,Filipino,47,89.36
+2024,Dublin USD,ELA,7,78,Hispanic/Latino,64,46.88
+2024,Dublin USD,ELA,7,79,Pacific Islander,4,
+2024,Dublin USD,ELA,7,80,White,132,58.33
+2024,Dublin USD,ELA,7,99,Non-SWD,931,82.38
+2024,Dublin USD,ELA,7,111,Not Econ Disadv,872,80.39
+2024,Dublin USD,ELA,7,128,SWD,55,18.18
+2024,Dublin USD,ELA,7,144,Two or More Races,69,72.46
+2024,Dublin USD,ELA,7,160,English Learner,31,19.35
+2024,Dublin USD,ELA,7,180,English Only,567,77.25
+2024,Dublin USD,Math,3,1,All Students,982,85.95
+2024,Dublin USD,Math,3,3,Female,491,87.58
+2024,Dublin USD,Math,3,4,Male,491,84.32
+2024,Dublin USD,Math,3,31,Econ Disadvantaged,113,69.91
+2024,Dublin USD,Math,3,74,Black/African American,18,55.56
+2024,Dublin USD,Math,3,75,American Indian,4,
+2024,Dublin USD,Math,3,76,Asian,668,92.07
+2024,Dublin USD,Math,3,77,Filipino,40,92.5
+2024,Dublin USD,Math,3,78,Hispanic/Latino,82,57.32
+2024,Dublin USD,Math,3,79,Pacific Islander,,
+2024,Dublin USD,Math,3,80,White,112,75.89
+2024,Dublin USD,Math,3,99,Non-SWD,903,89.37
+2024,Dublin USD,Math,3,111,Not Econ Disadv,869,88.03
+2024,Dublin USD,Math,3,128,SWD,79,46.84
+2024,Dublin USD,Math,3,144,Two or More Races,56,82.14
+2024,Dublin USD,Math,3,160,English Learner,75,62.67
+2024,Dublin USD,Math,3,180,English Only,599,83.64
+2024,Dublin USD,Math,4,1,All Students,1006,79.52
+2024,Dublin USD,Math,4,3,Female,518,80.12
+2024,Dublin USD,Math,4,4,Male,487,78.85
+2024,Dublin USD,Math,4,31,Econ Disadvantaged,179,66.48
+2024,Dublin USD,Math,4,74,Black/African American,15,40.0
+2024,Dublin USD,Math,4,75,American Indian,,
+2024,Dublin USD,Math,4,76,Asian,634,87.54
+2024,Dublin USD,Math,4,77,Filipino,33,90.91
+2024,Dublin USD,Math,4,78,Hispanic/Latino,95,48.42
+2024,Dublin USD,Math,4,79,Pacific Islander,,
+2024,Dublin USD,Math,4,80,White,148,67.57
+2024,Dublin USD,Math,4,99,Non-SWD,917,84.19
+2024,Dublin USD,Math,4,111,Not Econ Disadv,827,82.35
+2024,Dublin USD,Math,4,128,SWD,89,31.46
+2024,Dublin USD,Math,4,144,Two or More Races,78,78.21
+2024,Dublin USD,Math,4,160,English Learner,76,47.37
+2024,Dublin USD,Math,4,180,English Only,601,78.04
+2024,Dublin USD,Math,5,1,All Students,1046,79.35
+2024,Dublin USD,Math,5,3,Female,524,80.34
+2024,Dublin USD,Math,5,4,Male,522,78.35
+2024,Dublin USD,Math,5,31,Econ Disadvantaged,89,53.93
+2024,Dublin USD,Math,5,74,Black/African American,34,41.18
+2024,Dublin USD,Math,5,76,Asian,687,87.63
+2024,Dublin USD,Math,5,77,Filipino,44,81.82
+2024,Dublin USD,Math,5,78,Hispanic/Latino,81,46.91
+2024,Dublin USD,Math,5,79,Pacific Islander,,
+2024,Dublin USD,Math,5,80,White,118,68.64
+2024,Dublin USD,Math,5,99,Non-SWD,971,83.21
+2024,Dublin USD,Math,5,111,Not Econ Disadv,957,81.71
+2024,Dublin USD,Math,5,128,SWD,75,29.33
+2024,Dublin USD,Math,5,144,Two or More Races,79,73.42
+2024,Dublin USD,Math,5,160,English Learner,40,40.0
+2024,Dublin USD,Math,5,180,English Only,619,77.22
+2024,Dublin USD,Math,6,1,All Students,1004,66.73
+2024,Dublin USD,Math,6,3,Female,475,67.58
+2024,Dublin USD,Math,6,4,Male,529,65.97
+2024,Dublin USD,Math,6,31,Econ Disadvantaged,118,43.22
+2024,Dublin USD,Math,6,74,Black/African American,22,9.09
+2024,Dublin USD,Math,6,75,American Indian,,
+2024,Dublin USD,Math,6,76,Asian,676,79.29
+2024,Dublin USD,Math,6,77,Filipino,35,57.14
+2024,Dublin USD,Math,6,78,Hispanic/Latino,100,23.0
+2024,Dublin USD,Math,6,79,Pacific Islander,,
+2024,Dublin USD,Math,6,80,White,104,50.96
+2024,Dublin USD,Math,6,99,Non-SWD,931,70.35
+2024,Dublin USD,Math,6,111,Not Econ Disadv,886,69.86
+2024,Dublin USD,Math,6,128,SWD,73,20.55
+2024,Dublin USD,Math,6,144,Two or More Races,63,53.97
+2024,Dublin USD,Math,6,160,English Learner,46,13.04
+2024,Dublin USD,Math,6,180,English Only,566,62.9
+2024,Dublin USD,Math,7,1,All Students,991,71.08
+2024,Dublin USD,Math,7,3,Female,516,73.35
+2024,Dublin USD,Math,7,4,Male,474,68.78
+2024,Dublin USD,Math,7,31,Econ Disadvantaged,113,51.33
+2024,Dublin USD,Math,7,74,Black/African American,20,15.0
+2024,Dublin USD,Math,7,75,American Indian,,
+2024,Dublin USD,Math,7,76,Asian,650,81.66
+2024,Dublin USD,Math,7,77,Filipino,47,69.57
+2024,Dublin USD,Math,7,78,Hispanic/Latino,68,33.82
+2024,Dublin USD,Math,7,79,Pacific Islander,4,
+2024,Dublin USD,Math,7,80,White,132,52.27
+2024,Dublin USD,Math,7,99,Non-SWD,936,74.41
+2024,Dublin USD,Math,7,111,Not Econ Disadv,878,73.63
+2024,Dublin USD,Math,7,128,SWD,55,14.55
+2024,Dublin USD,Math,7,144,Two or More Races,69,62.32
+2024,Dublin USD,Math,7,160,English Learner,32,21.88
+2024,Dublin USD,Math,7,180,English Only,571,68.37
+2024,Walnut Valley USD,ELA,3,1,All Students,929,70.08
+2024,Walnut Valley USD,ELA,3,3,Female,500,67.0
+2024,Walnut Valley USD,ELA,3,4,Male,429,73.66
+2024,Walnut Valley USD,ELA,3,31,Econ Disadvantaged,308,62.99
+2024,Walnut Valley USD,ELA,3,74,Black/African American,12,41.67
+2024,Walnut Valley USD,ELA,3,75,American Indian,,
+2024,Walnut Valley USD,ELA,3,76,Asian,612,77.45
+2024,Walnut Valley USD,ELA,3,77,Filipino,54,75.93
+2024,Walnut Valley USD,ELA,3,78,Hispanic/Latino,175,44.57
+2024,Walnut Valley USD,ELA,3,79,Pacific Islander,,
+2024,Walnut Valley USD,ELA,3,80,White,33,66.67
+2024,Walnut Valley USD,ELA,3,99,Non-SWD,855,73.92
+2024,Walnut Valley USD,ELA,3,111,Not Econ Disadv,621,73.59
+2024,Walnut Valley USD,ELA,3,128,SWD,74,25.68
+2024,Walnut Valley USD,ELA,3,144,Two or More Races,39,71.79
+2024,Walnut Valley USD,ELA,3,160,English Learner,135,35.56
+2024,Walnut Valley USD,ELA,3,180,English Only,421,64.85
+2024,Walnut Valley USD,ELA,4,1,All Students,969,73.68
+2024,Walnut Valley USD,ELA,4,3,Female,488,71.11
+2024,Walnut Valley USD,ELA,4,4,Male,481,76.3
+2024,Walnut Valley USD,ELA,4,31,Econ Disadvantaged,306,70.59
+2024,Walnut Valley USD,ELA,4,74,Black/African American,5,
+2024,Walnut Valley USD,ELA,4,75,American Indian,,
+2024,Walnut Valley USD,ELA,4,76,Asian,647,80.99
+2024,Walnut Valley USD,ELA,4,77,Filipino,53,71.7
+2024,Walnut Valley USD,ELA,4,78,Hispanic/Latino,196,49.49
+2024,Walnut Valley USD,ELA,4,79,Pacific Islander,,
+2024,Walnut Valley USD,ELA,4,80,White,31,67.74
+2024,Walnut Valley USD,ELA,4,99,Non-SWD,901,77.36
+2024,Walnut Valley USD,ELA,4,111,Not Econ Disadv,663,75.11
+2024,Walnut Valley USD,ELA,4,128,SWD,68,25.0
+2024,Walnut Valley USD,ELA,4,144,Two or More Races,35,85.71
+2024,Walnut Valley USD,ELA,4,160,English Learner,127,31.5
+2024,Walnut Valley USD,ELA,4,180,English Only,447,68.23
+2024,Walnut Valley USD,ELA,5,1,All Students,1080,77.22
+2024,Walnut Valley USD,ELA,5,3,Female,559,75.67
+2024,Walnut Valley USD,ELA,5,4,Male,521,78.89
+2024,Walnut Valley USD,ELA,5,31,Econ Disadvantaged,333,69.97
+2024,Walnut Valley USD,ELA,5,74,Black/African American,8,
+2024,Walnut Valley USD,ELA,5,76,Asian,747,84.2
+2024,Walnut Valley USD,ELA,5,77,Filipino,53,77.36
+2024,Walnut Valley USD,ELA,5,78,Hispanic/Latino,188,58.51
+2024,Walnut Valley USD,ELA,5,79,Pacific Islander,,
+2024,Walnut Valley USD,ELA,5,80,White,36,58.33
+2024,Walnut Valley USD,ELA,5,99,Non-SWD,1018,79.47
+2024,Walnut Valley USD,ELA,5,111,Not Econ Disadv,747,80.46
+2024,Walnut Valley USD,ELA,5,128,SWD,62,40.32
+2024,Walnut Valley USD,ELA,5,144,Two or More Races,45,64.44
+2024,Walnut Valley USD,ELA,5,160,English Learner,112,34.82
+2024,Walnut Valley USD,ELA,5,180,English Only,467,72.59
+2024,Walnut Valley USD,ELA,6,1,All Students,1121,75.83
+2024,Walnut Valley USD,ELA,6,3,Female,541,71.72
+2024,Walnut Valley USD,ELA,6,4,Male,580,79.66
+2024,Walnut Valley USD,ELA,6,31,Econ Disadvantaged,288,69.44
+2024,Walnut Valley USD,ELA,6,74,Black/African American,7,
+2024,Walnut Valley USD,ELA,6,76,Asian,779,80.74
+2024,Walnut Valley USD,ELA,6,77,Filipino,60,83.33
+2024,Walnut Valley USD,ELA,6,78,Hispanic/Latino,193,54.92
+2024,Walnut Valley USD,ELA,6,80,White,41,65.85
+2024,Walnut Valley USD,ELA,6,99,Non-SWD,1049,79.69
+2024,Walnut Valley USD,ELA,6,111,Not Econ Disadv,833,78.03
+2024,Walnut Valley USD,ELA,6,128,SWD,72,19.44
+2024,Walnut Valley USD,ELA,6,144,Two or More Races,41,82.93
+2024,Walnut Valley USD,ELA,6,160,English Learner,125,16.0
+2024,Walnut Valley USD,ELA,6,180,English Only,493,75.66
+2024,Walnut Valley USD,ELA,7,1,All Students,1107,78.95
+2024,Walnut Valley USD,ELA,7,3,Female,561,74.87
+2024,Walnut Valley USD,ELA,7,4,Male,546,83.15
+2024,Walnut Valley USD,ELA,7,31,Econ Disadvantaged,310,69.03
+2024,Walnut Valley USD,ELA,7,74,Black/African American,8,
+2024,Walnut Valley USD,ELA,7,76,Asian,704,85.8
+2024,Walnut Valley USD,ELA,7,77,Filipino,69,84.06
+2024,Walnut Valley USD,ELA,7,78,Hispanic/Latino,233,61.37
+2024,Walnut Valley USD,ELA,7,79,Pacific Islander,,
+2024,Walnut Valley USD,ELA,7,80,White,47,61.7
+2024,Walnut Valley USD,ELA,7,99,Non-SWD,1025,83.22
+2024,Walnut Valley USD,ELA,7,111,Not Econ Disadv,797,82.81
+2024,Walnut Valley USD,ELA,7,128,SWD,82,25.61
+2024,Walnut Valley USD,ELA,7,144,Two or More Races,44,70.45
+2024,Walnut Valley USD,ELA,7,160,English Learner,112,21.43
+2024,Walnut Valley USD,ELA,7,180,English Only,530,78.11
+2024,Walnut Valley USD,Math,3,1,All Students,972,75.21
+2024,Walnut Valley USD,Math,3,3,Female,526,76.43
+2024,Walnut Valley USD,Math,3,4,Male,446,73.77
+2024,Walnut Valley USD,Math,3,31,Econ Disadvantaged,323,65.94
+2024,Walnut Valley USD,Math,3,74,Black/African American,12,41.67
+2024,Walnut Valley USD,Math,3,75,American Indian,,
+2024,Walnut Valley USD,Math,3,76,Asian,653,82.85
+2024,Walnut Valley USD,Math,3,77,Filipino,54,77.78
+2024,Walnut Valley USD,Math,3,78,Hispanic/Latino,176,50.0
+2024,Walnut Valley USD,Math,3,79,Pacific Islander,,
+2024,Walnut Valley USD,Math,3,80,White,34,73.53
+2024,Walnut Valley USD,Math,3,99,Non-SWD,897,78.6
+2024,Walnut Valley USD,Math,3,111,Not Econ Disadv,649,79.82
+2024,Walnut Valley USD,Math,3,128,SWD,75,34.67
+2024,Walnut Valley USD,Math,3,144,Two or More Races,39,69.23
+2024,Walnut Valley USD,Math,3,160,English Learner,178,53.37
+2024,Walnut Valley USD,Math,3,180,English Only,421,69.12
+2024,Walnut Valley USD,Math,4,1,All Students,1005,74.63
+2024,Walnut Valley USD,Math,4,3,Female,508,75.98
+2024,Walnut Valley USD,Math,4,4,Male,497,73.24
+2024,Walnut Valley USD,Math,4,31,Econ Disadvantaged,311,70.74
+2024,Walnut Valley USD,Math,4,74,Black/African American,5,
+2024,Walnut Valley USD,Math,4,75,American Indian,,
+2024,Walnut Valley USD,Math,4,76,Asian,683,83.46
+2024,Walnut Valley USD,Math,4,77,Filipino,53,69.81
+2024,Walnut Valley USD,Math,4,78,Hispanic/Latino,196,45.92
+2024,Walnut Valley USD,Math,4,79,Pacific Islander,,
+2024,Walnut Valley USD,Math,4,80,White,31,58.06
+2024,Walnut Valley USD,Math,4,99,Non-SWD,937,77.69
+2024,Walnut Valley USD,Math,4,111,Not Econ Disadv,694,76.37
+2024,Walnut Valley USD,Math,4,128,SWD,68,32.35
+2024,Walnut Valley USD,Math,4,144,Two or More Races,35,85.71
+2024,Walnut Valley USD,Math,4,160,English Learner,163,47.24
+2024,Walnut Valley USD,Math,4,180,English Only,447,67.34
+2024,Walnut Valley USD,Math,5,1,All Students,1111,72.5
+2024,Walnut Valley USD,Math,5,3,Female,575,74.91
+2024,Walnut Valley USD,Math,5,4,Male,536,69.91
+2024,Walnut Valley USD,Math,5,31,Econ Disadvantaged,338,65.58
+2024,Walnut Valley USD,Math,5,74,Black/African American,8,
+2024,Walnut Valley USD,Math,5,76,Asian,777,81.81
+2024,Walnut Valley USD,Math,5,77,Filipino,53,69.81
+2024,Walnut Valley USD,Math,5,78,Hispanic/Latino,188,43.09
+2024,Walnut Valley USD,Math,5,79,Pacific Islander,,
+2024,Walnut Valley USD,Math,5,80,White,37,51.35
+2024,Walnut Valley USD,Math,5,99,Non-SWD,1049,74.9
+2024,Walnut Valley USD,Math,5,111,Not Econ Disadv,773,75.52
+2024,Walnut Valley USD,Math,5,128,SWD,62,31.15
+2024,Walnut Valley USD,Math,5,144,Two or More Races,45,68.89
+2024,Walnut Valley USD,Math,5,160,English Learner,143,38.73
+2024,Walnut Valley USD,Math,5,180,English Only,467,64.67
+2024,Walnut Valley USD,Math,6,1,All Students,1127,75.78
+2024,Walnut Valley USD,Math,6,3,Female,546,77.29
+2024,Walnut Valley USD,Math,6,4,Male,581,74.35
+2024,Walnut Valley USD,Math,6,31,Econ Disadvantaged,290,72.76
+2024,Walnut Valley USD,Math,6,74,Black/African American,7,
+2024,Walnut Valley USD,Math,6,76,Asian,785,84.71
+2024,Walnut Valley USD,Math,6,77,Filipino,60,81.67
+2024,Walnut Valley USD,Math,6,78,Hispanic/Latino,193,45.6
+2024,Walnut Valley USD,Math,6,80,White,41,46.34
+2024,Walnut Valley USD,Math,6,99,Non-SWD,1055,79.62
+2024,Walnut Valley USD,Math,6,111,Not Econ Disadv,837,76.82
+2024,Walnut Valley USD,Math,6,128,SWD,72,19.44
+2024,Walnut Valley USD,Math,6,144,Two or More Races,41,73.17
+2024,Walnut Valley USD,Math,6,160,English Learner,131,43.51
+2024,Walnut Valley USD,Math,6,180,English Only,493,69.37
+2024,Walnut Valley USD,Math,7,1,All Students,1110,73.33
+2024,Walnut Valley USD,Math,7,3,Female,563,75.67
+2024,Walnut Valley USD,Math,7,4,Male,547,70.93
+2024,Walnut Valley USD,Math,7,31,Econ Disadvantaged,310,66.45
+2024,Walnut Valley USD,Math,7,74,Black/African American,8,
+2024,Walnut Valley USD,Math,7,76,Asian,706,85.98
+2024,Walnut Valley USD,Math,7,77,Filipino,69,72.46
+2024,Walnut Valley USD,Math,7,78,Hispanic/Latino,234,41.88
+2024,Walnut Valley USD,Math,7,79,Pacific Islander,,
+2024,Walnut Valley USD,Math,7,80,White,47,53.19
+2024,Walnut Valley USD,Math,7,99,Non-SWD,1028,77.33
+2024,Walnut Valley USD,Math,7,111,Not Econ Disadv,800,76.0
+2024,Walnut Valley USD,Math,7,128,SWD,82,23.17
+2024,Walnut Valley USD,Math,7,144,Two or More Races,44,63.64
+2024,Walnut Valley USD,Math,7,160,English Learner,114,50.88
+2024,Walnut Valley USD,Math,7,180,English Only,530,65.28
+2024,Palo Alto USD,ELA,3,1,All Students,703,78.24
+2024,Palo Alto USD,ELA,3,3,Female,373,73.46
+2024,Palo Alto USD,ELA,3,4,Male,330,83.64
+2024,Palo Alto USD,ELA,3,31,Econ Disadvantaged,92,39.13
+2024,Palo Alto USD,ELA,3,74,Black/African American,12,58.33
+2024,Palo Alto USD,ELA,3,75,American Indian,,
+2024,Palo Alto USD,ELA,3,76,Asian,297,91.58
+2024,Palo Alto USD,ELA,3,77,Filipino,,
+2024,Palo Alto USD,ELA,3,78,Hispanic/Latino,115,44.35
+2024,Palo Alto USD,ELA,3,79,Pacific Islander,5,
+2024,Palo Alto USD,ELA,3,80,White,191,78.53
+2024,Palo Alto USD,ELA,3,99,Non-SWD,624,81.73
+2024,Palo Alto USD,ELA,3,111,Not Econ Disadv,611,84.12
+2024,Palo Alto USD,ELA,3,128,SWD,79,50.63
+2024,Palo Alto USD,ELA,3,144,Two or More Races,80,83.75
+2024,Palo Alto USD,ELA,3,160,English Learner,80,37.5
+2024,Palo Alto USD,ELA,3,180,English Only,403,79.9
+2024,Palo Alto USD,ELA,4,1,All Students,690,81.16
+2024,Palo Alto USD,ELA,4,3,Female,339,79.35
+2024,Palo Alto USD,ELA,4,4,Male,351,82.91
+2024,Palo Alto USD,ELA,4,31,Econ Disadvantaged,76,39.47
+2024,Palo Alto USD,ELA,4,74,Black/African American,11,54.55
+2024,Palo Alto USD,ELA,4,76,Asian,298,92.28
+2024,Palo Alto USD,ELA,4,77,Filipino,6,
+2024,Palo Alto USD,ELA,4,78,Hispanic/Latino,104,46.15
+2024,Palo Alto USD,ELA,4,79,Pacific Islander,8,
+2024,Palo Alto USD,ELA,4,80,White,196,84.18
+2024,Palo Alto USD,ELA,4,99,Non-SWD,619,85.3
+2024,Palo Alto USD,ELA,4,111,Not Econ Disadv,614,86.32
+2024,Palo Alto USD,ELA,4,128,SWD,71,45.07
+2024,Palo Alto USD,ELA,4,144,Two or More Races,67,85.07
+2024,Palo Alto USD,ELA,4,160,English Learner,61,37.7
+2024,Palo Alto USD,ELA,4,180,English Only,400,83.25
+2024,Palo Alto USD,ELA,5,1,All Students,713,80.65
+2024,Palo Alto USD,ELA,5,3,Female,375,79.73
+2024,Palo Alto USD,ELA,5,4,Male,338,81.66
+2024,Palo Alto USD,ELA,5,31,Econ Disadvantaged,115,44.35
+2024,Palo Alto USD,ELA,5,74,Black/African American,15,73.33
+2024,Palo Alto USD,ELA,5,76,Asian,299,92.31
+2024,Palo Alto USD,ELA,5,77,Filipino,5,
+2024,Palo Alto USD,ELA,5,78,Hispanic/Latino,113,42.48
+2024,Palo Alto USD,ELA,5,79,Pacific Islander,7,
+2024,Palo Alto USD,ELA,5,80,White,185,81.08
+2024,Palo Alto USD,ELA,5,99,Non-SWD,629,85.69
+2024,Palo Alto USD,ELA,5,111,Not Econ Disadv,598,87.63
+2024,Palo Alto USD,ELA,5,128,SWD,84,42.86
+2024,Palo Alto USD,ELA,5,144,Two or More Races,89,91.01
+2024,Palo Alto USD,ELA,5,160,English Learner,56,25.0
+2024,Palo Alto USD,ELA,5,180,English Only,401,86.28
+2024,Palo Alto USD,ELA,6,1,All Students,771,82.08
+2024,Palo Alto USD,ELA,6,3,Female,402,82.29
+2024,Palo Alto USD,ELA,6,4,Male,369,81.84
+2024,Palo Alto USD,ELA,6,31,Econ Disadvantaged,101,55.0
+2024,Palo Alto USD,ELA,6,74,Black/African American,10,
+2024,Palo Alto USD,ELA,6,75,American Indian,,
+2024,Palo Alto USD,ELA,6,76,Asian,320,92.81
+2024,Palo Alto USD,ELA,6,77,Filipino,9,
+2024,Palo Alto USD,ELA,6,78,Hispanic/Latino,130,48.06
+2024,Palo Alto USD,ELA,6,79,Pacific Islander,14,35.71
+2024,Palo Alto USD,ELA,6,80,White,207,87.92
+2024,Palo Alto USD,ELA,6,99,Non-SWD,703,86.47
+2024,Palo Alto USD,ELA,6,111,Not Econ Disadv,670,86.12
+2024,Palo Alto USD,ELA,6,128,SWD,68,36.76
+2024,Palo Alto USD,ELA,6,144,Two or More Races,80,87.5
+2024,Palo Alto USD,ELA,6,160,English Learner,62,27.42
+2024,Palo Alto USD,ELA,6,180,English Only,417,88.25
+2024,Palo Alto USD,ELA,7,1,All Students,748,81.95
+2024,Palo Alto USD,ELA,7,3,Female,395,81.27
+2024,Palo Alto USD,ELA,7,4,Male,353,82.72
+2024,Palo Alto USD,ELA,7,31,Econ Disadvantaged,95,52.63
+2024,Palo Alto USD,ELA,7,74,Black/African American,11,45.45
+2024,Palo Alto USD,ELA,7,76,Asian,310,90.0
+2024,Palo Alto USD,ELA,7,77,Filipino,7,
+2024,Palo Alto USD,ELA,7,78,Hispanic/Latino,118,53.39
+2024,Palo Alto USD,ELA,7,79,Pacific Islander,4,
+2024,Palo Alto USD,ELA,7,80,White,209,85.65
+2024,Palo Alto USD,ELA,7,99,Non-SWD,687,86.03
+2024,Palo Alto USD,ELA,7,111,Not Econ Disadv,653,86.22
+2024,Palo Alto USD,ELA,7,128,SWD,61,36.07
+2024,Palo Alto USD,ELA,7,144,Two or More Races,89,87.64
+2024,Palo Alto USD,ELA,7,160,English Learner,50,14.0
+2024,Palo Alto USD,ELA,7,180,English Only,401,88.78
+2024,Palo Alto USD,Math,3,1,All Students,719,83.45
+2024,Palo Alto USD,Math,3,3,Female,380,82.11
+2024,Palo Alto USD,Math,3,4,Male,339,84.96
+2024,Palo Alto USD,Math,3,31,Econ Disadvantaged,94,45.74
+2024,Palo Alto USD,Math,3,74,Black/African American,12,58.33
+2024,Palo Alto USD,Math,3,75,American Indian,,
+2024,Palo Alto USD,Math,3,76,Asian,305,96.72
+2024,Palo Alto USD,Math,3,77,Filipino,,
+2024,Palo Alto USD,Math,3,78,Hispanic/Latino,117,46.15
+2024,Palo Alto USD,Math,3,79,Pacific Islander,5,
+2024,Palo Alto USD,Math,3,80,White,197,85.28
+2024,Palo Alto USD,Math,3,99,Non-SWD,641,87.05
+2024,Palo Alto USD,Math,3,111,Not Econ Disadv,625,89.12
+2024,Palo Alto USD,Math,3,128,SWD,78,53.85
+2024,Palo Alto USD,Math,3,144,Two or More Races,80,88.75
+2024,Palo Alto USD,Math,3,160,English Learner,97,49.48
+2024,Palo Alto USD,Math,3,180,English Only,404,86.14
+2024,Palo Alto USD,Math,4,1,All Students,706,81.59
+2024,Palo Alto USD,Math,4,3,Female,351,83.76
+2024,Palo Alto USD,Math,4,4,Male,355,79.44
+2024,Palo Alto USD,Math,4,31,Econ Disadvantaged,80,46.25
+2024,Palo Alto USD,Math,4,74,Black/African American,10,
+2024,Palo Alto USD,Math,4,76,Asian,308,92.53
+2024,Palo Alto USD,Math,4,77,Filipino,6,
+2024,Palo Alto USD,Math,4,78,Hispanic/Latino,109,47.71
+2024,Palo Alto USD,Math,4,79,Pacific Islander,9,
+2024,Palo Alto USD,Math,4,80,White,197,83.76
+2024,Palo Alto USD,Math,4,99,Non-SWD,635,85.67
+2024,Palo Alto USD,Math,4,111,Not Econ Disadv,626,86.1
+2024,Palo Alto USD,Math,4,128,SWD,71,45.07
+2024,Palo Alto USD,Math,4,144,Two or More Races,67,89.55
+2024,Palo Alto USD,Math,4,160,English Learner,78,51.28
+2024,Palo Alto USD,Math,4,180,English Only,398,82.66
+2024,Palo Alto USD,Math,5,1,All Students,724,76.07
+2024,Palo Alto USD,Math,5,3,Female,380,78.63
+2024,Palo Alto USD,Math,5,4,Male,344,73.26
+2024,Palo Alto USD,Math,5,31,Econ Disadvantaged,115,36.52
+2024,Palo Alto USD,Math,5,74,Black/African American,15,53.33
+2024,Palo Alto USD,Math,5,76,Asian,306,95.1
+2024,Palo Alto USD,Math,5,77,Filipino,5,
+2024,Palo Alto USD,Math,5,78,Hispanic/Latino,114,30.7
+2024,Palo Alto USD,Math,5,79,Pacific Islander,7,
+2024,Palo Alto USD,Math,5,80,White,189,72.87
+2024,Palo Alto USD,Math,5,99,Non-SWD,639,81.66
+2024,Palo Alto USD,Math,5,111,Not Econ Disadv,609,83.55
+2024,Palo Alto USD,Math,5,128,SWD,85,34.12
+2024,Palo Alto USD,Math,5,144,Two or More Races,88,84.09
+2024,Palo Alto USD,Math,5,160,English Learner,68,32.35
+2024,Palo Alto USD,Math,5,180,English Only,400,78.95
+2024,Palo Alto USD,Math,6,1,All Students,768,78.62
+2024,Palo Alto USD,Math,6,3,Female,400,81.2
+2024,Palo Alto USD,Math,6,4,Male,368,75.82
+2024,Palo Alto USD,Math,6,31,Econ Disadvantaged,100,44.44
+2024,Palo Alto USD,Math,6,74,Black/African American,10,
+2024,Palo Alto USD,Math,6,75,American Indian,,
+2024,Palo Alto USD,Math,6,76,Asian,320,94.38
+2024,Palo Alto USD,Math,6,77,Filipino,9,
+2024,Palo Alto USD,Math,6,78,Hispanic/Latino,130,39.53
+2024,Palo Alto USD,Math,6,79,Pacific Islander,14,14.29
+2024,Palo Alto USD,Math,6,80,White,205,84.39
+2024,Palo Alto USD,Math,6,99,Non-SWD,701,82.43
+2024,Palo Alto USD,Math,6,111,Not Econ Disadv,668,83.68
+2024,Palo Alto USD,Math,6,128,SWD,67,38.81
+2024,Palo Alto USD,Math,6,144,Two or More Races,79,83.54
+2024,Palo Alto USD,Math,6,160,English Learner,62,41.94
+2024,Palo Alto USD,Math,6,180,English Only,413,81.36
+2024,Palo Alto USD,Math,7,1,All Students,746,78.82
+2024,Palo Alto USD,Math,7,3,Female,393,81.17
+2024,Palo Alto USD,Math,7,4,Male,353,76.2
+2024,Palo Alto USD,Math,7,31,Econ Disadvantaged,95,33.68
+2024,Palo Alto USD,Math,7,74,Black/African American,11,27.27
+2024,Palo Alto USD,Math,7,76,Asian,310,93.23
+2024,Palo Alto USD,Math,7,77,Filipino,7,
+2024,Palo Alto USD,Math,7,78,Hispanic/Latino,118,38.14
+2024,Palo Alto USD,Math,7,79,Pacific Islander,4,
+2024,Palo Alto USD,Math,7,80,White,207,80.19
+2024,Palo Alto USD,Math,7,99,Non-SWD,685,82.77
+2024,Palo Alto USD,Math,7,111,Not Econ Disadv,651,85.41
+2024,Palo Alto USD,Math,7,128,SWD,61,34.43
+2024,Palo Alto USD,Math,7,144,Two or More Races,89,87.64
+2024,Palo Alto USD,Math,7,160,English Learner,50,40.0
+2024,Palo Alto USD,Math,7,180,English Only,399,82.21
+2024,Milpitas USD,ELA,3,1,All Students,775,62.58
+2024,Milpitas USD,ELA,3,3,Female,406,58.62
+2024,Milpitas USD,ELA,3,4,Male,369,66.94
+2024,Milpitas USD,ELA,3,31,Econ Disadvantaged,327,42.81
+2024,Milpitas USD,ELA,3,74,Black/African American,9,
+2024,Milpitas USD,ELA,3,75,American Indian,,
+2024,Milpitas USD,ELA,3,76,Asian,450,74.89
+2024,Milpitas USD,ELA,3,77,Filipino,81,58.02
+2024,Milpitas USD,ELA,3,78,Hispanic/Latino,145,26.21
+2024,Milpitas USD,ELA,3,79,Pacific Islander,,
+2024,Milpitas USD,ELA,3,80,White,34,73.53
+2024,Milpitas USD,ELA,3,99,Non-SWD,702,67.09
+2024,Milpitas USD,ELA,3,111,Not Econ Disadv,448,77.01
+2024,Milpitas USD,ELA,3,128,SWD,73,19.18
+2024,Milpitas USD,ELA,3,144,Two or More Races,51,60.78
+2024,Milpitas USD,ELA,3,160,English Learner,192,26.56
+2024,Milpitas USD,ELA,3,180,English Only,345,64.64
+2024,Milpitas USD,ELA,4,1,All Students,804,63.93
+2024,Milpitas USD,ELA,4,3,Female,410,58.29
+2024,Milpitas USD,ELA,4,4,Male,394,69.8
+2024,Milpitas USD,ELA,4,31,Econ Disadvantaged,373,49.6
+2024,Milpitas USD,ELA,4,74,Black/African American,18,27.78
+2024,Milpitas USD,ELA,4,75,American Indian,,
+2024,Milpitas USD,ELA,4,76,Asian,457,78.99
+2024,Milpitas USD,ELA,4,77,Filipino,86,63.95
+2024,Milpitas USD,ELA,4,78,Hispanic/Latino,153,26.14
+2024,Milpitas USD,ELA,4,79,Pacific Islander,6,
+2024,Milpitas USD,ELA,4,80,White,29,62.07
+2024,Milpitas USD,ELA,4,99,Non-SWD,715,69.09
+2024,Milpitas USD,ELA,4,111,Not Econ Disadv,431,76.33
+2024,Milpitas USD,ELA,4,128,SWD,89,22.47
+2024,Milpitas USD,ELA,4,144,Two or More Races,54,61.11
+2024,Milpitas USD,ELA,4,160,English Learner,161,20.5
+2024,Milpitas USD,ELA,4,180,English Only,352,62.78
+2024,Milpitas USD,ELA,5,1,All Students,762,68.77
+2024,Milpitas USD,ELA,5,3,Female,413,67.31
+2024,Milpitas USD,ELA,5,4,Male,349,70.49
+2024,Milpitas USD,ELA,5,31,Econ Disadvantaged,310,52.9
+2024,Milpitas USD,ELA,5,74,Black/African American,5,
+2024,Milpitas USD,ELA,5,75,American Indian,4,
+2024,Milpitas USD,ELA,5,76,Asian,443,81.72
+2024,Milpitas USD,ELA,5,77,Filipino,96,67.71
+2024,Milpitas USD,ELA,5,78,Hispanic/Latino,143,34.27
+2024,Milpitas USD,ELA,5,79,Pacific Islander,,
+2024,Milpitas USD,ELA,5,80,White,24,62.5
+2024,Milpitas USD,ELA,5,99,Non-SWD,691,73.81
+2024,Milpitas USD,ELA,5,111,Not Econ Disadv,452,79.65
+2024,Milpitas USD,ELA,5,128,SWD,71,19.72
+2024,Milpitas USD,ELA,5,144,Two or More Races,44,65.91
+2024,Milpitas USD,ELA,5,160,English Learner,123,17.07
+2024,Milpitas USD,ELA,5,180,English Only,341,70.97
+2024,Milpitas USD,ELA,6,1,All Students,765,70.03
+2024,Milpitas USD,ELA,6,3,Female,399,63.32
+2024,Milpitas USD,ELA,6,4,Male,366,77.32
+2024,Milpitas USD,ELA,6,31,Econ Disadvantaged,332,56.63
+2024,Milpitas USD,ELA,6,74,Black/African American,14,64.29
+2024,Milpitas USD,ELA,6,75,American Indian,,
+2024,Milpitas USD,ELA,6,76,Asian,410,86.34
+2024,Milpitas USD,ELA,6,77,Filipino,96,65.63
+2024,Milpitas USD,ELA,6,78,Hispanic/Latino,152,30.26
+2024,Milpitas USD,ELA,6,79,Pacific Islander,4,
+2024,Milpitas USD,ELA,6,80,White,30,83.33
+2024,Milpitas USD,ELA,6,99,Non-SWD,699,74.82
+2024,Milpitas USD,ELA,6,111,Not Econ Disadv,433,80.32
+2024,Milpitas USD,ELA,6,128,SWD,66,18.46
+2024,Milpitas USD,ELA,6,144,Two or More Races,58,59.65
+2024,Milpitas USD,ELA,6,160,English Learner,117,18.8
+2024,Milpitas USD,ELA,6,180,English Only,305,67.43
+2024,Milpitas USD,ELA,7,1,All Students,668,75.45
+2024,Milpitas USD,ELA,7,3,Female,342,69.88
+2024,Milpitas USD,ELA,7,4,Male,326,81.29
+2024,Milpitas USD,ELA,7,31,Econ Disadvantaged,281,57.3
+2024,Milpitas USD,ELA,7,74,Black/African American,21,47.62
+2024,Milpitas USD,ELA,7,75,American Indian,,
+2024,Milpitas USD,ELA,7,76,Asian,357,87.68
+2024,Milpitas USD,ELA,7,77,Filipino,74,78.38
+2024,Milpitas USD,ELA,7,78,Hispanic/Latino,140,45.0
+2024,Milpitas USD,ELA,7,79,Pacific Islander,,
+2024,Milpitas USD,ELA,7,80,White,34,76.47
+2024,Milpitas USD,ELA,7,99,Non-SWD,613,80.1
+2024,Milpitas USD,ELA,7,111,Not Econ Disadv,387,88.63
+2024,Milpitas USD,ELA,7,128,SWD,55,23.64
+2024,Milpitas USD,ELA,7,144,Two or More Races,38,81.58
+2024,Milpitas USD,ELA,7,160,English Learner,85,21.18
+2024,Milpitas USD,ELA,7,180,English Only,285,76.84
+2024,Milpitas USD,Math,3,1,All Students,784,69.18
+2024,Milpitas USD,Math,3,3,Female,412,67.23
+2024,Milpitas USD,Math,3,4,Male,372,71.35
+2024,Milpitas USD,Math,3,31,Econ Disadvantaged,331,51.36
+2024,Milpitas USD,Math,3,74,Black/African American,9,
+2024,Milpitas USD,Math,3,75,American Indian,,
+2024,Milpitas USD,Math,3,76,Asian,456,82.82
+2024,Milpitas USD,Math,3,77,Filipino,81,60.49
+2024,Milpitas USD,Math,3,78,Hispanic/Latino,147,33.33
+2024,Milpitas USD,Math,3,79,Pacific Islander,,
+2024,Milpitas USD,Math,3,80,White,34,76.47
+2024,Milpitas USD,Math,3,99,Non-SWD,711,73.06
+2024,Milpitas USD,Math,3,111,Not Econ Disadv,453,82.26
+2024,Milpitas USD,Math,3,128,SWD,73,31.51
+2024,Milpitas USD,Math,3,144,Two or More Races,52,65.38
+2024,Milpitas USD,Math,3,160,English Learner,201,39.5
+2024,Milpitas USD,Math,3,180,English Only,345,70.14
+2024,Milpitas USD,Math,4,1,All Students,809,64.98
+2024,Milpitas USD,Math,4,3,Female,412,64.81
+2024,Milpitas USD,Math,4,4,Male,397,65.15
+2024,Milpitas USD,Math,4,31,Econ Disadvantaged,375,49.87
+2024,Milpitas USD,Math,4,74,Black/African American,17,29.41
+2024,Milpitas USD,Math,4,75,American Indian,,
+2024,Milpitas USD,Math,4,76,Asian,459,84.1
+2024,Milpitas USD,Math,4,77,Filipino,86,59.3
+2024,Milpitas USD,Math,4,78,Hispanic/Latino,155,23.87
+2024,Milpitas USD,Math,4,79,Pacific Islander,6,
+2024,Milpitas USD,Math,4,80,White,29,44.83
+2024,Milpitas USD,Math,4,99,Non-SWD,720,70.1
+2024,Milpitas USD,Math,4,111,Not Econ Disadv,434,78.06
+2024,Milpitas USD,Math,4,128,SWD,89,23.6
+2024,Milpitas USD,Math,4,144,Two or More Races,56,56.36
+2024,Milpitas USD,Math,4,160,English Learner,165,27.88
+2024,Milpitas USD,Math,4,180,English Only,353,63.07
+2024,Milpitas USD,Math,5,1,All Students,778,58.1
+2024,Milpitas USD,Math,5,3,Female,422,63.03
+2024,Milpitas USD,Math,5,4,Male,356,52.25
+2024,Milpitas USD,Math,5,31,Econ Disadvantaged,319,37.3
+2024,Milpitas USD,Math,5,74,Black/African American,5,
+2024,Milpitas USD,Math,5,75,American Indian,4,
+2024,Milpitas USD,Math,5,76,Asian,451,77.83
+2024,Milpitas USD,Math,5,77,Filipino,97,46.39
+2024,Milpitas USD,Math,5,78,Hispanic/Latino,148,13.51
+2024,Milpitas USD,Math,5,79,Pacific Islander,,
+2024,Milpitas USD,Math,5,80,White,27,59.26
+2024,Milpitas USD,Math,5,99,Non-SWD,708,62.29
+2024,Milpitas USD,Math,5,111,Not Econ Disadv,459,72.55
+2024,Milpitas USD,Math,5,128,SWD,70,15.71
+2024,Milpitas USD,Math,5,144,Two or More Races,43,37.21
+2024,Milpitas USD,Math,5,160,English Learner,141,15.6
+2024,Milpitas USD,Math,5,180,English Only,340,58.82
+2024,Milpitas USD,Math,6,1,All Students,770,63.72
+2024,Milpitas USD,Math,6,3,Female,402,63.09
+2024,Milpitas USD,Math,6,4,Male,368,64.4
+2024,Milpitas USD,Math,6,31,Econ Disadvantaged,336,46.13
+2024,Milpitas USD,Math,6,74,Black/African American,14,28.57
+2024,Milpitas USD,Math,6,75,American Indian,,
+2024,Milpitas USD,Math,6,76,Asian,412,85.68
+2024,Milpitas USD,Math,6,77,Filipino,96,55.21
+2024,Milpitas USD,Math,6,78,Hispanic/Latino,154,17.53
+2024,Milpitas USD,Math,6,79,Pacific Islander,4,
+2024,Milpitas USD,Math,6,80,White,30,73.33
+2024,Milpitas USD,Math,6,99,Non-SWD,704,68.18
+2024,Milpitas USD,Math,6,111,Not Econ Disadv,434,77.37
+2024,Milpitas USD,Math,6,128,SWD,66,15.38
+2024,Milpitas USD,Math,6,144,Two or More Races,59,51.72
+2024,Milpitas USD,Math,6,160,English Learner,122,18.85
+2024,Milpitas USD,Math,6,180,English Only,305,55.26
+2024,Milpitas USD,Math,7,1,All Students,679,61.41
+2024,Milpitas USD,Math,7,3,Female,347,60.52
+2024,Milpitas USD,Math,7,4,Male,332,62.35
+2024,Milpitas USD,Math,7,31,Econ Disadvantaged,285,39.3
+2024,Milpitas USD,Math,7,74,Black/African American,21,14.29
+2024,Milpitas USD,Math,7,75,American Indian,,
+2024,Milpitas USD,Math,7,76,Asian,362,83.7
+2024,Milpitas USD,Math,7,77,Filipino,75,50.67
+2024,Milpitas USD,Math,7,78,Hispanic/Latino,145,21.38
+2024,Milpitas USD,Math,7,79,Pacific Islander,,
+2024,Milpitas USD,Math,7,80,White,34,64.71
+2024,Milpitas USD,Math,7,99,Non-SWD,624,65.54
+2024,Milpitas USD,Math,7,111,Not Econ Disadv,394,77.41
+2024,Milpitas USD,Math,7,128,SWD,55,14.55
+2024,Milpitas USD,Math,7,144,Two or More Races,38,47.37
+2024,Milpitas USD,Math,7,160,English Learner,96,13.54
+2024,Milpitas USD,Math,7,180,English Only,285,55.44
+2025,Dublin USD,ELA,3,1,All Students,980,74.18
+2025,Dublin USD,ELA,3,3,Female,485,71.13
+2025,Dublin USD,ELA,3,4,Male,495,77.17
+2025,Dublin USD,ELA,3,31,Econ Disadvantaged,165,50.3
+2025,Dublin USD,ELA,3,74,Black/African American,22,54.55
+2025,Dublin USD,ELA,3,76,Asian,652,82.36
+2025,Dublin USD,ELA,3,77,Filipino,34,73.53
+2025,Dublin USD,ELA,3,78,Hispanic/Latino,102,47.06
+2025,Dublin USD,ELA,3,80,White,108,59.26
+2025,Dublin USD,ELA,3,99,Non-SWD,893,78.84
+2025,Dublin USD,ELA,3,111,Not Econ Disadv,815,79.02
+2025,Dublin USD,ELA,3,128,SWD,87,26.44
+2025,Dublin USD,ELA,3,144,Two or More Races,62,66.13
+2025,Dublin USD,ELA,3,160,English Learner,77,24.68
+2025,Dublin USD,ELA,3,180,English Only,634,73.66
+2025,Dublin USD,ELA,4,1,All Students,1003,77.77
+2025,Dublin USD,ELA,4,3,Female,506,76.09
+2025,Dublin USD,ELA,4,4,Male,497,79.48
+2025,Dublin USD,ELA,4,31,Econ Disadvantaged,136,56.62
+2025,Dublin USD,ELA,4,74,Black/African American,19,42.11
+2025,Dublin USD,ELA,4,75,American Indian,,
+2025,Dublin USD,ELA,4,76,Asian,683,84.04
+2025,Dublin USD,ELA,4,77,Filipino,44,86.36
+2025,Dublin USD,ELA,4,78,Hispanic/Latino,87,56.32
+2025,Dublin USD,ELA,4,79,Pacific Islander,,
+2025,Dublin USD,ELA,4,80,White,109,62.39
+2025,Dublin USD,ELA,4,99,Non-SWD,919,81.5
+2025,Dublin USD,ELA,4,111,Not Econ Disadv,867,81.08
+2025,Dublin USD,ELA,4,128,SWD,84,36.9
+2025,Dublin USD,ELA,4,144,Two or More Races,58,72.41
+2025,Dublin USD,ELA,4,160,English Learner,61,22.95
+2025,Dublin USD,ELA,4,180,English Only,610,76.89
+2025,Dublin USD,ELA,5,1,All Students,987,81.44
+2025,Dublin USD,ELA,5,3,Female,508,79.72
+2025,Dublin USD,ELA,5,4,Male,478,83.23
+2025,Dublin USD,ELA,5,31,Econ Disadvantaged,167,65.27
+2025,Dublin USD,ELA,5,74,Black/African American,20,55.0
+2025,Dublin USD,ELA,5,76,Asian,620,88.05
+2025,Dublin USD,ELA,5,77,Filipino,32,87.5
+2025,Dublin USD,ELA,5,78,Hispanic/Latino,95,52.63
+2025,Dublin USD,ELA,5,79,Pacific Islander,,
+2025,Dublin USD,ELA,5,80,White,145,75.17
+2025,Dublin USD,ELA,5,99,Non-SWD,908,86.01
+2025,Dublin USD,ELA,5,111,Not Econ Disadv,820,84.74
+2025,Dublin USD,ELA,5,128,SWD,79,28.21
+2025,Dublin USD,ELA,5,144,Two or More Races,73,80.82
+2025,Dublin USD,ELA,5,160,English Learner,37,24.32
+2025,Dublin USD,ELA,5,180,English Only,586,81.37
+2025,Dublin USD,ELA,6,1,All Students,1030,78.64
+2025,Dublin USD,ELA,6,3,Female,516,71.71
+2025,Dublin USD,ELA,6,4,Male,514,85.6
+2025,Dublin USD,ELA,6,31,Econ Disadvantaged,139,58.27
+2025,Dublin USD,ELA,6,74,Black/African American,31,38.71
+2025,Dublin USD,ELA,6,76,Asian,680,86.03
+2025,Dublin USD,ELA,6,77,Filipino,42,80.95
+2025,Dublin USD,ELA,6,78,Hispanic/Latino,85,52.94
+2025,Dublin USD,ELA,6,79,Pacific Islander,,
+2025,Dublin USD,ELA,6,80,White,112,66.96
+2025,Dublin USD,ELA,6,99,Non-SWD,958,83.3
+2025,Dublin USD,ELA,6,111,Not Econ Disadv,891,81.82
+2025,Dublin USD,ELA,6,128,SWD,72,16.67
+2025,Dublin USD,ELA,6,144,Two or More Races,78,74.36
+2025,Dublin USD,ELA,6,160,English Learner,26,0.0
+2025,Dublin USD,ELA,6,180,English Only,604,77.48
+2025,Dublin USD,ELA,7,1,All Students,988,79.86
+2025,Dublin USD,ELA,7,3,Female,471,77.07
+2025,Dublin USD,ELA,7,4,Male,517,82.4
+2025,Dublin USD,ELA,7,31,Econ Disadvantaged,175,58.86
+2025,Dublin USD,ELA,7,74,Black/African American,25,28.0
+2025,Dublin USD,ELA,7,75,American Indian,,
+2025,Dublin USD,ELA,7,76,Asian,675,87.56
+2025,Dublin USD,ELA,7,77,Filipino,30,76.67
+2025,Dublin USD,ELA,7,78,Hispanic/Latino,92,53.26
+2025,Dublin USD,ELA,7,79,Pacific Islander,,
+2025,Dublin USD,ELA,7,80,White,98,66.33
+2025,Dublin USD,ELA,7,99,Non-SWD,929,82.88
+2025,Dublin USD,ELA,7,111,Not Econ Disadv,813,84.38
+2025,Dublin USD,ELA,7,128,SWD,59,32.2
+2025,Dublin USD,ELA,7,144,Two or More Races,65,80.0
+2025,Dublin USD,ELA,7,160,English Learner,20,15.0
+2025,Dublin USD,ELA,7,180,English Only,556,78.78
+2025,Dublin USD,Math,3,1,All Students,981,81.24
+2025,Dublin USD,Math,3,3,Female,486,82.1
+2025,Dublin USD,Math,3,4,Male,495,80.4
+2025,Dublin USD,Math,3,31,Econ Disadvantaged,166,55.42
+2025,Dublin USD,Math,3,74,Black/African American,23,56.52
+2025,Dublin USD,Math,3,76,Asian,653,90.51
+2025,Dublin USD,Math,3,77,Filipino,34,88.24
+2025,Dublin USD,Math,3,78,Hispanic/Latino,102,46.08
+2025,Dublin USD,Math,3,80,White,108,67.59
+2025,Dublin USD,Math,3,99,Non-SWD,892,85.99
+2025,Dublin USD,Math,3,111,Not Econ Disadv,815,86.5
+2025,Dublin USD,Math,3,128,SWD,89,33.71
+2025,Dublin USD,Math,3,144,Two or More Races,61,70.49
+2025,Dublin USD,Math,3,160,English Learner,78,47.44
+2025,Dublin USD,Math,3,180,English Only,634,79.97
+2025,Dublin USD,Math,4,1,All Students,1003,81.75
+2025,Dublin USD,Math,4,3,Female,509,84.09
+2025,Dublin USD,Math,4,4,Male,494,79.35
+2025,Dublin USD,Math,4,31,Econ Disadvantaged,135,61.48
+2025,Dublin USD,Math,4,74,Black/African American,19,31.58
+2025,Dublin USD,Math,4,75,American Indian,,
+2025,Dublin USD,Math,4,76,Asian,684,88.16
+2025,Dublin USD,Math,4,77,Filipino,43,88.37
+2025,Dublin USD,Math,4,78,Hispanic/Latino,88,55.68
+2025,Dublin USD,Math,4,79,Pacific Islander,,
+2025,Dublin USD,Math,4,80,White,108,72.22
+2025,Dublin USD,Math,4,99,Non-SWD,920,86.41
+2025,Dublin USD,Math,4,111,Not Econ Disadv,868,84.91
+2025,Dublin USD,Math,4,128,SWD,83,30.12
+2025,Dublin USD,Math,4,144,Two or More Races,58,74.14
+2025,Dublin USD,Math,4,160,English Learner,63,41.27
+2025,Dublin USD,Math,4,180,English Only,609,80.13
+2025,Dublin USD,Math,5,1,All Students,990,74.75
+2025,Dublin USD,Math,5,3,Female,508,75.2
+2025,Dublin USD,Math,5,4,Male,481,74.22
+2025,Dublin USD,Math,5,31,Econ Disadvantaged,170,50.0
+2025,Dublin USD,Math,5,74,Black/African American,20,20.0
+2025,Dublin USD,Math,5,76,Asian,622,84.57
+2025,Dublin USD,Math,5,77,Filipino,32,84.38
+2025,Dublin USD,Math,5,78,Hispanic/Latino,96,37.5
+2025,Dublin USD,Math,5,79,Pacific Islander,,
+2025,Dublin USD,Math,5,80,White,145,60.0
+2025,Dublin USD,Math,5,99,Non-SWD,912,79.17
+2025,Dublin USD,Math,5,111,Not Econ Disadv,820,79.88
+2025,Dublin USD,Math,5,128,SWD,78,23.08
+2025,Dublin USD,Math,5,144,Two or More Races,73,80.82
+2025,Dublin USD,Math,5,160,English Learner,41,24.39
+2025,Dublin USD,Math,5,180,English Only,585,72.99
+2025,Dublin USD,Math,6,1,All Students,1026,75.44
+2025,Dublin USD,Math,6,3,Female,513,74.46
+2025,Dublin USD,Math,6,4,Male,513,76.41
+2025,Dublin USD,Math,6,31,Econ Disadvantaged,137,54.01
+2025,Dublin USD,Math,6,74,Black/African American,31,38.71
+2025,Dublin USD,Math,6,76,Asian,677,85.67
+2025,Dublin USD,Math,6,77,Filipino,42,66.67
+2025,Dublin USD,Math,6,78,Hispanic/Latino,84,39.29
+2025,Dublin USD,Math,6,79,Pacific Islander,,
+2025,Dublin USD,Math,6,80,White,112,61.61
+2025,Dublin USD,Math,6,99,Non-SWD,956,79.71
+2025,Dublin USD,Math,6,111,Not Econ Disadv,889,78.74
+2025,Dublin USD,Math,6,128,SWD,70,17.14
+2025,Dublin USD,Math,6,144,Two or More Races,78,65.38
+2025,Dublin USD,Math,6,160,English Learner,27,18.52
+2025,Dublin USD,Math,6,180,English Only,602,72.43
+2025,Dublin USD,Math,7,1,All Students,990,71.21
+2025,Dublin USD,Math,7,3,Female,472,72.88
+2025,Dublin USD,Math,7,4,Male,518,69.69
+2025,Dublin USD,Math,7,31,Econ Disadvantaged,177,56.5
+2025,Dublin USD,Math,7,74,Black/African American,25,8.0
+2025,Dublin USD,Math,7,75,American Indian,,
+2025,Dublin USD,Math,7,76,Asian,677,83.16
+2025,Dublin USD,Math,7,77,Filipino,30,60.0
+2025,Dublin USD,Math,7,78,Hispanic/Latino,91,32.97
+2025,Dublin USD,Math,7,79,Pacific Islander,,
+2025,Dublin USD,Math,7,80,White,99,48.48
+2025,Dublin USD,Math,7,99,Non-SWD,931,74.44
+2025,Dublin USD,Math,7,111,Not Econ Disadv,813,74.42
+2025,Dublin USD,Math,7,128,SWD,59,20.34
+2025,Dublin USD,Math,7,144,Two or More Races,65,64.62
+2025,Dublin USD,Math,7,160,English Learner,23,34.78
+2025,Dublin USD,Math,7,180,English Only,556,67.09
+2025,Walnut Valley USD,ELA,3,1,All Students,908,73.02
+2025,Walnut Valley USD,ELA,3,3,Female,450,71.56
+2025,Walnut Valley USD,ELA,3,4,Male,458,74.45
+2025,Walnut Valley USD,ELA,3,31,Econ Disadvantaged,247,63.16
+2025,Walnut Valley USD,ELA,3,74,Black/African American,7,
+2025,Walnut Valley USD,ELA,3,76,Asian,619,77.22
+2025,Walnut Valley USD,ELA,3,77,Filipino,53,75.47
+2025,Walnut Valley USD,ELA,3,78,Hispanic/Latino,165,56.36
+2025,Walnut Valley USD,ELA,3,79,Pacific Islander,,
+2025,Walnut Valley USD,ELA,3,80,White,17,70.59
+2025,Walnut Valley USD,ELA,3,99,Non-SWD,840,76.9
+2025,Walnut Valley USD,ELA,3,111,Not Econ Disadv,661,76.7
+2025,Walnut Valley USD,ELA,3,128,SWD,68,25.0
+2025,Walnut Valley USD,ELA,3,144,Two or More Races,46,76.09
+2025,Walnut Valley USD,ELA,3,160,English Learner,162,42.59
+2025,Walnut Valley USD,ELA,3,180,English Only,438,71.92
+2025,Walnut Valley USD,ELA,4,1,All Students,980,69.59
+2025,Walnut Valley USD,ELA,4,3,Female,534,66.29
+2025,Walnut Valley USD,ELA,4,4,Male,446,73.54
+2025,Walnut Valley USD,ELA,4,31,Econ Disadvantaged,291,60.48
+2025,Walnut Valley USD,ELA,4,74,Black/African American,11,54.55
+2025,Walnut Valley USD,ELA,4,75,American Indian,,
+2025,Walnut Valley USD,ELA,4,76,Asian,669,75.34
+2025,Walnut Valley USD,ELA,4,77,Filipino,56,78.57
+2025,Walnut Valley USD,ELA,4,78,Hispanic/Latino,173,49.13
+2025,Walnut Valley USD,ELA,4,79,Pacific Islander,,
+2025,Walnut Valley USD,ELA,4,80,White,31,58.06
+2025,Walnut Valley USD,ELA,4,99,Non-SWD,898,72.94
+2025,Walnut Valley USD,ELA,4,111,Not Econ Disadv,689,73.44
+2025,Walnut Valley USD,ELA,4,128,SWD,82,32.93
+2025,Walnut Valley USD,ELA,4,144,Two or More Races,37,62.16
+2025,Walnut Valley USD,ELA,4,160,English Learner,148,20.95
+2025,Walnut Valley USD,ELA,4,180,English Only,419,66.11
+2025,Walnut Valley USD,ELA,5,1,All Students,1040,75.1
+2025,Walnut Valley USD,ELA,5,3,Female,533,74.48
+2025,Walnut Valley USD,ELA,5,4,Male,507,75.74
+2025,Walnut Valley USD,ELA,5,31,Econ Disadvantaged,278,64.03
+2025,Walnut Valley USD,ELA,5,74,Black/African American,8,
+2025,Walnut Valley USD,ELA,5,75,American Indian,,
+2025,Walnut Valley USD,ELA,5,76,Asian,709,80.96
+2025,Walnut Valley USD,ELA,5,77,Filipino,54,88.89
+2025,Walnut Valley USD,ELA,5,78,Hispanic/Latino,201,50.75
+2025,Walnut Valley USD,ELA,5,80,White,30,63.33
+2025,Walnut Valley USD,ELA,5,99,Non-SWD,964,79.15
+2025,Walnut Valley USD,ELA,5,111,Not Econ Disadv,762,79.13
+2025,Walnut Valley USD,ELA,5,128,SWD,76,23.68
+2025,Walnut Valley USD,ELA,5,144,Two or More Races,37,89.19
+2025,Walnut Valley USD,ELA,5,160,English Learner,135,20.74
+2025,Walnut Valley USD,ELA,5,180,English Only,450,72.22
+2025,Walnut Valley USD,ELA,6,1,All Students,1186,76.56
+2025,Walnut Valley USD,ELA,6,3,Female,620,74.84
+2025,Walnut Valley USD,ELA,6,4,Male,566,78.45
+2025,Walnut Valley USD,ELA,6,31,Econ Disadvantaged,336,68.15
+2025,Walnut Valley USD,ELA,6,74,Black/African American,9,
+2025,Walnut Valley USD,ELA,6,75,American Indian,,
+2025,Walnut Valley USD,ELA,6,76,Asian,835,82.63
+2025,Walnut Valley USD,ELA,6,77,Filipino,60,86.67
+2025,Walnut Valley USD,ELA,6,78,Hispanic/Latino,193,54.92
+2025,Walnut Valley USD,ELA,6,79,Pacific Islander,,
+2025,Walnut Valley USD,ELA,6,80,White,36,61.11
+2025,Walnut Valley USD,ELA,6,99,Non-SWD,1119,79.54
+2025,Walnut Valley USD,ELA,6,111,Not Econ Disadv,850,79.88
+2025,Walnut Valley USD,ELA,6,128,SWD,67,26.87
+2025,Walnut Valley USD,ELA,6,144,Two or More Races,49,65.31
+2025,Walnut Valley USD,ELA,6,160,English Learner,121,20.66
+2025,Walnut Valley USD,ELA,6,180,English Only,485,74.02
+2025,Walnut Valley USD,ELA,7,1,All Students,1167,80.89
+2025,Walnut Valley USD,ELA,7,3,Female,567,78.66
+2025,Walnut Valley USD,ELA,7,4,Male,600,83.0
+2025,Walnut Valley USD,ELA,7,31,Econ Disadvantaged,279,76.7
+2025,Walnut Valley USD,ELA,7,74,Black/African American,10,
+2025,Walnut Valley USD,ELA,7,76,Asian,814,85.26
+2025,Walnut Valley USD,ELA,7,77,Filipino,60,88.33
+2025,Walnut Valley USD,ELA,7,78,Hispanic/Latino,199,62.81
+2025,Walnut Valley USD,ELA,7,80,White,37,64.86
+2025,Walnut Valley USD,ELA,7,99,Non-SWD,1095,84.29
+2025,Walnut Valley USD,ELA,7,111,Not Econ Disadv,888,82.21
+2025,Walnut Valley USD,ELA,7,128,SWD,72,29.17
+2025,Walnut Valley USD,ELA,7,144,Two or More Races,47,85.11
+2025,Walnut Valley USD,ELA,7,160,English Learner,119,24.37
+2025,Walnut Valley USD,ELA,7,180,English Only,503,80.12
+2025,Walnut Valley USD,Math,3,1,All Students,937,77.91
+2025,Walnut Valley USD,Math,3,3,Female,465,80.86
+2025,Walnut Valley USD,Math,3,4,Male,472,75.0
+2025,Walnut Valley USD,Math,3,31,Econ Disadvantaged,259,68.34
+2025,Walnut Valley USD,Math,3,74,Black/African American,7,
+2025,Walnut Valley USD,Math,3,76,Asian,648,84.1
+2025,Walnut Valley USD,Math,3,77,Filipino,53,75.47
+2025,Walnut Valley USD,Math,3,78,Hispanic/Latino,164,56.1
+2025,Walnut Valley USD,Math,3,79,Pacific Islander,,
+2025,Walnut Valley USD,Math,3,80,White,17,76.47
+2025,Walnut Valley USD,Math,3,99,Non-SWD,869,81.59
+2025,Walnut Valley USD,Math,3,111,Not Econ Disadv,678,81.56
+2025,Walnut Valley USD,Math,3,128,SWD,68,30.88
+2025,Walnut Valley USD,Math,3,144,Two or More Races,47,74.47
+2025,Walnut Valley USD,Math,3,160,English Learner,192,60.42
+2025,Walnut Valley USD,Math,3,180,English Only,437,73.68
+2025,Walnut Valley USD,Math,4,1,All Students,1007,73.58
+2025,Walnut Valley USD,Math,4,3,Female,545,75.23
+2025,Walnut Valley USD,Math,4,4,Male,462,71.65
+2025,Walnut Valley USD,Math,4,31,Econ Disadvantaged,300,63.67
+2025,Walnut Valley USD,Math,4,74,Black/African American,11,54.55
+2025,Walnut Valley USD,Math,4,75,American Indian,,
+2025,Walnut Valley USD,Math,4,76,Asian,692,81.5
+2025,Walnut Valley USD,Math,4,77,Filipino,56,82.14
+2025,Walnut Valley USD,Math,4,78,Hispanic/Latino,175,44.0
+2025,Walnut Valley USD,Math,4,79,Pacific Islander,,
+2025,Walnut Valley USD,Math,4,80,White,31,64.52
+2025,Walnut Valley USD,Math,4,99,Non-SWD,925,77.08
+2025,Walnut Valley USD,Math,4,111,Not Econ Disadv,707,77.79
+2025,Walnut Valley USD,Math,4,128,SWD,82,34.15
+2025,Walnut Valley USD,Math,4,144,Two or More Races,39,66.67
+2025,Walnut Valley USD,Math,4,160,English Learner,175,49.71
+2025,Walnut Valley USD,Math,4,180,English Only,419,67.3
+2025,Walnut Valley USD,Math,5,1,All Students,1070,70.37
+2025,Walnut Valley USD,Math,5,3,Female,550,73.82
+2025,Walnut Valley USD,Math,5,4,Male,520,66.73
+2025,Walnut Valley USD,Math,5,31,Econ Disadvantaged,288,63.54
+2025,Walnut Valley USD,Math,5,74,Black/African American,8,
+2025,Walnut Valley USD,Math,5,75,American Indian,,
+2025,Walnut Valley USD,Math,5,76,Asian,738,78.59
+2025,Walnut Valley USD,Math,5,77,Filipino,54,70.37
+2025,Walnut Valley USD,Math,5,78,Hispanic/Latino,201,41.79
+2025,Walnut Valley USD,Math,5,80,White,30,53.33
+2025,Walnut Valley USD,Math,5,99,Non-SWD,994,73.84
+2025,Walnut Valley USD,Math,5,111,Not Econ Disadv,782,72.89
+2025,Walnut Valley USD,Math,5,128,SWD,76,25.0
+2025,Walnut Valley USD,Math,5,144,Two or More Races,38,78.95
+2025,Walnut Valley USD,Math,5,160,English Learner,165,37.58
+2025,Walnut Valley USD,Math,5,180,English Only,450,61.78
+2025,Walnut Valley USD,Math,6,1,All Students,1216,72.7
+2025,Walnut Valley USD,Math,6,3,Female,640,72.66
+2025,Walnut Valley USD,Math,6,4,Male,576,72.74
+2025,Walnut Valley USD,Math,6,31,Econ Disadvantaged,341,65.98
+2025,Walnut Valley USD,Math,6,74,Black/African American,9,
+2025,Walnut Valley USD,Math,6,75,American Indian,,
+2025,Walnut Valley USD,Math,6,76,Asian,861,82.11
+2025,Walnut Valley USD,Math,6,77,Filipino,60,71.67
+2025,Walnut Valley USD,Math,6,78,Hispanic/Latino,193,42.49
+2025,Walnut Valley USD,Math,6,79,Pacific Islander,,
+2025,Walnut Valley USD,Math,6,80,White,36,47.22
+2025,Walnut Valley USD,Math,6,99,Non-SWD,1148,75.7
+2025,Walnut Valley USD,Math,6,111,Not Econ Disadv,875,75.31
+2025,Walnut Valley USD,Math,6,128,SWD,68,22.06
+2025,Walnut Valley USD,Math,6,144,Two or More Races,53,56.6
+2025,Walnut Valley USD,Math,6,160,English Learner,151,41.72
+2025,Walnut Valley USD,Math,6,180,English Only,485,63.3
+2025,Walnut Valley USD,Math,7,1,All Students,1193,77.37
+2025,Walnut Valley USD,Math,7,3,Female,582,79.55
+2025,Walnut Valley USD,Math,7,4,Male,611,75.29
+2025,Walnut Valley USD,Math,7,31,Econ Disadvantaged,286,73.08
+2025,Walnut Valley USD,Math,7,74,Black/African American,10,
+2025,Walnut Valley USD,Math,7,76,Asian,835,87.31
+2025,Walnut Valley USD,Math,7,77,Filipino,60,80.0
+2025,Walnut Valley USD,Math,7,78,Hispanic/Latino,198,42.93
+2025,Walnut Valley USD,Math,7,80,White,37,51.35
+2025,Walnut Valley USD,Math,7,99,Non-SWD,1120,80.98
+2025,Walnut Valley USD,Math,7,111,Not Econ Disadv,907,78.72
+2025,Walnut Valley USD,Math,7,128,SWD,73,21.92
+2025,Walnut Valley USD,Math,7,144,Two or More Races,53,67.92
+2025,Walnut Valley USD,Math,7,160,English Learner,144,51.39
+2025,Walnut Valley USD,Math,7,180,English Only,504,69.25
+2025,Palo Alto USD,ELA,3,1,All Students,698,76.61
+2025,Palo Alto USD,ELA,3,3,Female,373,74.19
+2025,Palo Alto USD,ELA,3,4,Male,325,79.38
+2025,Palo Alto USD,ELA,3,31,Econ Disadvantaged,106,44.34
+2025,Palo Alto USD,ELA,3,74,Black/African American,15,71.43
+2025,Palo Alto USD,ELA,3,76,Asian,285,87.37
+2025,Palo Alto USD,ELA,3,77,Filipino,,
+2025,Palo Alto USD,ELA,3,78,Hispanic/Latino,129,44.19
+2025,Palo Alto USD,ELA,3,79,Pacific Islander,4,
+2025,Palo Alto USD,ELA,3,80,White,175,79.43
+2025,Palo Alto USD,ELA,3,99,Non-SWD,615,81.79
+2025,Palo Alto USD,ELA,3,111,Not Econ Disadv,592,82.4
+2025,Palo Alto USD,ELA,3,128,SWD,83,37.8
+2025,Palo Alto USD,ELA,3,144,Two or More Races,87,85.06
+2025,Palo Alto USD,ELA,3,160,English Learner,87,36.78
+2025,Palo Alto USD,ELA,3,180,English Only,390,78.41
+2025,Palo Alto USD,ELA,4,1,All Students,712,81.88
+2025,Palo Alto USD,ELA,4,3,Female,378,79.63
+2025,Palo Alto USD,ELA,4,4,Male,334,84.43
+2025,Palo Alto USD,ELA,4,31,Econ Disadvantaged,106,45.28
+2025,Palo Alto USD,ELA,4,74,Black/African American,11,45.45
+2025,Palo Alto USD,ELA,4,75,American Indian,,
+2025,Palo Alto USD,ELA,4,76,Asian,300,92.33
+2025,Palo Alto USD,ELA,4,77,Filipino,4,
+2025,Palo Alto USD,ELA,4,78,Hispanic/Latino,118,50.0
+2025,Palo Alto USD,ELA,4,79,Pacific Islander,5,
+2025,Palo Alto USD,ELA,4,80,White,195,84.62
+2025,Palo Alto USD,ELA,4,99,Non-SWD,636,85.22
+2025,Palo Alto USD,ELA,4,111,Not Econ Disadv,606,88.28
+2025,Palo Alto USD,ELA,4,128,SWD,76,53.95
+2025,Palo Alto USD,ELA,4,144,Two or More Races,78,92.31
+2025,Palo Alto USD,ELA,4,160,English Learner,68,33.82
+2025,Palo Alto USD,ELA,4,180,English Only,405,84.44
+2025,Palo Alto USD,ELA,5,1,All Students,698,84.1
+2025,Palo Alto USD,ELA,5,3,Female,348,82.47
+2025,Palo Alto USD,ELA,5,4,Male,350,85.71
+2025,Palo Alto USD,ELA,5,31,Econ Disadvantaged,86,45.35
+2025,Palo Alto USD,ELA,5,74,Black/African American,10,
+2025,Palo Alto USD,ELA,5,75,American Indian,,
+2025,Palo Alto USD,ELA,5,76,Asian,324,90.74
+2025,Palo Alto USD,ELA,5,77,Filipino,7,
+2025,Palo Alto USD,ELA,5,78,Hispanic/Latino,98,56.12
+2025,Palo Alto USD,ELA,5,79,Pacific Islander,10,
+2025,Palo Alto USD,ELA,5,80,White,183,90.16
+2025,Palo Alto USD,ELA,5,99,Non-SWD,627,88.2
+2025,Palo Alto USD,ELA,5,111,Not Econ Disadv,612,89.54
+2025,Palo Alto USD,ELA,5,128,SWD,71,47.89
+2025,Palo Alto USD,ELA,5,144,Two or More Races,65,86.15
+2025,Palo Alto USD,ELA,5,160,English Learner,48,18.75
+2025,Palo Alto USD,ELA,5,180,English Only,399,86.47
+2025,Palo Alto USD,ELA,6,1,All Students,713,81.91
+2025,Palo Alto USD,ELA,6,3,Female,388,79.12
+2025,Palo Alto USD,ELA,6,4,Male,325,85.23
+2025,Palo Alto USD,ELA,6,31,Econ Disadvantaged,114,50.88
+2025,Palo Alto USD,ELA,6,74,Black/African American,12,41.67
+2025,Palo Alto USD,ELA,6,76,Asian,327,94.19
+2025,Palo Alto USD,ELA,6,77,Filipino,4,
+2025,Palo Alto USD,ELA,6,78,Hispanic/Latino,109,48.62
+2025,Palo Alto USD,ELA,6,79,Pacific Islander,7,
+2025,Palo Alto USD,ELA,6,80,White,169,80.47
+2025,Palo Alto USD,ELA,6,99,Non-SWD,637,88.07
+2025,Palo Alto USD,ELA,6,111,Not Econ Disadv,599,87.81
+2025,Palo Alto USD,ELA,6,128,SWD,76,30.26
+2025,Palo Alto USD,ELA,6,144,Two or More Races,85,90.59
+2025,Palo Alto USD,ELA,6,160,English Learner,44,31.82
+2025,Palo Alto USD,ELA,6,180,English Only,407,87.22
+2025,Palo Alto USD,ELA,7,1,All Students,769,85.7
+2025,Palo Alto USD,ELA,7,3,Female,413,84.26
+2025,Palo Alto USD,ELA,7,4,Male,356,87.36
+2025,Palo Alto USD,ELA,7,31,Econ Disadvantaged,110,65.45
+2025,Palo Alto USD,ELA,7,74,Black/African American,8,
+2025,Palo Alto USD,ELA,7,75,American Indian,,
+2025,Palo Alto USD,ELA,7,76,Asian,343,94.17
+2025,Palo Alto USD,ELA,7,77,Filipino,9,
+2025,Palo Alto USD,ELA,7,78,Hispanic/Latino,126,51.59
+2025,Palo Alto USD,ELA,7,79,Pacific Islander,12,41.67
+2025,Palo Alto USD,ELA,7,80,White,190,92.63
+2025,Palo Alto USD,ELA,7,99,Non-SWD,707,90.38
+2025,Palo Alto USD,ELA,7,111,Not Econ Disadv,659,89.07
+2025,Palo Alto USD,ELA,7,128,SWD,62,32.26
+2025,Palo Alto USD,ELA,7,144,Two or More Races,80,95.0
+2025,Palo Alto USD,ELA,7,160,English Learner,40,15.0
+2025,Palo Alto USD,ELA,7,180,English Only,417,90.89
+2025,Palo Alto USD,Math,3,1,All Students,718,80.78
+2025,Palo Alto USD,Math,3,3,Female,379,82.06
+2025,Palo Alto USD,Math,3,4,Male,339,79.35
+2025,Palo Alto USD,Math,3,31,Econ Disadvantaged,109,52.29
+2025,Palo Alto USD,Math,3,74,Black/African American,15,66.67
+2025,Palo Alto USD,Math,3,76,Asian,297,92.26
+2025,Palo Alto USD,Math,3,77,Filipino,,
+2025,Palo Alto USD,Math,3,78,Hispanic/Latino,132,48.48
+2025,Palo Alto USD,Math,3,79,Pacific Islander,4,
+2025,Palo Alto USD,Math,3,80,White,180,82.22
+2025,Palo Alto USD,Math,3,99,Non-SWD,635,85.83
+2025,Palo Alto USD,Math,3,111,Not Econ Disadv,609,85.88
+2025,Palo Alto USD,Math,3,128,SWD,83,42.17
+2025,Palo Alto USD,Math,3,144,Two or More Races,87,90.8
+2025,Palo Alto USD,Math,3,160,English Learner,107,44.86
+2025,Palo Alto USD,Math,3,180,English Only,390,83.59
+2025,Palo Alto USD,Math,4,1,All Students,730,82.74
+2025,Palo Alto USD,Math,4,3,Female,392,82.14
+2025,Palo Alto USD,Math,4,4,Male,338,83.43
+2025,Palo Alto USD,Math,4,31,Econ Disadvantaged,110,43.64
+2025,Palo Alto USD,Math,4,74,Black/African American,11,63.64
+2025,Palo Alto USD,Math,4,75,American Indian,,
+2025,Palo Alto USD,Math,4,76,Asian,313,95.21
+2025,Palo Alto USD,Math,4,77,Filipino,4,
+2025,Palo Alto USD,Math,4,78,Hispanic/Latino,121,46.28
+2025,Palo Alto USD,Math,4,79,Pacific Islander,5,
+2025,Palo Alto USD,Math,4,80,White,197,85.79
+2025,Palo Alto USD,Math,4,99,Non-SWD,654,87.16
+2025,Palo Alto USD,Math,4,111,Not Econ Disadv,620,89.68
+2025,Palo Alto USD,Math,4,128,SWD,76,44.74
+2025,Palo Alto USD,Math,4,144,Two or More Races,78,87.18
+2025,Palo Alto USD,Math,4,160,English Learner,84,45.24
+2025,Palo Alto USD,Math,4,180,English Only,406,84.98
+2025,Palo Alto USD,Math,5,1,All Students,708,80.93
+2025,Palo Alto USD,Math,5,3,Female,352,82.39
+2025,Palo Alto USD,Math,5,4,Male,356,79.49
+2025,Palo Alto USD,Math,5,31,Econ Disadvantaged,89,41.57
+2025,Palo Alto USD,Math,5,74,Black/African American,10,
+2025,Palo Alto USD,Math,5,75,American Indian,,
+2025,Palo Alto USD,Math,5,76,Asian,330,91.82
+2025,Palo Alto USD,Math,5,77,Filipino,7,
+2025,Palo Alto USD,Math,5,78,Hispanic/Latino,99,44.44
+2025,Palo Alto USD,Math,5,79,Pacific Islander,10,
+2025,Palo Alto USD,Math,5,80,White,186,82.8
+2025,Palo Alto USD,Math,5,99,Non-SWD,637,84.3
+2025,Palo Alto USD,Math,5,111,Not Econ Disadv,619,86.59
+2025,Palo Alto USD,Math,5,128,SWD,71,50.7
+2025,Palo Alto USD,Math,5,144,Two or More Races,65,86.15
+2025,Palo Alto USD,Math,5,160,English Learner,60,38.33
+2025,Palo Alto USD,Math,5,180,English Only,397,83.38
+2025,Palo Alto USD,Math,6,1,All Students,718,78.27
+2025,Palo Alto USD,Math,6,3,Female,389,79.43
+2025,Palo Alto USD,Math,6,4,Male,329,76.9
+2025,Palo Alto USD,Math,6,31,Econ Disadvantaged,115,43.48
+2025,Palo Alto USD,Math,6,74,Black/African American,12,41.67
+2025,Palo Alto USD,Math,6,76,Asian,330,93.64
+2025,Palo Alto USD,Math,6,77,Filipino,4,
+2025,Palo Alto USD,Math,6,78,Hispanic/Latino,110,35.45
+2025,Palo Alto USD,Math,6,79,Pacific Islander,7,
+2025,Palo Alto USD,Math,6,80,White,170,79.41
+2025,Palo Alto USD,Math,6,99,Non-SWD,642,84.11
+2025,Palo Alto USD,Math,6,111,Not Econ Disadv,603,84.91
+2025,Palo Alto USD,Math,6,128,SWD,76,28.95
+2025,Palo Alto USD,Math,6,144,Two or More Races,85,81.18
+2025,Palo Alto USD,Math,6,160,English Learner,49,26.53
+2025,Palo Alto USD,Math,6,180,English Only,407,83.05
+2025,Palo Alto USD,Math,7,1,All Students,769,80.88
+2025,Palo Alto USD,Math,7,3,Female,413,83.05
+2025,Palo Alto USD,Math,7,4,Male,356,78.37
+2025,Palo Alto USD,Math,7,31,Econ Disadvantaged,110,50.0
+2025,Palo Alto USD,Math,7,74,Black/African American,8,
+2025,Palo Alto USD,Math,7,75,American Indian,,
+2025,Palo Alto USD,Math,7,76,Asian,343,97.08
+2025,Palo Alto USD,Math,7,77,Filipino,9,
+2025,Palo Alto USD,Math,7,78,Hispanic/Latino,126,39.68
+2025,Palo Alto USD,Math,7,79,Pacific Islander,12,16.67
+2025,Palo Alto USD,Math,7,80,White,190,84.21
+2025,Palo Alto USD,Math,7,99,Non-SWD,708,85.73
+2025,Palo Alto USD,Math,7,111,Not Econ Disadv,659,86.04
+2025,Palo Alto USD,Math,7,128,SWD,61,24.59
+2025,Palo Alto USD,Math,7,144,Two or More Races,80,83.75
+2025,Palo Alto USD,Math,7,160,English Learner,41,31.71
+2025,Palo Alto USD,Math,7,180,English Only,417,82.97
+2025,Milpitas USD,ELA,3,1,All Students,750,64.93
+2025,Milpitas USD,ELA,3,3,Female,381,58.53
+2025,Milpitas USD,ELA,3,4,Male,369,71.54
+2025,Milpitas USD,ELA,3,31,Econ Disadvantaged,280,45.71
+2025,Milpitas USD,ELA,3,74,Black/African American,15,26.67
+2025,Milpitas USD,ELA,3,75,American Indian,5,
+2025,Milpitas USD,ELA,3,76,Asian,429,77.86
+2025,Milpitas USD,ELA,3,77,Filipino,89,58.43
+2025,Milpitas USD,ELA,3,78,Hispanic/Latino,140,32.14
+2025,Milpitas USD,ELA,3,79,Pacific Islander,,
+2025,Milpitas USD,ELA,3,80,White,36,72.22
+2025,Milpitas USD,ELA,3,99,Non-SWD,682,69.35
+2025,Milpitas USD,ELA,3,111,Not Econ Disadv,470,76.38
+2025,Milpitas USD,ELA,3,128,SWD,68,20.59
+2025,Milpitas USD,ELA,3,144,Two or More Races,35,65.71
+2025,Milpitas USD,ELA,3,160,English Learner,191,36.65
+2025,Milpitas USD,ELA,3,180,English Only,341,67.74
+2025,Milpitas USD,ELA,4,1,All Students,785,66.84
+2025,Milpitas USD,ELA,4,3,Female,409,62.99
+2025,Milpitas USD,ELA,4,4,Male,376,71.01
+2025,Milpitas USD,ELA,4,31,Econ Disadvantaged,289,43.75
+2025,Milpitas USD,ELA,4,74,Black/African American,11,36.36
+2025,Milpitas USD,ELA,4,76,Asian,445,79.55
+2025,Milpitas USD,ELA,4,77,Filipino,80,62.5
+2025,Milpitas USD,ELA,4,78,Hispanic/Latino,157,35.67
+2025,Milpitas USD,ELA,4,79,Pacific Islander,,
+2025,Milpitas USD,ELA,4,80,White,35,71.43
+2025,Milpitas USD,ELA,4,99,Non-SWD,716,71.65
+2025,Milpitas USD,ELA,4,111,Not Econ Disadv,496,80.24
+2025,Milpitas USD,ELA,4,128,SWD,69,16.18
+2025,Milpitas USD,ELA,4,144,Two or More Races,55,62.96
+2025,Milpitas USD,ELA,4,160,English Learner,157,19.75
+2025,Milpitas USD,ELA,4,180,English Only,349,68.1
+2025,Milpitas USD,ELA,5,1,All Students,787,69.59
+2025,Milpitas USD,ELA,5,3,Female,405,65.84
+2025,Milpitas USD,ELA,5,4,Male,382,73.56
+2025,Milpitas USD,ELA,5,31,Econ Disadvantaged,314,53.18
+2025,Milpitas USD,ELA,5,74,Black/African American,14,35.71
+2025,Milpitas USD,ELA,5,75,American Indian,,
+2025,Milpitas USD,ELA,5,76,Asian,455,84.14
+2025,Milpitas USD,ELA,5,77,Filipino,85,76.47
+2025,Milpitas USD,ELA,5,78,Hispanic/Latino,144,27.08
+2025,Milpitas USD,ELA,5,79,Pacific Islander,6,
+2025,Milpitas USD,ELA,5,80,White,24,70.83
+2025,Milpitas USD,ELA,5,99,Non-SWD,706,74.75
+2025,Milpitas USD,ELA,5,111,Not Econ Disadv,473,80.51
+2025,Milpitas USD,ELA,5,128,SWD,81,24.69
+2025,Milpitas USD,ELA,5,144,Two or More Races,58,62.07
+2025,Milpitas USD,ELA,5,160,English Learner,127,23.81
+2025,Milpitas USD,ELA,5,180,English Only,342,68.42
+2025,Milpitas USD,ELA,6,1,All Students,788,72.68
+2025,Milpitas USD,ELA,6,3,Female,422,71.26
+2025,Milpitas USD,ELA,6,4,Male,366,74.32
+2025,Milpitas USD,ELA,6,31,Econ Disadvantaged,307,51.63
+2025,Milpitas USD,ELA,6,74,Black/African American,8,
+2025,Milpitas USD,ELA,6,75,American Indian,,
+2025,Milpitas USD,ELA,6,76,Asian,456,85.96
+2025,Milpitas USD,ELA,6,77,Filipino,92,70.65
+2025,Milpitas USD,ELA,6,78,Hispanic/Latino,158,36.94
+2025,Milpitas USD,ELA,6,79,Pacific Islander,,
+2025,Milpitas USD,ELA,6,80,White,25,72.0
+2025,Milpitas USD,ELA,6,99,Non-SWD,718,77.58
+2025,Milpitas USD,ELA,6,111,Not Econ Disadv,481,86.07
+2025,Milpitas USD,ELA,6,128,SWD,70,21.74
+2025,Milpitas USD,ELA,6,144,Two or More Races,44,75.0
+2025,Milpitas USD,ELA,6,160,English Learner,114,15.79
+2025,Milpitas USD,ELA,6,180,English Only,344,77.26
+2025,Milpitas USD,ELA,7,1,All Students,744,75.81
+2025,Milpitas USD,ELA,7,3,Female,396,70.96
+2025,Milpitas USD,ELA,7,4,Male,348,81.32
+2025,Milpitas USD,ELA,7,31,Econ Disadvantaged,297,59.26
+2025,Milpitas USD,ELA,7,74,Black/African American,16,50.0
+2025,Milpitas USD,ELA,7,76,Asian,408,89.71
+2025,Milpitas USD,ELA,7,77,Filipino,97,71.13
+2025,Milpitas USD,ELA,7,78,Hispanic/Latino,135,40.0
+2025,Milpitas USD,ELA,7,79,Pacific Islander,4,
+2025,Milpitas USD,ELA,7,80,White,30,76.67
+2025,Milpitas USD,ELA,7,99,Non-SWD,691,80.17
+2025,Milpitas USD,ELA,7,111,Not Econ Disadv,447,86.8
+2025,Milpitas USD,ELA,7,128,SWD,53,18.87
+2025,Milpitas USD,ELA,7,144,Two or More Races,54,77.78
+2025,Milpitas USD,ELA,7,160,English Learner,87,16.09
+2025,Milpitas USD,ELA,7,180,English Only,307,72.64
+2025,Milpitas USD,Math,3,1,All Students,755,72.19
+2025,Milpitas USD,Math,3,3,Female,384,70.83
+2025,Milpitas USD,Math,3,4,Male,371,73.58
+2025,Milpitas USD,Math,3,31,Econ Disadvantaged,284,53.52
+2025,Milpitas USD,Math,3,74,Black/African American,15,40.0
+2025,Milpitas USD,Math,3,75,American Indian,5,
+2025,Milpitas USD,Math,3,76,Asian,433,86.14
+2025,Milpitas USD,Math,3,77,Filipino,90,60.0
+2025,Milpitas USD,Math,3,78,Hispanic/Latino,140,43.57
+2025,Milpitas USD,Math,3,79,Pacific Islander,,
+2025,Milpitas USD,Math,3,80,White,36,69.44
+2025,Milpitas USD,Math,3,99,Non-SWD,687,76.42
+2025,Milpitas USD,Math,3,111,Not Econ Disadv,471,83.44
+2025,Milpitas USD,Math,3,128,SWD,68,29.41
+2025,Milpitas USD,Math,3,144,Two or More Races,35,65.71
+2025,Milpitas USD,Math,3,160,English Learner,196,53.06
+2025,Milpitas USD,Math,3,180,English Only,341,72.14
+2025,Milpitas USD,Math,4,1,All Students,798,66.54
+2025,Milpitas USD,Math,4,3,Female,414,65.94
+2025,Milpitas USD,Math,4,4,Male,384,67.19
+2025,Milpitas USD,Math,4,31,Econ Disadvantaged,299,42.47
+2025,Milpitas USD,Math,4,74,Black/African American,11,45.45
+2025,Milpitas USD,Math,4,76,Asian,451,81.15
+2025,Milpitas USD,Math,4,77,Filipino,81,56.79
+2025,Milpitas USD,Math,4,78,Hispanic/Latino,163,31.29
+2025,Milpitas USD,Math,4,79,Pacific Islander,,
+2025,Milpitas USD,Math,4,80,White,35,74.29
+2025,Milpitas USD,Math,4,99,Non-SWD,729,71.06
+2025,Milpitas USD,Math,4,111,Not Econ Disadv,499,80.96
+2025,Milpitas USD,Math,4,128,SWD,69,18.84
+2025,Milpitas USD,Math,4,144,Two or More Races,55,65.45
+2025,Milpitas USD,Math,4,160,English Learner,169,27.22
+2025,Milpitas USD,Math,4,180,English Only,349,67.62
+2025,Milpitas USD,Math,5,1,All Students,797,61.61
+2025,Milpitas USD,Math,5,3,Female,408,63.97
+2025,Milpitas USD,Math,5,4,Male,389,59.13
+2025,Milpitas USD,Math,5,31,Econ Disadvantaged,320,40.94
+2025,Milpitas USD,Math,5,74,Black/African American,14,42.86
+2025,Milpitas USD,Math,5,75,American Indian,,
+2025,Milpitas USD,Math,5,76,Asian,460,79.78
+2025,Milpitas USD,Math,5,77,Filipino,85,62.35
+2025,Milpitas USD,Math,5,78,Hispanic/Latino,149,15.44
+2025,Milpitas USD,Math,5,79,Pacific Islander,6,
+2025,Milpitas USD,Math,5,80,White,24,54.17
+2025,Milpitas USD,Math,5,99,Non-SWD,716,66.2
+2025,Milpitas USD,Math,5,111,Not Econ Disadv,477,75.47
+2025,Milpitas USD,Math,5,128,SWD,81,20.99
+2025,Milpitas USD,Math,5,144,Two or More Races,58,46.55
+2025,Milpitas USD,Math,5,160,English Learner,137,20.44
+2025,Milpitas USD,Math,5,180,English Only,342,57.31
+2025,Milpitas USD,Math,6,1,All Students,791,64.1
+2025,Milpitas USD,Math,6,3,Female,423,66.19
+2025,Milpitas USD,Math,6,4,Male,368,61.68
+2025,Milpitas USD,Math,6,31,Econ Disadvantaged,308,40.26
+2025,Milpitas USD,Math,6,74,Black/African American,8,
+2025,Milpitas USD,Math,6,75,American Indian,,
+2025,Milpitas USD,Math,6,76,Asian,457,83.15
+2025,Milpitas USD,Math,6,77,Filipino,93,49.46
+2025,Milpitas USD,Math,6,78,Hispanic/Latino,160,18.75
+2025,Milpitas USD,Math,6,79,Pacific Islander,,
+2025,Milpitas USD,Math,6,80,White,25,72.0
+2025,Milpitas USD,Math,6,99,Non-SWD,722,68.56
+2025,Milpitas USD,Math,6,111,Not Econ Disadv,483,79.3
+2025,Milpitas USD,Math,6,128,SWD,69,17.39
+2025,Milpitas USD,Math,6,144,Two or More Races,43,65.12
+2025,Milpitas USD,Math,6,160,English Learner,118,16.1
+2025,Milpitas USD,Math,6,180,English Only,343,64.72
+2025,Milpitas USD,Math,7,1,All Students,750,64.67
+2025,Milpitas USD,Math,7,3,Female,400,63.5
+2025,Milpitas USD,Math,7,4,Male,350,66.0
+2025,Milpitas USD,Math,7,31,Econ Disadvantaged,303,42.57
+2025,Milpitas USD,Math,7,74,Black/African American,16,31.25
+2025,Milpitas USD,Math,7,76,Asian,413,84.26
+2025,Milpitas USD,Math,7,77,Filipino,97,56.7
+2025,Milpitas USD,Math,7,78,Hispanic/Latino,136,16.91
+2025,Milpitas USD,Math,7,79,Pacific Islander,4,
+2025,Milpitas USD,Math,7,80,White,30,66.67
+2025,Milpitas USD,Math,7,99,Non-SWD,697,68.44
+2025,Milpitas USD,Math,7,111,Not Econ Disadv,447,79.64
+2025,Milpitas USD,Math,7,128,SWD,53,15.09
+2025,Milpitas USD,Math,7,144,Two or More Races,54,61.11
+2025,Milpitas USD,Math,7,160,English Learner,93,10.75
+2025,Milpitas USD,Math,7,180,English Only,307,57.0
