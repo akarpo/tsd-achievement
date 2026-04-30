@@ -2,7 +2,7 @@
 
 Multi-state grade-level achievement comparison for eight high-performing suburban districts in five states, with full demographic disaggregation (race, special education, English learner, economic disadvantage, gender) for Math and ELA.
 
-**Live dashboard:** https://akarpo.github.io/Achievement/
+**Live dashboard:** https://tsd-achievement.karpowitsch.org
 
 ## What's here
 
